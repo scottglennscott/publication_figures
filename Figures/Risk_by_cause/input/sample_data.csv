@@ -1,0 +1,320 @@
+measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,rei_id,rei_name,metric_id,metric_name,year,val,upper,lower
+1,Deaths,1,Global,3,Both,22,All ages,688,Transport injuries,169,All risk factors,1,Number,2021,429312.9577413968,463187.1228896855,395953.695186406
+1,Deaths,1,Global,3,Both,22,All ages,688,Transport injuries,202,Environmental/occupational risks,1,Number,2021,287415.2152590186,312399.1430914407,264401.21439649025
+1,Deaths,1,Global,3,Both,22,All ages,688,Transport injuries,203,Behavioral risks,1,Number,2021,57559.19621853525,88587.16936472467,32003.49118165109
+1,Deaths,1,Global,3,Both,22,All ages,526,Digestive diseases,98,Tobacco,1,Number,2021,34060.88281922937,46548.175167318346,23821.04037582493
+1,Deaths,1,Global,3,Both,22,All ages,526,Digestive diseases,99,Smoking,1,Number,2021,34060.88281922938,46548.175167318346,23821.04037582493
+1,Deaths,1,Global,3,Both,22,All ages,526,Digestive diseases,104,Metabolic risks,1,Number,2021,46715.83225962131,79843.54792533995,10268.37926531844
+1,Deaths,1,Global,3,Both,22,All ages,688,Transport injuries,331,Non-optimal temperature,1,Number,2021,-4051.9392572205898,17875.530237754923,-26627.665259437985
+1,Deaths,1,Global,3,Both,22,All ages,955,HIV/AIDS and sexually transmitted infections,103,Drug use,1,Number,2021,67472.83685899635,81382.47635000035,56923.34663094279
+1,Deaths,1,Global,3,Both,22,All ages,717,Self-harm and interpersonal violence,103,Drug use,1,Number,2021,13825.997660761692,30594.0076297478,3543.369616607617
+1,Deaths,1,Global,3,Both,22,All ages,955,HIV/AIDS and sexually transmitted infections,170,Unsafe sex,1,Number,2021,604054.735569242,656742.4003536489,563540.6035664193
+1,Deaths,1,Global,3,Both,22,All ages,717,Self-harm and interpersonal violence,102,Alcohol use,1,Number,2021,102385.44396843865,148195.43961476276,62745.62051987543
+1,Deaths,1,Global,3,Both,22,All ages,526,Digestive diseases,103,Drug use,1,Number,2021,177279.0212862786,218698.54591017496,137545.01152313032
+1,Deaths,1,Global,3,Both,22,All ages,688,Transport injuries,337,High temperature,1,Number,2021,28542.66592496354,46245.77226537317,9158.412614537545
+1,Deaths,1,Global,3,Both,22,All ages,526,Digestive diseases,102,Alcohol use,1,Number,2021,559667.0621282737,660493.8076934046,465426.5491608856
+1,Deaths,1,Global,3,Both,22,All ages,526,Digestive diseases,108,High body-mass index,1,Number,2021,46715.83225962131,79843.54792533995,10268.37926531844
+1,Deaths,1,Global,3,Both,22,All ages,526,Digestive diseases,203,Behavioral risks,1,Number,2021,724778.8864010426,819818.5182255805,633599.4783033396
+1,Deaths,1,Global,3,Both,22,All ages,717,Self-harm and interpersonal violence,98,Tobacco,1,Number,2021,287.65255555742624,353.0121041700363,221.26656887055623
+1,Deaths,1,Global,3,Both,22,All ages,717,Self-harm and interpersonal violence,203,Behavioral risks,1,Number,2021,137866.41907864256,180794.6111939345,97416.22131628412
+1,Deaths,1,Global,3,Both,22,All ages,717,Self-harm and interpersonal violence,99,Smoking,1,Number,2021,287.6525555574263,353.01210417003625,221.26656887055623
+1,Deaths,1,Global,3,Both,22,All ages,955,HIV/AIDS and sexually transmitted infections,135,Intimate partner violence,1,Number,2021,37293.91823772659,52465.14414671272,22164.61289774029
+1,Deaths,1,Global,3,Both,22,All ages,956,Respiratory infections and tuberculosis,82,"Unsafe water, sanitation, and handwashing",1,Number,2021,220873.8551067106,571471.4798630995,-155055.70183288585
+1,Deaths,1,Global,3,Both,22,All ages,956,Respiratory infections and tuberculosis,98,Tobacco,1,Number,2021,491028.0085904939,656440.0185134385,320398.3387740081
+1,Deaths,1,Global,3,Both,22,All ages,717,Self-harm and interpersonal violence,337,High temperature,1,Number,2021,24972.454522514287,41748.40039542937,7477.297964692959
+1,Deaths,1,Global,3,Both,22,All ages,717,Self-harm and interpersonal violence,104,Metabolic risks,1,Number,2021,4986.751634692006,5424.21782492799,4311.432247705574
+1,Deaths,1,Global,3,Both,22,All ages,526,Digestive diseases,169,All risk factors,1,Number,2021,769849.0852022775,873207.7903164211,671295.0640717058
+1,Deaths,1,Global,3,Both,22,All ages,717,Self-harm and interpersonal violence,202,Environmental/occupational risks,1,Number,2021,-21387.65665390978,-4367.767333693864,-32707.70622636917
+1,Deaths,1,Global,3,Both,22,All ages,344,Neglected tropical diseases and malaria,92,Child and maternal malnutrition,1,Number,2021,109697.48642134004,353464.7817779258,-74808.12629164898
+1,Deaths,1,Global,3,Both,22,All ages,508,Chronic respiratory diseases,88,Ambient ozone pollution,1,Number,2021,489518.84493722377,836979.3125884501,107204.20686551658
+1,Deaths,1,Global,3,Both,22,All ages,955,HIV/AIDS and sexually transmitted infections,169,All risk factors,1,Number,2021,630499.4818094362,688040.1254308426,589265.903930536
+1,Deaths,1,Global,3,Both,22,All ages,688,Transport injuries,338,Low temperature,1,Number,2021,-33246.556702435024,-27073.5252233322,-38580.47413830996
+1,Deaths,1,Global,3,Both,22,All ages,956,Respiratory infections and tuberculosis,86,Ambient particulate matter pollution,1,Number,2021,290581.22145349137,512773.655837102,44192.28349618552
+1,Deaths,1,Global,3,Both,22,All ages,717,Self-harm and interpersonal violence,109,Low bone mineral density,1,Number,2021,4986.751634692006,5424.21782492799,4311.432247705574
+1,Deaths,1,Global,3,Both,22,All ages,508,Chronic respiratory diseases,104,Metabolic risks,1,Number,2021,62363.198606779,100543.22159000748,26317.272436003164
+1,Deaths,1,Global,3,Both,22,All ages,542,Neurological disorders,99,Smoking,1,Number,2021,38979.78781728793,158553.13973516057,-13051.476695602676
+1,Deaths,1,Global,3,Both,22,All ages,508,Chronic respiratory diseases,86,Ambient particulate matter pollution,1,Number,2021,841465.5603438037,1036867.1105185632,610674.961794805
+1,Deaths,1,Global,3,Both,22,All ages,508,Chronic respiratory diseases,85,Air pollution,1,Number,2021,1782072.4499860925,2167703.680700425,1422977.338291467
+1,Deaths,1,Global,3,Both,22,All ages,956,Respiratory infections and tuberculosis,104,Metabolic risks,1,Number,2021,147222.6008807713,195819.47039999568,106967.98379968354
+1,Deaths,1,Global,3,Both,22,All ages,717,Self-harm and interpersonal violence,169,All risk factors,1,Number,2021,124178.13685497492,170212.7248444968,81531.74810844108
+1,Deaths,1,Global,3,Both,22,All ages,956,Respiratory infections and tuberculosis,94,Child underweight,1,Number,2021,207958.4694108137,350750.0942704906,8091.988350880651
+1,Deaths,1,Global,3,Both,22,All ages,542,Neurological disorders,108,High body-mass index,1,Number,2021,139439.2283954513,580290.3914536722,-21837.605286993752
+1,Deaths,1,Global,3,Both,22,All ages,508,Chronic respiratory diseases,99,Smoking,1,Number,2021,1370258.745349493,1667402.8361804192,1056307.68514587
+1,Deaths,1,Global,3,Both,22,All ages,717,Self-harm and interpersonal violence,135,Intimate partner violence,1,Number,2021,23982.941466894827,32700.72913000555,17547.911357767385
+1,Deaths,1,Global,3,Both,22,All ages,956,Respiratory infections and tuberculosis,111,Diet low in fruits,1,Number,2021,5090.242241431879,9875.954491365304,680.3929628586685
+1,Deaths,1,Global,3,Both,22,All ages,508,Chronic respiratory diseases,98,Tobacco,1,Number,2021,1545686.0800061806,1942541.1938599804,1144476.3945216227
+1,Deaths,1,Global,3,Both,22,All ages,956,Respiratory infections and tuberculosis,117,Diet high in processed meat,1,Number,2021,2361.7899539135087,4103.821016037384,570.6771359604052
+1,Deaths,1,Global,3,Both,22,All ages,344,Neglected tropical diseases and malaria,241,Child stunting,1,Number,2021,50694.08354333159,229373.9772949511,-24846.129774100285
+1,Deaths,1,Global,3,Both,22,All ages,508,Chronic respiratory diseases,161,Occupational exposure to silica,1,Number,2021,10220.66178541108,12192.383886568838,8210.17876707325
+1,Deaths,1,Global,3,Both,22,All ages,508,Chronic respiratory diseases,87,Household air pollution from solid fuels,1,Number,2021,693603.7539748799,1180015.3926084132,412268.3946099937
+1,Deaths,1,Global,3,Both,22,All ages,955,HIV/AIDS and sexually transmitted infections,203,Behavioral risks,1,Number,2021,630499.4818094362,688040.1254308426,589265.903930536
+1,Deaths,1,Global,3,Both,22,All ages,956,Respiratory infections and tuberculosis,102,Alcohol use,1,Number,2021,134942.47821952807,500992.41939856,-86397.97376027991
+1,Deaths,1,Global,3,Both,22,All ages,508,Chronic respiratory diseases,126,Occupational risks,1,Number,2021,634312.9123483779,768552.7720771644,521442.3953273696
+1,Deaths,1,Global,3,Both,22,All ages,508,Chronic respiratory diseases,129,"Occupational particulate matter, gases, and fumes",1,Number,2021,590226.361856306,720314.4236408552,474965.1224968785
+1,Deaths,1,Global,3,Both,22,All ages,956,Respiratory infections and tuberculosis,87,Household air pollution from solid fuels,1,Number,2021,360603.0544469643,648315.6507056736,81420.54196889023
+1,Deaths,1,Global,3,Both,22,All ages,956,Respiratory infections and tuberculosis,169,All risk factors,1,Number,2021,1678849.141616581,2079001.3989204648,1272022.9046797506
+1,Deaths,1,Global,3,Both,22,All ages,717,Self-harm and interpersonal violence,338,Low temperature,1,Number,2021,-47125.193049147805,-39030.785478218255,-57032.74425864297
+1,Deaths,1,Global,3,Both,22,All ages,344,Neglected tropical diseases and malaria,94,Child underweight,1,Number,2021,80123.2695611959,250186.7179446812,-48111.23391614904
+1,Deaths,1,Global,3,Both,22,All ages,956,Respiratory infections and tuberculosis,110,Dietary risks,1,Number,2021,17082.970561826383,30908.319219783843,3641.572083286501
+1,Deaths,1,Global,3,Both,22,All ages,542,Neurological disorders,102,Alcohol use,1,Number,2021,12066.782522852956,15695.527563585696,8599.452990232146
+1,Deaths,1,Global,3,Both,22,All ages,508,Chronic respiratory diseases,108,High body-mass index,1,Number,2021,62363.198606779,100543.22159000748,26317.272436003164
+1,Deaths,1,Global,3,Both,22,All ages,508,Chronic respiratory diseases,128,Occupational asthmagens,1,Number,2021,30546.383231274023,43990.993545246565,24721.83548078015
+1,Deaths,1,Global,3,Both,22,All ages,491,Cardiovascular diseases,87,Household air pollution from solid fuels,1,Number,2021,1521318.0950196,2685934.991771741,850724.6599626944
+1,Deaths,1,Global,3,Both,22,All ages,956,Respiratory infections and tuberculosis,238,No access to handwashing facility,1,Number,2021,220873.85510671063,571471.4798630995,-155055.70183288585
+1,Deaths,1,Global,3,Both,22,All ages,542,Neurological disorders,98,Tobacco,1,Number,2021,38979.78781728793,158553.13973516057,-13051.47669560268
+1,Deaths,1,Global,3,Both,22,All ages,508,Chronic respiratory diseases,100,Secondhand smoke,1,Number,2021,266124.70402828115,434215.0170995025,106054.26936268188
+1,Deaths,1,Global,3,Both,22,All ages,717,Self-harm and interpersonal violence,331,Non-optimal temperature,1,Number,2021,-21387.65665390978,-4367.767333693864,-32707.70622636917
+1,Deaths,1,Global,3,Both,22,All ages,344,Neglected tropical diseases and malaria,169,All risk factors,1,Number,2021,109697.48642134004,353464.7817779258,-74808.12629164898
+1,Deaths,1,Global,3,Both,22,All ages,344,Neglected tropical diseases and malaria,203,Behavioral risks,1,Number,2021,109697.48642134004,353464.7817779258,-74808.12629164898
+1,Deaths,1,Global,3,Both,22,All ages,956,Respiratory infections and tuberculosis,99,Smoking,1,Number,2021,352662.70257774525,427150.4855639131,277329.2253802412
+1,Deaths,1,Global,3,Both,22,All ages,956,Respiratory infections and tuberculosis,116,Diet high in red meat,1,Number,2021,1854.294634932373,4078.298934904239,-3.87932085957e-05
+1,Deaths,1,Global,3,Both,22,All ages,491,Cardiovascular diseases,89,Other environmental risks,1,Number,2021,1476238.2829473116,3080397.865028921,-175721.88935712917
+1,Deaths,1,Global,3,Both,22,All ages,491,Cardiovascular diseases,99,Smoking,1,Number,2021,2247325.3868383034,2655085.981065124,1888225.3875579285
+1,Deaths,1,Global,3,Both,22,All ages,508,Chronic respiratory diseases,331,Non-optimal temperature,1,Number,2021,335685.3284509559,455970.3614334978,239495.43349600368
+1,Deaths,1,Global,3,Both,22,All ages,508,Chronic respiratory diseases,202,Environmental/occupational risks,1,Number,2021,2280187.93367415,2646329.447201228,1972968.39844166
+1,Deaths,1,Global,3,Both,22,All ages,956,Respiratory infections and tuberculosis,331,Non-optimal temperature,1,Number,2021,198393.88236445672,277888.10703664494,124269.0866396356
+1,Deaths,1,Global,3,Both,22,All ages,956,Respiratory infections and tuberculosis,85,Air pollution,1,Number,2021,651356.3892639846,1076711.7545089296,121714.89834572838
+1,Deaths,1,Global,3,Both,22,All ages,542,Neurological disorders,169,All risk factors,1,Number,2021,437565.4557409337,1447026.8761696462,14301.208863167609
+1,Deaths,1,Global,3,Both,22,All ages,410,Neoplasms,89,Other environmental risks,1,Number,2021,82160.45865538622,210376.6379004328,-41644.70749292037
+1,Deaths,1,Global,3,Both,22,All ages,956,Respiratory infections and tuberculosis,136,Non-exclusive breastfeeding,1,Number,2021,37889.71654214325,55148.46783854576,21227.269594949103
+1,Deaths,1,Global,3,Both,22,All ages,386,Nutritional deficiencies,203,Behavioral risks,1,Number,2021,189199.6641279885,212886.4682316945,167606.5365891745
+1,Deaths,1,Global,3,Both,22,All ages,542,Neurological disorders,105,High fasting plasma glucose,1,Number,2021,290032.1943280649,916714.1835808692,11759.52418922294
+1,Deaths,1,Global,3,Both,22,All ages,344,Neglected tropical diseases and malaria,239,Child growth failure,1,Number,2021,109697.48642134004,353464.7817779258,-74808.12629164898
+1,Deaths,1,Global,3,Both,22,All ages,344,Neglected tropical diseases and malaria,240,Child wasting,1,Number,2021,-3.2206e-12,-1.0283e-12,-7.1445e-12
+1,Deaths,1,Global,3,Both,22,All ages,542,Neurological disorders,104,Metabolic risks,1,Number,2021,399824.1657681587,1345605.8960033045,3256.7941725082874
+1,Deaths,1,Global,3,Both,22,All ages,491,Cardiovascular diseases,105,High fasting plasma glucose,1,Number,2021,2212984.632099378,2525670.176755226,1911642.1043750949
+1,Deaths,1,Global,3,Both,22,All ages,491,Cardiovascular diseases,110,Dietary risks,1,Number,2021,5833851.35684104,8661541.279154424,1357128.543988512
+1,Deaths,1,Global,3,Both,22,All ages,508,Chronic respiratory diseases,169,All risk factors,1,Number,2021,2965339.3012025994,3347847.211033631,2608926.557764147
+1,Deaths,1,Global,3,Both,22,All ages,956,Respiratory infections and tuberculosis,203,Behavioral risks,1,Number,2021,1006112.6473334692,1317804.6536198475,728927.8729231093
+1,Deaths,1,Global,3,Both,22,All ages,491,Cardiovascular diseases,100,Secondhand smoke,1,Number,2021,694692.444022103,903630.5730838884,493035.82145974506
+1,Deaths,1,Global,3,Both,22,All ages,410,Neoplasms,100,Secondhand smoke,1,Number,2021,105428.93563614658,201843.0055717881,9930.127304429365
+1,Deaths,1,Global,3,Both,22,All ages,956,Respiratory infections and tuberculosis,339,Low birth weight and short gestation,1,Number,2021,113134.50774679727,133273.72436728244,94942.03671922156
+1,Deaths,1,Global,3,Both,22,All ages,491,Cardiovascular diseases,85,Air pollution,1,Number,2021,4482496.228134168,5392617.3400587365,3567564.403723072
+1,Deaths,1,Global,3,Both,22,All ages,508,Chronic respiratory diseases,127,Occupational carcinogens,1,Number,2021,13540.167260798318,15627.729497674609,11499.236429349769
+1,Deaths,1,Global,3,Both,22,All ages,956,Respiratory infections and tuberculosis,105,High fasting plasma glucose,1,Number,2021,147222.6008807713,195819.47039999568,106967.98379968354
+1,Deaths,1,Global,3,Both,22,All ages,626,Musculoskeletal disorders,169,All risk factors,1,Number,2021,2263.68421461448,2911.426853383673,1509.3627046866336
+1,Deaths,1,Global,3,Both,22,All ages,542,Neurological disorders,203,Behavioral risks,1,Number,2021,51046.57034014085,169023.8542264304,-2130.343478496452
+1,Deaths,1,Global,3,Both,22,All ages,410,Neoplasms,86,Ambient particulate matter pollution,1,Number,2021,297597.93085024576,414740.300503914,183710.517274111
+1,Deaths,1,Global,3,Both,22,All ages,956,Respiratory infections and tuberculosis,92,Child and maternal malnutrition,1,Number,2021,418902.0521073,514334.5685577638,324334.15888453566
+1,Deaths,1,Global,3,Both,22,All ages,956,Respiratory infections and tuberculosis,93,Suboptimal breastfeeding,1,Number,2021,37889.71654214325,55148.46783854577,21227.269594949103
+1,Deaths,1,Global,3,Both,22,All ages,491,Cardiovascular diseases,107,High systolic blood pressure,1,Number,2021,10376441.4346735,12032762.040943086,8784051.866637036
+1,Deaths,1,Global,3,Both,22,All ages,491,Cardiovascular diseases,111,Diet low in fruits,1,Number,2021,1408811.5017548653,2094303.690823671,605678.7686995529
+1,Deaths,1,Global,3,Both,22,All ages,956,Respiratory infections and tuberculosis,380,Particulate matter pollution,1,Number,2021,651356.3892639846,1076711.7545089296,121714.89834572838
+1,Deaths,1,Global,3,Both,22,All ages,508,Chronic respiratory diseases,338,Low temperature,1,Number,2021,300849.2936617609,365823.2837956079,242508.87253582804
+1,Deaths,1,Global,3,Both,22,All ages,508,Chronic respiratory diseases,150,Occupational exposure to asbestos,1,Number,2021,3319.5054753872328,3938.8199642241175,2692.664669956748
+1,Deaths,1,Global,3,Both,22,All ages,626,Musculoskeletal disorders,203,Behavioral risks,1,Number,2021,2263.68421461448,2911.426853383673,1509.3627046866336
+1,Deaths,1,Global,3,Both,22,All ages,410,Neoplasms,105,High fasting plasma glucose,1,Number,2021,328308.8803362829,629883.1903204368,35241.396060139625
+1,Deaths,1,Global,3,Both,22,All ages,956,Respiratory infections and tuberculosis,112,Diet low in vegetables,1,Number,2021,1350.4557152933476,2857.763608190513,-325.3453971313712
+1,Deaths,1,Global,3,Both,22,All ages,491,Cardiovascular diseases,116,Diet high in red meat,1,Number,2021,9565.781928904422,259652.23023159424,-347661.98916702555
+1,Deaths,1,Global,3,Both,22,All ages,410,Neoplasms,98,Tobacco,1,Number,2021,2110015.2446309426,2493866.1903268383,1733662.3088393926
+1,Deaths,1,Global,3,Both,22,All ages,491,Cardiovascular diseases,91,Lead exposure,1,Number,2021,1476238.2829473116,3080397.865028921,-175721.88935712917
+1,Deaths,1,Global,3,Both,22,All ages,410,Neoplasms,87,Household air pollution from solid fuels,1,Number,2021,76482.48037532094,187340.15881493865,28603.76572443228
+1,Deaths,1,Global,3,Both,22,All ages,640,Other non-communicable diseases,335,Low birth weight,1,Number,2021,2154.535269703114,3099.317809268977,1198.4090497854918
+1,Deaths,1,Global,3,Both,22,All ages,508,Chronic respiratory diseases,380,Particulate matter pollution,1,Number,2021,1535298.0076200035,1918255.8458131116,1214704.191109886
+1,Deaths,1,Global,3,Both,22,All ages,410,Neoplasms,112,Diet low in vegetables,1,Number,2021,56939.08839632682,118369.96012831676,-12023.440574672555
+1,Deaths,1,Global,3,Both,22,All ages,956,Respiratory infections and tuberculosis,100,Secondhand smoke,1,Number,2021,151949.13062847615,257239.18823469192,51671.28429857833
+1,Deaths,1,Global,3,Both,22,All ages,491,Cardiovascular diseases,86,Ambient particulate matter pollution,1,Number,2021,2960398.580156392,3701437.499458422,2111795.1559249307
+1,Deaths,1,Global,3,Both,22,All ages,956,Respiratory infections and tuberculosis,338,Low temperature,1,Number,2021,133981.45085522096,165279.1764102333,107836.72316043908
+1,Deaths,1,Global,3,Both,22,All ages,957,Enteric infections,87,Household air pollution from solid fuels,1,Number,2021,5000.033822485101,7137.278172574156,3557.1575610825944
+1,Deaths,1,Global,3,Both,22,All ages,626,Musculoskeletal disorders,99,Smoking,1,Number,2021,2263.68421461448,2911.426853383674,1509.3627046866336
+1,Deaths,1,Global,3,Both,22,All ages,491,Cardiovascular diseases,121,Diet low in seafood omega-3 fatty acids,1,Number,2021,627342.2165647924,1082744.961944421,119537.66072445062
+1,Deaths,1,Global,3,Both,22,All ages,696,Unintentional injuries,99,Smoking,1,Number,2021,13148.986383382176,16482.956805089525,9633.788058759124
+1,Deaths,1,Global,3,Both,22,All ages,410,Neoplasms,103,Drug use,1,Number,2021,65499.14931731864,83777.74817461366,50430.3483792948
+1,Deaths,1,Global,3,Both,22,All ages,508,Chronic respiratory diseases,337,High temperature,1,Number,2021,37371.600942517725,102979.33502797966,-7539.103978908238
+1,Deaths,1,Global,3,Both,22,All ages,410,Neoplasms,85,Air pollution,1,Number,2021,374212.7218621936,520255.3881962559,236358.3276626964
+1,Deaths,1,Global,3,Both,22,All ages,508,Chronic respiratory diseases,203,Behavioral risks,1,Number,2021,1545686.0800061806,1942541.1938599804,1144476.3945216227
+1,Deaths,1,Global,3,Both,22,All ages,640,Other non-communicable diseases,339,Low birth weight and short gestation,1,Number,2021,2273.7779223739158,3246.4105584233453,1262.33460718712
+1,Deaths,1,Global,3,Both,22,All ages,640,Other non-communicable diseases,380,Particulate matter pollution,1,Number,2021,708.1354665775102,1049.2141496176737,371.3470944316441
+1,Deaths,1,Global,3,Both,22,All ages,410,Neoplasms,99,Smoking,1,Number,2021,2012844.5300087896,2369033.2245195843,1682777.9391579968
+1,Deaths,1,Global,3,Both,22,All ages,491,Cardiovascular diseases,112,Diet low in vegetables,1,Number,2021,682398.9339543983,900294.8892102507,465824.2366474691
+1,Deaths,1,Global,3,Both,22,All ages,956,Respiratory infections and tuberculosis,118,Diet high in sugar-sweetened beverages,1,Number,2021,1067.91854939646,1643.5412536145232,512.375150727472
+1,Deaths,1,Global,3,Both,22,All ages,410,Neoplasms,117,Diet high in processed meat,1,Number,2021,57148.833596314296,117694.80076869314,-13411.902642450448
+1,Deaths,1,Global,3,Both,22,All ages,491,Cardiovascular diseases,102,Alcohol use,1,Number,2021,385825.0884471281,702043.4311482226,135470.10486179558
+1,Deaths,1,Global,3,Both,22,All ages,640,Other non-communicable diseases,85,Air pollution,1,Number,2021,708.1354665775102,1049.214149617674,371.3470944316441
+1,Deaths,1,Global,3,Both,22,All ages,957,Enteric infections,92,Child and maternal malnutrition,1,Number,2021,291802.2232721112,386267.6367094426,202866.34694761765
+1,Deaths,1,Global,3,Both,22,All ages,957,Enteric infections,93,Suboptimal breastfeeding,1,Number,2021,63133.43143597865,84694.65323622967,45947.41935339855
+1,Deaths,1,Global,3,Both,22,All ages,626,Musculoskeletal disorders,98,Tobacco,1,Number,2021,2263.68421461448,2911.426853383673,1509.3627046866336
+1,Deaths,1,Global,3,Both,22,All ages,491,Cardiovascular diseases,125,Low physical activity,1,Number,2021,371736.2244028535,653973.908956097,129485.08338555622
+1,Deaths,1,Global,3,Both,22,All ages,696,Unintentional injuries,126,Occupational risks,1,Number,2021,189815.3866679902,206494.2155821335,169491.26087016572
+1,Deaths,1,Global,3,Both,22,All ages,491,Cardiovascular diseases,98,Tobacco,1,Number,2021,2842004.088159084,3389066.1986623425,2340678.605375409
+1,Deaths,1,Global,3,Both,22,All ages,410,Neoplasms,90,Residential radon,1,Number,2021,82160.4586553862,210376.6379004328,-41644.70749292037
+1,Deaths,1,Global,3,Both,22,All ages,957,Enteric infections,82,"Unsafe water, sanitation, and handwashing",1,Number,2021,994491.2760924962,1375407.890365439,661885.430740523
+1,Deaths,1,Global,3,Both,22,All ages,410,Neoplasms,126,Occupational risks,1,Number,2021,328457.58363678044,398931.3559633412,259370.58234488248
+1,Deaths,1,Global,3,Both,22,All ages,696,Unintentional injuries,102,Alcohol use,1,Number,2021,35807.32553880389,66217.42362105499,14263.013088607762
+1,Deaths,1,Global,3,Both,22,All ages,491,Cardiovascular diseases,117,Diet high in processed meat,1,Number,2021,100820.07920086724,161923.66477912123,36973.35916935839
+1,Deaths,1,Global,3,Both,22,All ages,491,Cardiovascular diseases,203,Behavioral risks,1,Number,2021,8181610.236261619,10517325.179220214,4580121.639879475
+1,Deaths,1,Global,3,Both,22,All ages,410,Neoplasms,110,Dietary risks,1,Number,2021,669656.2294955201,1176736.6637307135,207110.92390210947
+1,Deaths,1,Global,3,Both,22,All ages,410,Neoplasms,102,Alcohol use,1,Number,2021,343369.5580316023,392628.5563902831,297635.57841473725
+1,Deaths,1,Global,3,Both,22,All ages,956,Respiratory infections and tuberculosis,202,Environmental/occupational risks,1,Number,2021,923846.2891922288,1322362.2102672465,444530.8406309728
+1,Deaths,1,Global,3,Both,22,All ages,410,Neoplasms,104,Metabolic risks,1,Number,2021,668893.1785701625,1171278.5436785703,179886.89658275366
+1,Deaths,1,Global,3,Both,22,All ages,956,Respiratory infections and tuberculosis,108,High body-mass index,1,Number,2021,57447.17881955776,150516.8211341544,12864.177282968609
+1,Deaths,1,Global,3,Both,22,All ages,640,Other non-communicable diseases,86,Ambient particulate matter pollution,1,Number,2021,214.72898840757009,356.9772480945465,108.11751389773669
+1,Deaths,1,Global,3,Both,22,All ages,640,Other non-communicable diseases,87,Household air pollution from solid fuels,1,Number,2021,493.2389106084824,753.323984259695,244.8357883430737
+1,Deaths,1,Global,3,Both,22,All ages,957,Enteric infections,239,Child growth failure,1,Number,2021,259279.03910359752,358195.1050174704,155943.0877689733
+1,Deaths,1,Global,3,Both,22,All ages,957,Enteric infections,240,Child wasting,1,Number,2021,178742.75342209052,327180.61218734377,-9401.990689718645
+1,Deaths,1,Global,3,Both,22,All ages,957,Enteric infections,241,Child stunting,1,Number,2021,89545.66652142588,131288.2166007508,53857.83149328256
+1,Deaths,1,Global,3,Both,22,All ages,696,Unintentional injuries,131,Occupational injuries,1,Number,2021,189815.3866679902,206494.21558213356,169491.26087016572
+1,Deaths,1,Global,3,Both,22,All ages,386,Nutritional deficiencies,92,Child and maternal malnutrition,1,Number,2021,189199.6641279885,212886.4682316945,167606.5365891745
+1,Deaths,1,Global,3,Both,22,All ages,491,Cardiovascular diseases,122,Diet low in polyunsaturated fatty acids,1,Number,2021,737879.2822094826,2767688.427353754,-2118790.298829074
+1,Deaths,1,Global,3,Both,22,All ages,491,Cardiovascular diseases,104,Metabolic risks,1,Number,2021,13594578.276085136,15134765.154733222,12010527.137840942
+1,Deaths,1,Global,3,Both,22,All ages,491,Cardiovascular diseases,108,High body-mass index,1,Number,2021,1904238.9146959672,2864241.5403871536,1072732.305320152
+1,Deaths,1,Global,3,Both,22,All ages,696,Unintentional injuries,104,Metabolic risks,1,Number,2021,334890.8749241256,383398.1880621731,273466.93654499843
+1,Deaths,1,Global,3,Both,22,All ages,410,Neoplasms,115,Diet low in milk,1,Number,2021,146610.90926112642,230009.58880128205,52323.53828494769
+1,Deaths,1,Global,3,Both,22,All ages,410,Neoplasms,111,Diet low in fruits,1,Number,2021,66045.45796868789,97033.45501725512,34005.88789258792
+1,Deaths,1,Global,3,Both,22,All ages,957,Enteric infections,85,Air pollution,1,Number,2021,6558.798663663583,9244.79467081448,4931.113832582962
+1,Deaths,1,Global,3,Both,22,All ages,957,Enteric infections,86,Ambient particulate matter pollution,1,Number,2021,1557.4995613618726,2513.9858777639342,897.2728024642195
+1,Deaths,1,Global,3,Both,22,All ages,386,Nutritional deficiencies,94,Child underweight,1,Number,2021,189199.6641279885,212886.4682316945,167606.5365891745
+1,Deaths,1,Global,3,Both,22,All ages,696,Unintentional injuries,203,Behavioral risks,1,Number,2021,48602.18549284418,79980.0739048165,26897.076778547576
+1,Deaths,1,Global,3,Both,22,All ages,696,Unintentional injuries,98,Tobacco,1,Number,2021,13148.986383382176,16482.956805089525,9633.788058759124
+1,Deaths,1,Global,3,Both,22,All ages,491,Cardiovascular diseases,333,Diet low in legumes,1,Number,2021,389328.769606269,1011097.9978858728,-313415.1812038726
+1,Deaths,1,Global,3,Both,22,All ages,491,Cardiovascular diseases,169,All risk factors,1,Number,2021,16035465.503725216,17352875.79355034,14429764.006776372
+1,Deaths,1,Global,3,Both,22,All ages,410,Neoplasms,108,High body-mass index,1,Number,2021,356738.34631707595,581011.89322934,146116.07648319815
+1,Deaths,1,Global,3,Both,22,All ages,410,Neoplasms,150,Occupational exposure to asbestos,1,Number,2021,225513.9578053177,282827.87212902145,166082.01759424497
+1,Deaths,1,Global,3,Both,22,All ages,410,Neoplasms,153,Occupational exposure to beryllium,1,Number,2021,308.3378363376288,376.81486820183375,246.7113908346542
+1,Deaths,1,Global,3,Both,22,All ages,956,Respiratory infections and tuberculosis,113,Diet low in whole grains,1,Number,2021,5539.128183803688,10136.74893846666,1327.273795351149
+1,Deaths,1,Global,3,Both,22,All ages,688,Transport injuries,98,Tobacco,1,Number,2021,9591.026271707118,11845.848452062204,7242.674808633277
+1,Deaths,1,Global,3,Both,22,All ages,696,Unintentional injuries,169,All risk factors,1,Number,2021,521825.656947995,580868.0164156342,448019.6809363878
+1,Deaths,1,Global,3,Both,22,All ages,410,Neoplasms,116,Diet high in red meat,1,Number,2021,234492.1973573072,481527.7966873635,-53.4779426257933
+1,Deaths,1,Global,3,Both,22,All ages,410,Neoplasms,124,Diet high in sodium,1,Number,2021,75661.1518548826,372194.01049360953,-0.000317840250532
+1,Deaths,1,Global,3,Both,22,All ages,957,Enteric infections,334,Short gestation,1,Number,2021,7843.59299669115,10977.174023014872,5775.439925060792
+1,Deaths,1,Global,3,Both,22,All ages,640,Other non-communicable diseases,334,Short gestation,1,Number,2021,947.0834392262428,1386.3312157761225,500.0567640160376
+1,Deaths,1,Global,3,Both,22,All ages,956,Respiratory infections and tuberculosis,239,Child growth failure,1,Number,2021,298024.43649308843,379011.6064901882,212988.71271037747
+1,Deaths,1,Global,3,Both,22,All ages,957,Enteric infections,169,All risk factors,1,Number,2021,1020721.6237527496,1408230.244672482,694979.0685184661
+1,Deaths,1,Global,3,Both,22,All ages,957,Enteric infections,238,No access to handwashing facility,1,Number,2021,225455.64770801365,425941.2380338815,30707.75941884959
+1,Deaths,1,Global,3,Both,22,All ages,640,Other non-communicable diseases,92,Child and maternal malnutrition,1,Number,2021,2273.7779223739158,3246.4105584233453,1262.33460718712
+1,Deaths,1,Global,3,Both,22,All ages,640,Other non-communicable diseases,169,All risk factors,1,Number,2021,2463.623532937279,3551.56123083288,1360.823732528616
+1,Deaths,1,Global,3,Both,22,All ages,386,Nutritional deficiencies,240,Child wasting,1,Number,2021,189199.6641279885,212886.4682316945,167606.5365891745
+1,Deaths,1,Global,3,Both,22,All ages,696,Unintentional injuries,109,Low bone mineral density,1,Number,2021,334890.8749241256,383398.1880621731,273466.93654499843
+1,Deaths,1,Global,3,Both,22,All ages,696,Unintentional injuries,337,High temperature,1,Number,2021,18993.7218602442,28659.800960422453,9682.3785798378
+1,Deaths,1,Global,3,Both,22,All ages,410,Neoplasms,113,Diet low in whole grains,1,Number,2021,186256.80006575948,284803.3657924317,76126.7287935722
+1,Deaths,1,Global,3,Both,22,All ages,386,Nutritional deficiencies,169,All risk factors,1,Number,2021,189199.6641279885,212886.4682316945,167606.5365891745
+1,Deaths,1,Global,3,Both,22,All ages,688,Transport injuries,109,Low bone mineral density,1,Number,2021,119783.33012250785,132144.40199525436,102381.62550662374
+1,Deaths,1,Global,3,Both,22,All ages,410,Neoplasms,125,Low physical activity,1,Number,2021,87440.11888531846,125810.49529644469,48636.45595007061
+1,Deaths,1,Global,3,Both,22,All ages,491,Cardiovascular diseases,113,Diet low in whole grains,1,Number,2021,1230256.7183969675,1854006.7067529573,592490.2223536765
+1,Deaths,1,Global,3,Both,22,All ages,956,Respiratory infections and tuberculosis,334,Short gestation,1,Number,2021,48511.39382633586,59082.64046039149,38305.37825369585
+1,Deaths,1,Global,3,Both,22,All ages,491,Cardiovascular diseases,341,Kidney dysfunction,1,Number,2021,2095800.416250278,2562746.3657069053,1638358.7463263986
+1,Deaths,1,Global,3,Both,22,All ages,410,Neoplasms,119,Diet low in fiber,1,Number,2021,13144.845187988092,20265.09595502226,5761.652155034155
+1,Deaths,1,Global,3,Both,22,All ages,956,Respiratory infections and tuberculosis,125,Low physical activity,1,Number,2021,8310.110143240587,14916.379536635037,2706.4077228763017
+1,Deaths,1,Global,3,Both,22,All ages,410,Neoplasms,158,Occupational exposure to formaldehyde,1,Number,2021,1227.583184799459,1544.8412680630197,967.6255036657748
+1,Deaths,1,Global,3,Both,22,All ages,640,Other non-communicable diseases,202,Environmental/occupational risks,1,Number,2021,708.1354665775102,1049.214149617674,371.3470944316441
+1,Deaths,1,Global,3,Both,22,All ages,640,Other non-communicable diseases,203,Behavioral risks,1,Number,2021,2273.7779223739158,3246.4105584233453,1262.33460718712
+1,Deaths,1,Global,3,Both,22,All ages,956,Respiratory infections and tuberculosis,335,Low birth weight,1,Number,2021,103452.85902299546,122704.3788378074,86882.3294113272
+1,Deaths,1,Global,3,Both,22,All ages,386,Nutritional deficiencies,239,Child growth failure,1,Number,2021,189199.6641279885,212886.4682316945,167606.5365891745
+1,Deaths,1,Global,3,Both,22,All ages,410,Neoplasms,127,Occupational carcinogens,1,Number,2021,328457.58363678044,398931.3559633412,259370.58234488248
+1,Deaths,1,Global,3,Both,22,All ages,696,Unintentional injuries,331,Non-optimal temperature,1,Number,2021,-29241.707448676418,-12356.323612319786,-43180.2920116567
+1,Deaths,1,Global,3,Both,22,All ages,696,Unintentional injuries,338,Low temperature,1,Number,2021,-49647.60899434471,-41755.97287452667,-56733.10397227021
+1,Deaths,1,Global,3,Both,22,All ages,961,Other infectious diseases,239,Child growth failure,1,Number,2021,31998.64547365804,52563.24288568235,15680.110242743076
+1,Deaths,1,Global,3,Both,22,All ages,961,Other infectious diseases,240,Child wasting,1,Number,2021,12144.917307165484,25147.022690734306,4482.45771492065
+1,Deaths,1,Global,3,Both,22,All ages,696,Unintentional injuries,202,Environmental/occupational risks,1,Number,2021,164508.21365101237,187135.3689553195,143049.2627019182
+1,Deaths,1,Global,3,Both,22,All ages,491,Cardiovascular diseases,337,High temperature,1,Number,2021,206278.63466607383,380181.9763502152,91932.88701507228
+1,Deaths,1,Global,3,Both,22,All ages,491,Cardiovascular diseases,118,Diet high in sugar-sweetened beverages,1,Number,2021,13977.3252327706,25809.96734652682,1893.147792320748
+1,Deaths,1,Global,3,Both,22,All ages,410,Neoplasms,147,Diet low in calcium,1,Number,2021,83863.99162613232,102766.06257429474,64825.52827674325
+1,Deaths,1,Global,3,Both,22,All ages,957,Enteric infections,380,Particulate matter pollution,1,Number,2021,6558.798663663583,9244.79467081448,4931.1138325829625
+1,Deaths,1,Global,3,Both,22,All ages,410,Neoplasms,152,Occupational exposure to benzene,1,Number,2021,1865.3111679026583,3082.760984059759,541.1245403843105
+1,Deaths,1,Global,3,Both,22,All ages,410,Neoplasms,155,Occupational exposure to chromium,1,Number,2021,1751.6999524791304,2074.758288571646,1448.1603715666542
+1,Deaths,1,Global,3,Both,22,All ages,961,Other infectious diseases,334,Short gestation,1,Number,2021,4180.200553711584,5642.051580158704,3186.950082918313
+1,Deaths,1,Global,3,Both,22,All ages,491,Cardiovascular diseases,367,High LDL cholesterol,1,Number,2021,3646004.200525235,5262170.273146296,2129327.023195977
+1,Deaths,1,Global,3,Both,22,All ages,491,Cardiovascular diseases,380,Particulate matter pollution,1,Number,2021,4482496.228134168,5392617.3400587365,3567564.403723072
+1,Deaths,1,Global,3,Both,22,All ages,410,Neoplasms,151,Occupational exposure to arsenic,1,Number,2021,10527.132641087772,18505.403649112664,2017.3725932516904
+1,Deaths,1,Global,3,Both,22,All ages,410,Neoplasms,154,Occupational exposure to cadmium,1,Number,2021,808.9139689345052,1007.397440635616,631.4336673444611
+1,Deaths,1,Global,3,Both,22,All ages,491,Cardiovascular diseases,114,Diet low in nuts and seeds,1,Number,2021,658246.8274573091,1086133.7150260753,184906.1460388229
+1,Deaths,1,Global,3,Both,22,All ages,491,Cardiovascular diseases,123,Diet high in trans fatty acids,1,Number,2021,93310.70149850436,179613.6842150783,9229.382951290849
+1,Deaths,1,Global,3,Both,22,All ages,961,Other infectious diseases,103,Drug use,1,Number,2021,2037.048693280724,3425.834726254406,945.87274979698
+1,Deaths,1,Global,3,Both,22,All ages,410,Neoplasms,156,Occupational exposure to diesel engine exhaust,1,Number,2021,21619.9036473816,25544.344173095407,18060.675130182382
+1,Deaths,1,Global,3,Both,22,All ages,410,Neoplasms,160,Occupational exposure to polycyclic aromatic hydrocarbons,1,Number,2021,6059.828002679816,7359.337424676531,4970.864906935776
+1,Deaths,1,Global,3,Both,22,All ages,410,Neoplasms,169,All risk factors,1,Number,2021,4062858.5462829145,4749372.314769872,3455024.6709539285
+1,Deaths,1,Global,3,Both,22,All ages,957,Enteric infections,83,Unsafe water source,1,Number,2021,802486.1661366624,1215503.4828810152,371672.7440875923
+1,Deaths,1,Global,3,Both,22,All ages,956,Respiratory infections and tuberculosis,240,Child wasting,1,Number,2021,113901.71730979162,162099.23565853573,70804.39097122283
+1,Deaths,1,Global,3,Both,22,All ages,962,Maternal and neonatal disorders,85,Air pollution,1,Number,2021,496966.0498710416,580880.2122533026,419486.3851178832
+1,Deaths,1,Global,3,Both,22,All ages,962,Maternal and neonatal disorders,203,Behavioral risks,1,Number,2021,1516959.8165274663,1759545.5378625323,1315575.0263206318
+1,Deaths,1,Global,3,Both,22,All ages,688,Transport injuries,99,Smoking,1,Number,2021,9591.02627170712,11845.848452062204,7242.674808633277
+1,Deaths,1,Global,3,Both,22,All ages,961,Other infectious diseases,203,Behavioral risks,1,Number,2021,46143.41487332832,66383.36323413115,29262.877145140017
+1,Deaths,1,Global,3,Both,22,All ages,410,Neoplasms,159,Occupational exposure to nickel,1,Number,2021,9851.998015889189,25620.823007793733,774.5173868774923
+1,Deaths,1,Global,3,Both,22,All ages,410,Neoplasms,162,Occupational exposure to sulfuric acid,1,Number,2021,3612.346424131052,6492.287326222138,1504.306883793497
+1,Deaths,1,Global,3,Both,22,All ages,491,Cardiovascular diseases,119,Diet low in fiber,1,Number,2021,588341.3322743052,948425.8254762812,206513.08799603488
+1,Deaths,1,Global,3,Both,22,All ages,957,Enteric infections,94,Child underweight,1,Number,2021,129466.8432650024,196253.13196505836,80077.25477307584
+1,Deaths,1,Global,3,Both,22,All ages,956,Respiratory infections and tuberculosis,241,Child stunting,1,Number,2021,154906.96415321695,206758.42263618685,104937.01468083385
+1,Deaths,1,Global,3,Both,22,All ages,962,Maternal and neonatal disorders,339,Low birth weight and short gestation,1,Number,2021,1482668.0377122962,1717341.3373440192,1278024.8430252085
+1,Deaths,1,Global,3,Both,22,All ages,688,Transport injuries,102,Alcohol use,1,Number,2021,48284.22051380177,79389.4439013596,23708.983090407757
+1,Deaths,1,Global,3,Both,22,All ages,410,Neoplasms,237,Occupational exposure to trichloroethylene,1,Number,2021,79.3426752237212,145.57447354356742,17.441118032307187
+1,Deaths,1,Global,3,Both,22,All ages,410,Neoplasms,161,Occupational exposure to silica,1,Number,2021,53955.829266689245,85329.68072494009,23527.40201357152
+1,Deaths,1,Global,3,Both,22,All ages,410,Neoplasms,170,Unsafe sex,1,Number,2021,296597.3198558191,321144.5369372659,271680.6251922954
+1,Deaths,1,Global,3,Both,22,All ages,957,Enteric infections,96,Vitamin A deficiency,1,Number,2021,11151.784157662927,55434.144184273966,-43089.27334907399
+1,Deaths,1,Global,3,Both,22,All ages,957,Enteric infections,202,Environmental/occupational risks,1,Number,2021,995108.6645372222,1376286.9155806587,662850.6369835786
+1,Deaths,1,Global,3,Both,22,All ages,688,Transport injuries,126,Occupational risks,1,Number,2021,290793.9530989561,310564.81621319987,271262.23573599063
+1,Deaths,1,Global,3,Both,22,All ages,688,Transport injuries,131,Occupational injuries,1,Number,2021,290793.9530989561,310564.81621319987,271262.23573599063
+1,Deaths,1,Global,3,Both,22,All ages,688,Transport injuries,104,Metabolic risks,1,Number,2021,119783.33012250785,132144.40199525436,102381.62550662374
+1,Deaths,1,Global,3,Both,22,All ages,961,Other infectious diseases,380,Particulate matter pollution,1,Number,2021,3715.746482712309,4849.188193425603,2867.219941273668
+1,Deaths,1,Global,3,Both,22,All ages,410,Neoplasms,203,Behavioral risks,1,Number,2021,3301739.58686658,3890165.1686018864,2766463.3812144976
+1,Deaths,1,Global,3,Both,22,All ages,491,Cardiovascular diseases,124,Diet high in sodium,1,Number,2021,1712080.0883179018,3812697.64691119,357204.3332510457
+1,Deaths,1,Global,3,Both,22,All ages,410,Neoplasms,202,Environmental/occupational risks,1,Number,2021,718552.2706541456,885049.7133289443,551316.6625660085
+1,Deaths,1,Global,3,Both,22,All ages,956,Respiratory infections and tuberculosis,337,High temperature,1,Number,2021,67255.46469890747,122234.8850107503,10163.83250279554
+1,Deaths,1,Global,3,Both,22,All ages,973,Substance use disorders,103,Drug use,1,Number,2021,137246.1111849045,146122.43806830625,129337.5033349694
+1,Deaths,1,Global,3,Both,22,All ages,962,Maternal and neonatal disorders,169,All risk factors,1,Number,2021,1580465.2058909747,1831016.2179759792,1370892.6966588874
+1,Deaths,1,Global,3,Both,22,All ages,410,Neoplasms,332,Chewing tobacco,1,Number,2021,56843.17224891734,68787.05518000803,45752.57260103232
+1,Deaths,1,Global,3,Both,22,All ages,491,Cardiovascular diseases,202,Environmental/occupational risks,1,Number,2021,6440091.212027154,7766036.9605881795,4992198.800515791
+1,Deaths,1,Global,3,Both,22,All ages,962,Maternal and neonatal disorders,202,Environmental/occupational risks,1,Number,2021,496966.0498710416,580880.2122533026,419486.3851178832
+1,Deaths,1,Global,3,Both,22,All ages,962,Maternal and neonatal disorders,334,Short gestation,1,Number,2021,1041632.8435176136,1205676.4958955222,876678.8884309973
+1,Deaths,1,Global,3,Both,22,All ages,957,Enteric infections,335,Low birth weight,1,Number,2021,16644.335021561365,23288.36769316565,12463.43610034585
+1,Deaths,1,Global,3,Both,22,All ages,957,Enteric infections,339,Low birth weight and short gestation,1,Number,2021,17993.169753491322,25375.41040302424,13507.649217857155
+1,Deaths,1,Global,3,Both,22,All ages,410,Neoplasms,380,Particulate matter pollution,1,Number,2021,374212.7218621936,520255.388196256,236358.3276626964
+1,Deaths,1,Global,3,Both,22,All ages,973,Substance use disorders,169,All risk factors,1,Number,2021,295704.4210333993,313383.58058052,271536.53358897904
+1,Deaths,1,Global,3,Both,22,All ages,962,Maternal and neonatal disorders,335,Low birth weight,1,Number,2021,1408988.0817258726,1634327.6206799871,1215345.4069194137
+1,Deaths,1,Global,3,Both,22,All ages,491,Cardiovascular diseases,331,Non-optimal temperature,1,Number,2021,1224125.457629613,1484387.5071557658,1040492.0153185632
+1,Deaths,1,Global,3,Both,22,All ages,961,Other infectious diseases,85,Air pollution,1,Number,2021,3715.746482712309,4849.188193425603,2867.219941273668
+1,Deaths,1,Global,3,Both,22,All ages,961,Other infectious diseases,86,Ambient particulate matter pollution,1,Number,2021,819.7893098289316,1329.3358555528505,482.834305504825
+1,Deaths,1,Global,3,Both,22,All ages,491,Cardiovascular diseases,338,Low temperature,1,Number,2021,1029004.2736536572,1153734.1185990218,914046.6614905058
+1,Deaths,1,Global,3,Both,22,All ages,957,Enteric infections,84,Unsafe sanitation,1,Number,2021,595241.6226176862,834464.729984194,410523.7153714327
+1,Deaths,1,Global,3,Both,22,All ages,957,Enteric infections,97,Zinc deficiency,1,Number,2021,1611.5780957274203,8666.849931110282,-3461.6843940314798
+1,Deaths,1,Global,3,Both,22,All ages,961,Other infectious diseases,87,Household air pollution from solid fuels,1,Number,2021,2895.2653704219406,3956.402730354647,2211.457570319266
+1,Deaths,1,Global,3,Both,22,All ages,957,Enteric infections,136,Non-exclusive breastfeeding,1,Number,2021,54769.52837459584,73075.56336155362,40512.98468996442
+1,Deaths,1,Global,3,Both,22,All ages,957,Enteric infections,137,Discontinued breastfeeding,1,Number,2021,8363.90306138285,14955.360234898695,2911.0399240123925
+1,Deaths,1,Global,3,Both,22,All ages,961,Other infectious diseases,169,All risk factors,1,Number,2021,47087.37770648406,67444.9279507363,30120.40903492916
+1,Deaths,1,Global,3,Both,22,All ages,974,Diabetes and kidney diseases,85,Air pollution,1,Number,2021,281908.838023564,395527.8182128061,165678.17381163483
+1,Deaths,1,Global,3,Both,22,All ages,957,Enteric infections,203,Behavioral risks,1,Number,2021,291802.2232721112,386267.6367094426,202866.34694761765
+1,Deaths,1,Global,3,Both,22,All ages,961,Other infectious diseases,241,Child stunting,1,Number,2021,15975.812404408189,26525.360157011837,6579.271312289196
+1,Deaths,1,Global,3,Both,22,All ages,961,Other infectious diseases,335,Low birth weight,1,Number,2021,9230.321345011293,11989.34503697412,7195.40890750881
+1,Deaths,1,Global,3,Both,22,All ages,961,Other infectious diseases,339,Low birth weight and short gestation,1,Number,2021,10063.04650522769,13134.650493510037,7793.335681102959
+1,Deaths,1,Global,3,Both,22,All ages,974,Diabetes and kidney diseases,91,Lead exposure,1,Number,2021,65670.38830235373,156667.336966355,-8181.5319829746995
+1,Deaths,1,Global,3,Both,22,All ages,962,Maternal and neonatal disorders,86,Ambient particulate matter pollution,1,Number,2021,140758.3075029465,213926.4872220679,83378.20911717767
+1,Deaths,1,Global,3,Both,22,All ages,962,Maternal and neonatal disorders,87,Household air pollution from solid fuels,1,Number,2021,356105.29527661466,441046.6135108573,281809.1240835224
+1,Deaths,1,Global,3,Both,22,All ages,974,Diabetes and kidney diseases,102,Alcohol use,1,Number,2021,28632.542964677978,54905.25955517419,10094.252387604882
+1,Deaths,1,Global,3,Both,22,All ages,961,Other infectious diseases,92,Child and maternal malnutrition,1,Number,2021,44106.36618004767,64600.60436584457,27586.31606222823
+1,Deaths,1,Global,3,Both,22,All ages,962,Maternal and neonatal disorders,92,Child and maternal malnutrition,1,Number,2021,1516959.8165274663,1759545.5378625323,1315575.0263206318
+1,Deaths,1,Global,3,Both,22,All ages,974,Diabetes and kidney diseases,107,High systolic blood pressure,1,Number,2021,475664.9736599275,680506.2042629193,244975.1534783133
+1,Deaths,1,Global,3,Both,22,All ages,961,Other infectious diseases,94,Child underweight,1,Number,2021,17070.853539220723,28668.744140153925,7724.86860123076
+1,Deaths,1,Global,3,Both,22,All ages,961,Other infectious diseases,96,Vitamin A deficiency,1,Number,2021,6222.619710252874,23124.09374846465,-13073.803011261962
+1,Deaths,1,Global,3,Both,22,All ages,962,Maternal and neonatal disorders,380,Particulate matter pollution,1,Number,2021,496966.0498710416,580880.2122533026,419486.3851178832
+1,Deaths,1,Global,3,Both,22,All ages,974,Diabetes and kidney diseases,89,Other environmental risks,1,Number,2021,65670.38830235373,156667.336966355,-8181.5319829746995
+1,Deaths,1,Global,3,Both,22,All ages,974,Diabetes and kidney diseases,112,Diet low in vegetables,1,Number,2021,120791.41850413506,189168.20289497232,62936.12792955664
+1,Deaths,1,Global,3,Both,22,All ages,961,Other infectious diseases,202,Environmental/occupational risks,1,Number,2021,3715.746482712309,4849.188193425603,2867.219941273668
+1,Deaths,1,Global,3,Both,22,All ages,974,Diabetes and kidney diseases,118,Diet high in sugar-sweetened beverages,1,Number,2021,60680.13666215324,89691.37498115287,31581.89331451633
+1,Deaths,1,Global,3,Both,22,All ages,974,Diabetes and kidney diseases,100,Secondhand smoke,1,Number,2021,73902.30418108888,122094.48662734592,26909.11850363052
+1,Deaths,1,Global,3,Both,22,All ages,974,Diabetes and kidney diseases,105,High fasting plasma glucose,1,Number,2021,2314278.605289568,2577781.5045040194,2031693.1771613527
+1,Deaths,1,Global,3,Both,22,All ages,974,Diabetes and kidney diseases,169,All risk factors,1,Number,2021,3183287.64666192,3377296.2312161475,2947676.1308473023
+1,Deaths,1,Global,3,Both,22,All ages,973,Substance use disorders,134,Childhood sexual abuse,1,Number,2021,12087.318304478713,27430.390762168587,2103.714369113612
+1,Deaths,1,Global,3,Both,22,All ages,974,Diabetes and kidney diseases,111,Diet low in fruits,1,Number,2021,203644.4357560892,293505.2106139953,111973.98062249889
+1,Deaths,1,Global,3,Both,22,All ages,962,Maternal and neonatal disorders,95,Iron deficiency,1,Number,2021,34291.77881516983,48547.645490068426,16601.200605293507
+1,Deaths,1,Global,3,Both,22,All ages,974,Diabetes and kidney diseases,117,Diet high in processed meat,1,Number,2021,134937.99662522797,225384.17708089724,32027.32354755546
+1,Deaths,1,Global,3,Both,22,All ages,974,Diabetes and kidney diseases,125,Low physical activity,1,Number,2021,190132.24230328863,291751.75841937325,83163.12273680132
+1,Deaths,1,Global,3,Both,22,All ages,974,Diabetes and kidney diseases,337,High temperature,1,Number,2021,58814.45844228886,98899.84437115755,25885.25176818676
+1,Deaths,1,Global,3,Both,22,All ages,973,Substance use disorders,102,Alcohol use,1,Number,2021,158458.3098484946,173332.10539943952,129084.6034982206
+1,Deaths,1,Global,3,Both,22,All ages,973,Substance use disorders,381,Childhood sexual abuse and bullying,1,Number,2021,12087.318304478713,27430.390762168587,2103.714369113612
+1,Deaths,1,Global,3,Both,22,All ages,974,Diabetes and kidney diseases,86,Ambient particulate matter pollution,1,Number,2021,185418.6194645612,271870.5543666021,107502.2124478264
+1,Deaths,1,Global,3,Both,22,All ages,974,Diabetes and kidney diseases,203,Behavioral risks,1,Number,2021,976416.9320910466,1257178.1475576991,666269.1950878685
+1,Deaths,1,Global,3,Both,22,All ages,974,Diabetes and kidney diseases,98,Tobacco,1,Number,2021,163222.38417413467,223438.81115590787,103034.8691459876
+1,Deaths,1,Global,3,Both,22,All ages,973,Substance use disorders,203,Behavioral risks,1,Number,2021,295704.4210333993,313383.58058052,271536.53358897904
+1,Deaths,1,Global,3,Both,22,All ages,974,Diabetes and kidney diseases,104,Metabolic risks,1,Number,2021,3183287.64666192,3377296.2312161475,2947676.1308473023
+1,Deaths,1,Global,3,Both,22,All ages,974,Diabetes and kidney diseases,341,Kidney dysfunction,1,Number,2021,1527039.6172651032,1640064.3496606136,1382428.5242683694
+1,Deaths,1,Global,3,Both,22,All ages,974,Diabetes and kidney diseases,108,High body-mass index,1,Number,2021,1142120.6488033351,1666046.7836090398,602169.1750451357
+1,Deaths,1,Global,3,Both,22,All ages,974,Diabetes and kidney diseases,380,Particulate matter pollution,1,Number,2021,281908.838023564,395527.8182128061,165678.17381163483
+1,Deaths,1,Global,3,Both,22,All ages,974,Diabetes and kidney diseases,113,Diet low in whole grains,1,Number,2021,124190.040341725,204612.7112610508,34247.09137486967
+1,Deaths,1,Global,3,Both,22,All ages,974,Diabetes and kidney diseases,87,Household air pollution from solid fuels,1,Number,2021,96425.19748509632,169273.56612035751,46870.52841388046
+1,Deaths,1,Global,3,Both,22,All ages,974,Diabetes and kidney diseases,119,Diet low in fiber,1,Number,2021,17297.124965524858,24935.65442112434,9679.614093246895
+1,Deaths,1,Global,3,Both,22,All ages,974,Diabetes and kidney diseases,99,Smoking,1,Number,2021,93595.69055068896,112221.11820380346,77287.46783897848
+1,Deaths,1,Global,3,Both,22,All ages,974,Diabetes and kidney diseases,110,Dietary risks,1,Number,2021,698425.3368571592,1008080.914978296,336902.9313649688
+1,Deaths,1,Global,3,Both,22,All ages,974,Diabetes and kidney diseases,116,Diet high in red meat,1,Number,2021,87959.74092728774,188541.9073608493,-2668.73667989733
+1,Deaths,1,Global,3,Both,22,All ages,974,Diabetes and kidney diseases,124,Diet high in sodium,1,Number,2021,69954.35341990012,198557.6958929716,7889.202462611472
+1,Deaths,1,Global,3,Both,22,All ages,974,Diabetes and kidney diseases,338,Low temperature,1,Number,2021,147876.2416930318,171017.0100015115,128324.92690771964
+1,Deaths,1,Global,3,Both,22,All ages,974,Diabetes and kidney diseases,202,Environmental/occupational risks,1,Number,2021,529105.0512343522,681694.022896349,379108.4304356933
+1,Deaths,1,Global,3,Both,22,All ages,974,Diabetes and kidney diseases,331,Non-optimal temperature,1,Number,2021,203976.6809117696,261043.7042041287,157575.98782529225

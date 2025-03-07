@@ -1,0 +1,89 @@
+,rei_set_version_id,rei_set_id,rei_id,parent_id,path_to_top_parent,level,is_estimate,most_detailed,sort_order,rei,rei_name,rei_name_short,rei_type_id,rei_type,male,female,yll,yll_age_group_id_start,yll_age_group_id_end,yld,yld_age_group_id_start,yld_age_group_id_end,lancet_label,lancet_label_short
+1,338,1,169,169,169,0,0,0,1,_all,All risk factors,All risk factors,1,Risk,1,1,1,2,235,1,2,235,All risk factors,All risk factors
+2,338,1,202,169,"169,202",1,0,0,2,_env,Environmental/occupational risks,Environmental,1,Risk,1,1,1,2,235,1,2,235,Environmental/occupational risks,Environmental
+3,338,1,82,202,"169,202,82",2,0,0,3,wash,"Unsafe water, sanitation, and handwashing",WaSH,1,Risk,1,1,1,2,235,1,2,235,"Unsafe water, sanitation, and handwashing",WaSH
+4,338,1,83,82,"169,202,82,83",3,1,1,4,wash_water,Unsafe water source,Unsafe water,1,Risk,1,1,1,2,235,1,2,235,Unsafe water source,Unsafe water
+5,338,1,84,82,"169,202,82,84",3,1,1,5,wash_sanitation,Unsafe sanitation,Unsafe sanitation,1,Risk,1,1,1,2,235,1,2,235,Unsafe sanitation,Unsafe sanitation
+6,338,1,238,82,"169,202,82,238",3,1,1,6,wash_hygiene,No access to handwashing facility,Handwashing,1,Risk,1,1,1,2,235,1,2,235,No access to handwashing facility,Handwashing
+7,338,1,85,202,"169,202,85",2,0,0,7,air,Air pollution,Air pollution,1,Risk,1,1,1,2,235,1,2,235,Air pollution,Air pollution
+8,338,1,380,85,"169,202,85,380",3,1,0,8,air_pmhap,Particulate matter pollution,Particulate matter,1,Risk,1,1,1,2,235,1,2,235,Particulate matter pollution,Particulate matter
+9,338,1,86,380,"169,202,85,380,86",4,1,1,9,air_pm,Ambient particulate matter pollution,Ambient particulate matter,1,Risk,1,1,1,2,235,1,2,235,Ambient particulate matter pollution,Ambient particulate matter
+10,338,1,87,380,"169,202,85,380,87",4,1,1,10,air_hap,Household air pollution from solid fuels,Household air pollution,1,Risk,1,1,1,2,235,1,2,235,Household air pollution from solid fuels,Household air pollution
+11,338,1,88,85,"169,202,85,88",3,1,1,11,air_ozone,Ambient ozone pollution,Ozone,1,Risk,1,1,1,10,235,NA,NA,NA,Ambient ozone pollution,Ozone
+12,338,1,404,85,"169,202,85,404",3,1,1,12,air_no2,Nitrogen dioxide pollution,NO2 pollution,1,Risk,1,1,NA,NA,NA,1,2,8,Ambient nitrogen dioxide pollution,Ambient nitrogen dioxide pollution
+13,338,1,331,202,"169,202,331",2,0,0,13,temperature,Non-optimal temperature,Non-optimal temperature,1,Risk,1,1,1,2,235,1,2,235,Non-optimal temperature,Non-optimal temperature
+14,338,1,337,331,"169,202,331,337",3,1,1,14,temperature_high,High temperature,High temperature,1,Risk,1,1,1,2,235,1,2,235,High temperature,High temperature
+15,338,1,338,331,"169,202,331,338",3,1,1,15,temperature_low,Low temperature,Low temperature,1,Risk,1,1,1,2,235,1,2,235,Low temperature,Low temperature
+16,338,1,89,202,"169,202,89",2,0,0,16,envir,Other environmental risks,Other environmental,1,Risk,1,1,1,7,235,1,2,235,Other environmental risks,Other environmental
+17,338,1,90,89,"169,202,89,90",3,1,1,17,envir_radon,Residential radon,Radon,1,Risk,1,1,1,7,235,1,7,235,Residential radon,Radon
+18,338,1,91,89,"169,202,89,91",3,1,1,18,envir_lead,Lead exposure,Lead,1,Risk,1,1,1,10,235,1,2,235,Lead exposure,Lead
+19,338,1,126,202,"169,202,126",2,0,0,19,occ,Occupational risks,Occupational risks,1,Risk,1,1,1,8,235,1,8,235,Occupational risks,Occupational risks
+20,338,1,127,126,"169,202,126,127",3,0,0,20,occ_carcino,Occupational carcinogens,Occupational carcinogens,1,Risk,1,1,1,8,235,1,8,235,Occupational carcinogens,Occupational carcinogens
+21,338,1,150,127,"169,202,126,127,150",4,1,1,21,occ_carcino_asbestos,Occupational exposure to asbestos,Occupational asbestos,1,Risk,1,1,1,8,235,1,8,235,Occupational exposure to asbestos,Occupational asbestos
+22,338,1,151,127,"169,202,126,127,151",4,1,1,22,occ_carcino_arsenic,Occupational exposure to arsenic,Occupational arsenic,1,Risk,1,1,1,10,235,1,10,235,Occupational exposure to arsenic,Occupational arsenic
+23,338,1,152,127,"169,202,126,127,152",4,1,1,23,occ_carcino_benzene,Occupational exposure to benzene,Occupational benzene,1,Risk,1,1,1,8,20,1,8,20,Occupational exposure to benzene,Occupational benzene
+24,338,1,153,127,"169,202,126,127,153",4,1,1,24,occ_carcino_beryllium,Occupational exposure to beryllium,Occupational beryllium,1,Risk,1,1,1,10,235,1,10,235,Occupational exposure to beryllium,Occupational beryllium
+25,338,1,154,127,"169,202,126,127,154",4,1,1,25,occ_carcino_cadmium,Occupational exposure to cadmium,Occupational cadmium,1,Risk,1,1,1,10,235,1,10,235,Occupational exposure to cadmium,Occupational cadmium
+26,338,1,155,127,"169,202,126,127,155",4,1,1,26,occ_carcino_chromium,Occupational exposure to chromium,Occupational chromium,1,Risk,1,1,1,10,235,1,10,235,Occupational exposure to chromium,Occupational chromium
+27,338,1,156,127,"169,202,126,127,156",4,1,1,27,occ_carcino_diesel,Occupational exposure to diesel engine exhaust,Occupational diesel,1,Risk,1,1,1,10,235,1,10,235,Occupational exposure to diesel engine exhaust,Occupational diesel
+28,338,1,158,127,"169,202,126,127,158",4,1,1,28,occ_carcino_formaldehyde,Occupational exposure to formaldehyde,Occupational formaldehyde,1,Risk,1,1,1,8,20,1,8,20,Occupational exposure to formaldehyde,Occupational formaldehyde
+29,338,1,159,127,"169,202,126,127,159",4,1,1,29,occ_carcino_nickel,Occupational exposure to nickel,Occupational nickel,1,Risk,1,1,1,10,235,1,10,235,Occupational exposure to nickel,Occupational nickel
+30,338,1,160,127,"169,202,126,127,160",4,1,1,30,occ_carcino_pah,Occupational exposure to polycyclic aromatic hydrocarbons,Occupational PAH,1,Risk,1,1,1,10,235,1,10,235,Occupational exposure to polycyclic aromatic hydrocarbons,Occupational PAH
+31,338,1,161,127,"169,202,126,127,161",4,1,1,31,occ_carcino_silica,Occupational exposure to silica,Occupational silica,1,Risk,1,1,1,8,235,1,8,235,Occupational exposure to silica,Occupational silica
+32,338,1,162,127,"169,202,126,127,162",4,1,1,32,occ_carcino_acid,Occupational exposure to sulfuric acid,Occupational sulfuric acid,1,Risk,1,1,1,10,235,1,10,235,Occupational exposure to sulphuric acid,Occupational sulphuric acid
+33,338,1,237,127,"169,202,126,127,237",4,1,1,33,occ_carcino_trichloroethylene,Occupational exposure to trichloroethylene,Occupational trichloroethylene,1,Risk,1,1,1,10,235,1,10,235,Occupational exposure to trichloroethylene,Occupational trichloroethylene
+34,338,1,128,126,"169,202,126,128",3,1,1,34,occ_asthmagens,Occupational asthmagens,Occupational asthmagens,1,Risk,1,1,1,8,30,1,8,30,Occupational asthmagens,Occupational asthmagens
+35,338,1,129,126,"169,202,126,129",3,1,1,35,occ_particulates,"Occupational particulate matter, gases, and fumes",Occupational particulates,1,Risk,1,1,1,8,235,1,8,235,"Occupational particulate matter, gases, and fumes",Occupational particulates
+36,338,1,130,126,"169,202,126,130",3,1,1,36,occ_hearing,Occupational noise,Occupational noise,1,Risk,1,1,NA,NA,NA,1,8,235,Occupational noise,Occupational noise
+37,338,1,131,126,"169,202,126,131",3,1,1,37,occ_injury,Occupational injuries,Occupational injury,1,Risk,1,1,1,8,30,1,8,30,Occupational injuries,Occupational injury
+38,338,1,132,126,"169,202,126,132",3,1,1,38,occ_backpain,Occupational ergonomic factors,Occupational ergonomic,1,Risk,1,1,NA,NA,NA,1,8,30,Occupational ergonomic factors,Occupational ergonomic
+39,338,1,203,169,"169,203",1,0,0,39,_behav,Behavioral risks,Behavioral,1,Risk,1,1,1,2,235,1,2,235,Behavioural risks,Behavioural
+40,338,1,92,203,"169,203,92",2,0,0,40,nutrition,Child and maternal malnutrition,Malnutrition,1,Risk,1,1,1,2,235,1,2,235,Child and maternal malnutrition,Malnutrition
+41,338,1,93,92,"169,203,92,93",3,0,0,41,nutrition_breast,Suboptimal breastfeeding,Suboptimal breastfeeding,1,Risk,1,1,1,3,34,1,3,34,Suboptimal breastfeeding,Suboptimal breastfeeding
+42,338,1,136,93,"169,203,92,93,136",4,1,1,42,nutrition_breast_nonexc,Non-exclusive breastfeeding,Non-exclusive breastfeeding,1,Risk,1,1,1,3,389,1,3,389,Non-exclusive breastfeeding,Non-exclusive breastfeeding
+43,338,1,137,93,"169,203,92,93,137",4,1,1,43,nutrition_breast_disc,Discontinued breastfeeding,Discontinued breastfeeding,1,Risk,1,1,1,388,34,1,388,34,Discontinued breastfeeding,Discontinued breastfeeding
+44,338,1,239,92,"169,203,92,239",3,0,0,44,nutrition_child,Child growth failure,Child growth failure,1,Risk,1,1,1,388,235,1,2,235,Child growth failure,Child growth failure
+45,338,1,94,239,"169,203,92,239,94",4,1,1,45,nutrition_underweight,Child underweight,Child underweight,1,Risk,1,1,1,388,235,1,2,235,Child underweight,Child underweight
+46,338,1,240,239,"169,203,92,239,240",4,1,1,46,nutrition_wasting,Child wasting,Child wasting,1,Risk,1,1,1,388,235,1,2,235,Child wasting,Child wasting
+47,338,1,241,239,"169,203,92,239,241",4,1,1,47,nutrition_stunting,Child stunting,Child stunting,1,Risk,1,1,1,388,34,1,388,34,Child stunting,Child stunting
+48,338,1,339,92,"169,203,92,339",3,1,0,48,nutrition_lbw_preterm,Low birth weight and short gestation,Low birth weight & short gestation,1,Risk,1,1,1,2,34,1,2,235,Low birth weight and short gestation,Low birth weight & short gestation
+49,338,1,334,339,"169,203,92,339,334",4,1,1,49,nutrition_preterm,Short gestation,Short gestation,1,Risk,1,1,1,2,34,1,2,235,Short gestation,Short gestation
+50,338,1,335,339,"169,203,92,339,335",4,1,1,50,nutrition_lbw,Low birth weight,Low birth weight,1,Risk,1,1,1,2,34,1,2,235,Low birth weight,Low birth weight
+51,338,1,95,92,"169,203,92,95",3,1,1,51,nutrition_iron,Iron deficiency,Iron deficiency,1,Risk,NA,1,1,7,15,1,2,235,Iron deficiency,Iron deficiency
+52,338,1,96,92,"169,203,92,96",3,1,1,52,nutrition_vitamina,Vitamin A deficiency,Vitamin A deficiency,1,Risk,1,1,1,388,34,1,2,235,Vitamin A deficiency,Vitamin A deficiency
+53,338,1,97,92,"169,203,92,97",3,1,1,53,nutrition_zinc,Zinc deficiency,Zinc deficiency,1,Risk,1,1,1,238,34,1,238,34,Zinc deficiency,Zinc deficiency
+54,338,1,98,203,"169,203,98",2,0,0,54,smoking,Tobacco,Tobacco,1,Risk,1,1,1,2,235,1,2,235,Tobacco,Tobacco
+55,338,1,99,98,"169,203,98,99",3,1,1,55,smoking_direct,Smoking,Smoking,1,Risk,1,1,1,11,235,1,11,235,Smoking,Smoking
+56,338,1,332,98,"169,203,98,332",3,1,1,56,smoking_smokeless,Chewing tobacco,Chewing tobacco,1,Risk,1,1,1,11,235,1,11,235,Chewing tobacco,Chewing tobacco
+57,338,1,100,98,"169,203,98,100",3,1,1,57,smoking_shs,Secondhand smoke,Secondhand smoke,1,Risk,1,1,1,2,235,1,2,235,Second-hand smoke,Second-hand smoke
+58,338,1,102,203,"169,203,102",2,1,1,58,drugs_alcohol,High alcohol use,High alcohol use,1,Risk,1,1,1,6,235,1,2,235,High alcohol use,High alcohol use
+59,338,1,103,203,"169,203,103",2,1,1,59,drugs_illicit,Drug use,Drug use,1,Risk,1,1,1,7,235,1,7,235,Drug use,Drug use
+60,338,1,110,203,"169,203,110",2,0,0,60,diet,Dietary risks,Dietary risks,1,Risk,1,1,1,10,235,1,10,235,Dietary risks,Dietary risks
+61,338,1,111,110,"169,203,110,111",3,1,1,61,diet_fruit,Diet low in fruits,Low fruit,1,Risk,1,1,1,10,235,1,10,235,Diet low in fruits,Low fruit
+62,338,1,112,110,"169,203,110,112",3,1,1,62,diet_veg,Diet low in vegetables,Low vegetables,1,Risk,1,1,1,10,235,1,10,235,Diet low in vegetables,Low vegetables
+63,338,1,333,110,"169,203,110,333",3,1,1,63,diet_legumes,Diet low in legumes,Low legumes,1,Risk,1,1,1,10,235,1,10,235,Diet low in legumes,Low legumes
+64,338,1,113,110,"169,203,110,113",3,1,1,64,diet_grains,Diet low in whole grains,Low whole grains,1,Risk,1,1,1,10,235,1,10,235,Diet low in whole grains,Low whole grains
+65,338,1,114,110,"169,203,110,114",3,1,1,65,diet_nuts,Diet low in nuts and seeds,Low nuts and seeds,1,Risk,1,1,1,10,235,1,10,235,Diet low in nuts and seeds,Low nuts and seeds
+66,338,1,115,110,"169,203,110,115",3,1,1,66,diet_milk,Diet low in milk,Low milk,1,Risk,1,1,1,10,235,1,10,235,Diet low in milk,Low milk
+67,338,1,116,110,"169,203,110,116",3,1,1,67,diet_redmeat,Diet high in red meat,High red meat,1,Risk,1,1,1,10,235,1,10,235,Diet high in red meat,High red meat
+68,338,1,117,110,"169,203,110,117",3,1,1,68,diet_procmeat,Diet high in processed meat,High processed meat,1,Risk,1,1,1,10,235,1,10,235,Diet high in processed meat,High processed meat
+69,338,1,118,110,"169,203,110,118",3,1,1,69,diet_ssb,Diet high in sugar-sweetened beverages,High sweetened beverages,1,Risk,1,1,1,10,235,1,10,235,Diet high in sugar-sweetened beverages,High sweetened beverages
+70,338,1,119,110,"169,203,110,119",3,1,1,70,diet_fiber,Diet low in fiber,Low fiber,1,Risk,1,1,1,10,235,1,10,235,Diet low in fibre,Low fibre
+71,338,1,147,110,"169,203,110,147",3,1,1,71,diet_calcium_low,Diet low in calcium,Low calcium,1,Risk,1,1,1,10,235,1,10,235,Diet low in calcium,Low calcium
+72,338,1,121,110,"169,203,110,121",3,1,1,72,diet_fish,Diet low in seafood omega-3 fatty acids,Low omega-3,1,Risk,1,1,1,10,235,1,10,235,Diet low in seafood omega-3 fatty acids,Low omega-3
+73,338,1,122,110,"169,203,110,122",3,1,1,73,diet_pufa,Diet low in omega-6 polyunsaturated fatty acids,Low omega-6,1,Risk,1,1,1,10,235,1,10,235,Diet low in omega-6 polyunsaturated fatty acids,Low omega-6
+74,338,1,123,110,"169,203,110,123",3,1,1,74,diet_transfat,Diet high in trans fatty acids,High trans fat,1,Risk,1,1,1,10,235,1,10,235,Diet high in trans fatty acids,High trans fat
+75,338,1,124,110,"169,203,110,124",3,1,1,75,diet_salt,Diet high in sodium,High sodium,1,Risk,1,1,1,10,235,1,10,235,Diet high in sodium,High sodium
+76,338,1,135,203,"169,203,135",2,1,1,76,abuse_ipv,Intimate partner violence,Intimate partner violence,1,Risk,NA,1,1,8,235,1,8,235,Intimate partner violence,Intimate partner violence
+77,338,1,381,203,"169,203,381",2,0,0,77,abuse_maltreatment,Childhood sexual abuse and bullying,Childhood sexual abuse and bullying,1,Risk,1,1,1,8,235,1,2,235,Childhood sexual abuse and bullying,Childhood sexual abuse and bullying
+78,338,1,134,381,"169,203,381,134",3,1,1,78,abuse_csa,Childhood sexual abuse,Childhood sexual abuse,1,Risk,1,1,1,8,235,1,2,235,Childhood sexual abuse,Childhood sexual abuse
+79,338,1,363,381,"169,203,381,363",3,1,1,79,bullying,Bullying victimization,Bullying,1,Risk,1,1,NA,NA,NA,1,6,13,Bullying victimization,Bullying
+80,338,1,170,203,"169,203,170",2,1,1,80,unsafe_sex,Unsafe sex,Unsafe sex,1,Risk,1,1,1,7,235,1,7,235,Unsafe sex,Unsafe sex
+81,338,1,125,203,"169,203,125",2,1,1,81,activity,Low physical activity,Low physical activity,1,Risk,1,1,1,10,235,1,10,235,Low physical activity,Low physical activity
+82,338,1,104,169,"169,104",1,0,0,82,metab,Metabolic risks,Metabolic,1,Risk,1,1,1,2,235,1,2,235,Metabolic risks,Metabolic
+83,338,1,105,104,"169,104,105",2,1,1,83,metab_fpg,High fasting plasma glucose,High fasting plasma glucose,1,Risk,1,1,1,10,235,1,10,235,High fasting plasma glucose,High fasting plasma glucose
+84,338,1,367,104,"169,104,367",2,1,1,84,metab_ldl,High LDL cholesterol,High LDL,1,Risk,1,1,1,10,235,1,10,235,High LDL cholesterol,High LDL
+85,338,1,107,104,"169,104,107",2,1,1,85,metab_sbp,High systolic blood pressure,High blood pressure,1,Risk,1,1,1,10,235,1,10,235,High systolic blood pressure,High blood pressure
+86,338,1,108,104,"169,104,108",2,1,1,86,metab_bmi,High body-mass index,High body-mass index,1,Risk,1,1,1,238,235,1,238,235,High body-mass index,High body-mass index
+87,338,1,109,104,"169,104,109",2,1,1,87,metab_bmd,Low bone mineral density,Low bone mineral density,1,Risk,1,1,1,13,235,1,13,235,Low bone mineral density,Low bone mineral density
+88,338,1,341,104,"169,104,341",2,1,1,88,metab_ikf,Kidney dysfunction,Kidney dysfunction,1,Risk,1,1,1,388,235,1,2,235,Kidney dysfunction,Kidney dysfunction

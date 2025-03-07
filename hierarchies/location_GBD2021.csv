@@ -1,0 +1,747 @@
+,location_set_version_id,location_set_id,location_id,parent_id,path_to_top_parent,level,is_estimate,most_detailed,sort_order,location_name,location_ascii_name,location_name_short,location_name_medium,location_type_id,location_type,map_id,super_region_id,super_region_name,region_id,region_name,ihme_loc_id,local_id,lancet_label,who_label
+1,1247,1,1,1,1,0,0,0,1,Global,Global,Earth,Global,1,global,,NA,,NA,,G,G,Global,Global
+2,1247,1,44637,1,"144,637",1,1,1,2,Low SDI,Low SDI,Low SDI,Low SDI,6,region,,NA,,44637,Low SDI,,,Low SDI,
+3,1247,1,44636,1,"144,636",1,1,1,3,Low-middle SDI,Low-middle SDI,Low Mid SDI,Low-middle SDI,6,region,,NA,,44636,Low-middle SDI,,,Low-middle SDI,
+4,1247,1,44639,1,"144,639",1,1,1,4,Middle SDI,Middle SDI,Mid SDI,Middle SDI,6,region,,NA,,44639,Middle SDI,,,Middle SDI,
+5,1247,1,44634,1,"144,634",1,1,1,5,High-middle SDI,High-middle SDI,High Mid SDI,High-middle SDI,6,region,,NA,,44634,High-middle SDI,,,High-middle SDI,
+6,1247,1,44635,1,"144,635",1,1,1,6,High SDI,High SDI,High SDI,High SDI,6,region,,NA,,44635,High SDI,,,High SDI,
+7,1247,1,31,1,"1,31",1,0,0,7,"Central Europe, Eastern Europe, and Central Asia","Central Europe, Eastern Europe, and Central Asia",C & E Europe & C Asia,"Central Europe, Eastern Europe, and Central Asia",7,superregion,,31,"Central Europe, Eastern Europe, and Central Asia",NA,,S2,S2,"Central Europe, eastern Europe, and central Asia","Central Europe, Eastern Europe, and Central Asia"
+8,1247,1,32,31,"1,31,32",2,0,0,8,Central Asia,Central Asia,C Asia,Central Asia,6,region,,31,"Central Europe, Eastern Europe, and Central Asia",32,Central Asia,R2,R2,Central Asia,Central Asia
+9,1247,1,33,32,"1,31,32,33",3,1,1,9,Armenia,Armenia,Armenia,Armenia,2,admin0,ARM,31,"Central Europe, Eastern Europe, and Central Asia",32,Central Asia,ARM,ARM,Armenia,Republic of Armenia
+10,1247,1,34,32,"1,31,32,34",3,1,1,10,Azerbaijan,Azerbaijan,Azerbaijan,Azerbaijan,2,admin0,AZE,31,"Central Europe, Eastern Europe, and Central Asia",32,Central Asia,AZE,AZE,Azerbaijan,Republic of Azerbaijan
+11,1247,1,35,32,"1,31,32,35",3,1,1,11,Georgia,Georgia,Georgia,Georgia,2,admin0,GEO,31,"Central Europe, Eastern Europe, and Central Asia",32,Central Asia,GEO,GEO,Georgia,Georgia
+12,1247,1,36,32,"1,31,32,36",3,1,1,12,Kazakhstan,Kazakhstan,Kazakhstan,Kazakhstan,2,admin0,KAZ,31,"Central Europe, Eastern Europe, and Central Asia",32,Central Asia,KAZ,KAZ,Kazakhstan,Republic of Kazakhstan
+13,1247,1,37,32,"1,31,32,37",3,1,1,13,Kyrgyzstan,Kyrgyzstan,Kyrgyzstan,Kyrgyzstan,2,admin0,KGZ,31,"Central Europe, Eastern Europe, and Central Asia",32,Central Asia,KGZ,KGZ,Kyrgyzstan,Kyrgyz Republic
+14,1247,1,38,32,"1,31,32,38",3,1,1,14,Mongolia,Mongolia,Mongolia,Mongolia,2,admin0,MNG,31,"Central Europe, Eastern Europe, and Central Asia",32,Central Asia,MNG,MNG,Mongolia,Mongolia
+15,1247,1,39,32,"1,31,32,39",3,1,1,15,Tajikistan,Tajikistan,Tajikistan,Tajikistan,2,admin0,TJK,31,"Central Europe, Eastern Europe, and Central Asia",32,Central Asia,TJK,TJK,Tajikistan,Republic of Tajikistan
+16,1247,1,40,32,"1,31,32,40",3,1,1,16,Turkmenistan,Turkmenistan,Turkmenistan,Turkmenistan,2,admin0,TKM,31,"Central Europe, Eastern Europe, and Central Asia",32,Central Asia,TKM,TKM,Turkmenistan,Turkmenistan
+17,1247,1,41,32,"1,31,32,41",3,1,1,17,Uzbekistan,Uzbekistan,Uzbekistan,Uzbekistan,2,admin0,UZB,31,"Central Europe, Eastern Europe, and Central Asia",32,Central Asia,UZB,UZB,Uzbekistan,Republic of Uzbekistan
+18,1247,1,42,31,"1,31,42",2,0,0,18,Central Europe,Central Europe,C Europe,Central Europe,6,region,,31,"Central Europe, Eastern Europe, and Central Asia",42,Central Europe,R8,R8,Central Europe,Central Europe
+19,1247,1,43,42,"1,31,42,43",3,1,1,19,Albania,Albania,Albania,Albania,2,admin0,ALB,31,"Central Europe, Eastern Europe, and Central Asia",42,Central Europe,ALB,ALB,Albania,Republic of Albania
+20,1247,1,44,42,"1,31,42,44",3,1,1,20,Bosnia and Herzegovina,Bosnia and Herzegovina,Bosnia and Herzegovina,Bosnia and Herzegovina,2,admin0,BIH,31,"Central Europe, Eastern Europe, and Central Asia",42,Central Europe,BIH,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina
+21,1247,1,45,42,"1,31,42,45",3,1,1,21,Bulgaria,Bulgaria,Bulgaria,Bulgaria,2,admin0,BGR,31,"Central Europe, Eastern Europe, and Central Asia",42,Central Europe,BGR,BGR,Bulgaria,Republic of Bulgaria
+22,1247,1,46,42,"1,31,42,46",3,1,1,22,Croatia,Croatia,Croatia,Croatia,2,admin0,HRV,31,"Central Europe, Eastern Europe, and Central Asia",42,Central Europe,HRV,HRV,Croatia,Republic of Croatia
+23,1247,1,47,42,"1,31,42,47",3,1,1,23,Czechia,Czechia,Czechia,Czechia,2,admin0,CZE,31,"Central Europe, Eastern Europe, and Central Asia",42,Central Europe,CZE,CZE,Czechia,Czech Republic
+24,1247,1,48,42,"1,31,42,48",3,1,1,24,Hungary,Hungary,Hungary,Hungary,2,admin0,HUN,31,"Central Europe, Eastern Europe, and Central Asia",42,Central Europe,HUN,HUN,Hungary,Hungary
+25,1247,1,50,42,"1,31,42,50",3,1,1,25,Montenegro,Montenegro,Montenegro,Montenegro,2,admin0,MNE,31,"Central Europe, Eastern Europe, and Central Asia",42,Central Europe,MNE,MNE,Montenegro,Montenegro
+26,1247,1,49,42,"1,31,42,49",3,1,1,26,North Macedonia,North Macedonia,North Macedonia,North Macedonia,2,admin0,MKD,31,"Central Europe, Eastern Europe, and Central Asia",42,Central Europe,MKD,MKD,North Macedonia,North Macedonia
+27,1247,1,51,42,"1,31,42,51",3,0,1,27,Poland,Poland,Poland,Poland,2,admin0,POL,31,"Central Europe, Eastern Europe, and Central Asia",42,Central Europe,POL,POL,Poland,Republic of Poland
+28,1247,1,52,42,"1,31,42,52",3,1,1,28,Romania,Romania,Romania,Romania,2,admin0,ROU,31,"Central Europe, Eastern Europe, and Central Asia",42,Central Europe,ROU,ROU,Romania,Romania
+29,1247,1,53,42,"1,31,42,53",3,1,1,29,Serbia,Serbia,Serbia,Serbia,2,admin0,SRB,31,"Central Europe, Eastern Europe, and Central Asia",42,Central Europe,SRB,SRB,Serbia,Republic of Serbia
+30,1247,1,54,42,"1,31,42,54",3,1,1,30,Slovakia,Slovakia,Slovakia,Slovakia,2,admin0,SVK,31,"Central Europe, Eastern Europe, and Central Asia",42,Central Europe,SVK,SVK,Slovakia,Slovak Republic
+31,1247,1,55,42,"1,31,42,55",3,1,1,31,Slovenia,Slovenia,Slovenia,Slovenia,2,admin0,SVN,31,"Central Europe, Eastern Europe, and Central Asia",42,Central Europe,SVN,SVN,Slovenia,Republic of Slovenia
+32,1247,1,56,31,"1,31,56",2,0,0,32,Eastern Europe,Eastern Europe,E Europe,Eastern Europe,6,region,,31,"Central Europe, Eastern Europe, and Central Asia",56,Eastern Europe,R9,R9,Eastern Europe,Eastern Europe
+33,1247,1,57,56,"1,31,56,57",3,1,1,33,Belarus,Belarus,Belarus,Belarus,2,admin0,BLR,31,"Central Europe, Eastern Europe, and Central Asia",56,Eastern Europe,BLR,BLR,Belarus,Republic of Belarus
+34,1247,1,58,56,"1,31,56,58",3,1,1,34,Estonia,Estonia,Estonia,Estonia,2,admin0,EST,31,"Central Europe, Eastern Europe, and Central Asia",56,Eastern Europe,EST,EST,Estonia,Republic of Estonia
+35,1247,1,59,56,"1,31,56,59",3,1,1,35,Latvia,Latvia,Latvia,Latvia,2,admin0,LVA,31,"Central Europe, Eastern Europe, and Central Asia",56,Eastern Europe,LVA,LVA,Latvia,Republic of Latvia
+36,1247,1,60,56,"1,31,56,60",3,1,1,36,Lithuania,Lithuania,Lithuania,Lithuania,2,admin0,LTU,31,"Central Europe, Eastern Europe, and Central Asia",56,Eastern Europe,LTU,LTU,Lithuania,Republic of Lithuania
+37,1247,1,61,56,"1,31,56,61",3,1,1,37,Republic of Moldova,Republic of Moldova,Moldova,Republic of Moldova,2,admin0,MDA,31,"Central Europe, Eastern Europe, and Central Asia",56,Eastern Europe,MDA,MDA,Moldova,Republic of Moldova
+38,1247,1,62,56,"1,31,56,62",3,0,1,38,Russian Federation,Russian Federation,Russia,Russian Federation,2,admin0,RUS,31,"Central Europe, Eastern Europe, and Central Asia",56,Eastern Europe,RUS,RUS,Russia,Russian Federation
+39,1247,1,63,56,"1,31,56,63",3,0,1,39,Ukraine,Ukraine,Ukraine,Ukraine,2,admin0,UKR,31,"Central Europe, Eastern Europe, and Central Asia",56,Eastern Europe,UKR,UKR,Ukraine,Ukraine
+40,1247,1,64,1,"1,64",1,0,0,40,High-income,High-income,HI,High-income,7,superregion,,64,High-income,NA,,S1,S1,High income,High-income
+41,1247,1,70,64,"1,64,70",2,0,0,41,Australasia,Australasia,Australasia,Australasia,6,region,,64,High-income,70,Australasia,R6,R6,Australasia,Australasia
+42,1247,1,71,70,"1,64,70,71",3,1,1,42,Australia,Australia,Australia,Australia,2,admin0,AUS,64,High-income,70,Australasia,AUS,AUS,Australia,Australia
+43,1247,1,72,70,"1,64,70,72",3,0,1,43,New Zealand,New Zealand,New Zealand,New Zealand,2,admin0,NZL,64,High-income,70,Australasia,NZL,NZL,New Zealand,New Zealand
+44,1247,1,65,64,"1,64,65",2,0,0,44,High-income Asia Pacific,High-income Asia Pacific,HI Asia Pac,High-income Asia Pacific,6,region,,64,High-income,65,High-income Asia Pacific,R1,R1,High-income Asia Pacific,High-income Asia Pacific
+45,1247,1,66,65,"1,64,65,66",3,1,1,45,Brunei Darussalam,Brunei Darussalam,Brunei Darussalam,Brunei Darussalam,2,admin0,BRN,64,High-income,65,High-income Asia Pacific,BRN,BRN,Brunei,Brunei Darussalam
+46,1247,1,67,65,"1,64,65,67",3,0,0,46,Japan,Japan,Japan,Japan,2,admin0,JPN,64,High-income,65,High-income Asia Pacific,JPN,JPN,Japan,Japan
+47,1247,1,35446,67,"1,64,65,67,35446",4,1,1,47,Aichi,Aichi,Aichi,Aichi,4,admin2,,64,High-income,65,High-income Asia Pacific,JPN_35446,JP-23,Aichi,
+48,1247,1,35428,67,"1,64,65,67,35428",4,1,1,48,Akita,Akita,Akita,Akita,4,admin2,,64,High-income,65,High-income Asia Pacific,JPN_35428,JP-05,Akita,
+49,1247,1,35425,67,"1,64,65,67,35425",4,1,1,49,Aomori,Aomori,Aomori,Aomori,4,admin2,,64,High-income,65,High-income Asia Pacific,JPN_35425,JP-02,Aomori,
+50,1247,1,35435,67,"1,64,65,67,35435",4,1,1,50,Chiba,Chiba,Chiba,Chiba,4,admin2,,64,High-income,65,High-income Asia Pacific,JPN_35435,JP-12,Chiba,
+51,1247,1,35461,67,"1,64,65,67,35461",4,1,1,51,Ehime,Ehime,Ehime,Ehime,4,admin2,,64,High-income,65,High-income Asia Pacific,JPN_35461,JP-38,Ehime,
+52,1247,1,35441,67,"1,64,65,67,35441",4,1,1,52,Fukui,Fukui,Fukui,Fukui,4,admin2,,64,High-income,65,High-income Asia Pacific,JPN_35441,JP-18,Fukui,
+53,1247,1,35463,67,"1,64,65,67,35463",4,1,1,53,Fukuoka,Fukuoka,Fukuoka,Fukuoka,4,admin2,,64,High-income,65,High-income Asia Pacific,JPN_35463,JP-40,Fukuoka,
+54,1247,1,35430,67,"1,64,65,67,35430",4,1,1,54,Fukushima,Fukushima,Fukushima,Fukushima,4,admin2,,64,High-income,65,High-income Asia Pacific,JPN_35430,JP-07,Fukushima,
+55,1247,1,35444,67,"1,64,65,67,35444",4,1,1,55,Gifu,Gifu,Gifu,Gifu,4,admin2,,64,High-income,65,High-income Asia Pacific,JPN_35444,JP-21,Gifu,
+56,1247,1,35433,67,"1,64,65,67,35433",4,1,1,56,Gunma,Gunma,Gunma,Gunma,4,admin2,,64,High-income,65,High-income Asia Pacific,JPN_35433,JP-10,Gunma,
+57,1247,1,35457,67,"1,64,65,67,35457",4,1,1,57,Hiroshima,Hiroshima,Hiroshima,Hiroshima,4,admin2,,64,High-income,65,High-income Asia Pacific,JPN_35457,JP-34,Hiroshima,
+58,1247,1,35424,67,"1,64,65,67,35424",4,1,1,58,Hokkaidō,Hokkaido,Hokkaido,Hokkaidō,4,admin2,,64,High-income,65,High-income Asia Pacific,JPN_35424,JP-01,Hokkaidō,
+59,1247,1,35451,67,"1,64,65,67,35451",4,1,1,59,Hyōgo,Hyogo,Hyogo,Hyōgo,4,admin2,,64,High-income,65,High-income Asia Pacific,JPN_35451,JP-28,Hyōgo,
+60,1247,1,35431,67,"1,64,65,67,35431",4,1,1,60,Ibaraki,Ibaraki,Ibaraki,Ibaraki,4,admin2,,64,High-income,65,High-income Asia Pacific,JPN_35431,JP-08,Ibaraki,
+61,1247,1,35440,67,"1,64,65,67,35440",4,1,1,61,Ishikawa,Ishikawa,Ishikawa,Ishikawa,4,admin2,,64,High-income,65,High-income Asia Pacific,JPN_35440,JP-17,Ishikawa,
+62,1247,1,35426,67,"1,64,65,67,35426",4,1,1,62,Iwate,Iwate,Iwate,Iwate,4,admin2,,64,High-income,65,High-income Asia Pacific,JPN_35426,JP-03,Iwate,
+63,1247,1,35460,67,"1,64,65,67,35460",4,1,1,63,Kagawa,Kagawa,Kagawa,Kagawa,4,admin2,,64,High-income,65,High-income Asia Pacific,JPN_35460,JP-37,Kagawa,
+64,1247,1,35469,67,"1,64,65,67,35469",4,1,1,64,Kagoshima,Kagoshima,Kagoshima,Kagoshima,4,admin2,,64,High-income,65,High-income Asia Pacific,JPN_35469,JP-46,Kagoshima,
+65,1247,1,35437,67,"1,64,65,67,35437",4,1,1,65,Kanagawa,Kanagawa,Kanagawa,Kanagawa,4,admin2,,64,High-income,65,High-income Asia Pacific,JPN_35437,JP-14,Kanagawa,
+66,1247,1,35462,67,"1,64,65,67,35462",4,1,1,66,Kōchi,Kochi,Kochi,Kōchi,4,admin2,,64,High-income,65,High-income Asia Pacific,JPN_35462,JP-39,Kōchi,
+67,1247,1,35466,67,"1,64,65,67,35466",4,1,1,67,Kumamoto,Kumamoto,Kumamoto,Kumamoto,4,admin2,,64,High-income,65,High-income Asia Pacific,JPN_35466,JP-43,Kumamoto,
+68,1247,1,35449,67,"1,64,65,67,35449",4,1,1,68,Kyōto,Kyoto,Kyoto,Kyōto,4,admin2,,64,High-income,65,High-income Asia Pacific,JPN_35449,JP-26,Kyōto,
+69,1247,1,35447,67,"1,64,65,67,35447",4,1,1,69,Mie,Mie,Mie,Mie,4,admin2,,64,High-income,65,High-income Asia Pacific,JPN_35447,JP-24,Mie,
+70,1247,1,35427,67,"1,64,65,67,35427",4,1,1,70,Miyagi,Miyagi,Miyagi,Miyagi,4,admin2,,64,High-income,65,High-income Asia Pacific,JPN_35427,JP-04,Miyagi,
+71,1247,1,35468,67,"1,64,65,67,35468",4,1,1,71,Miyazaki,Miyazaki,Miyazaki,Miyazaki,4,admin2,,64,High-income,65,High-income Asia Pacific,JPN_35468,JP-45,Miyazaki,
+72,1247,1,35443,67,"1,64,65,67,35443",4,1,1,72,Nagano,Nagano,Nagano,Nagano,4,admin2,,64,High-income,65,High-income Asia Pacific,JPN_35443,JP-20,Nagano,
+73,1247,1,35465,67,"1,64,65,67,35465",4,1,1,73,Nagasaki,Nagasaki,Nagasaki,Nagasaki,4,admin2,,64,High-income,65,High-income Asia Pacific,JPN_35465,JP-42,Nagasaki,
+74,1247,1,35452,67,"1,64,65,67,35452",4,1,1,74,Nara,Nara,Nara,Nara,4,admin2,,64,High-income,65,High-income Asia Pacific,JPN_35452,JP-29,Nara,
+75,1247,1,35438,67,"1,64,65,67,35438",4,1,1,75,Niigata,Niigata,Niigata,Niigata,4,admin2,,64,High-income,65,High-income Asia Pacific,JPN_35438,JP-15,Niigata,
+76,1247,1,35467,67,"1,64,65,67,35467",4,1,1,76,Ōita,Oita,Oita,Ōita,4,admin2,,64,High-income,65,High-income Asia Pacific,JPN_35467,JP-44,Ōita,
+77,1247,1,35456,67,"1,64,65,67,35456",4,1,1,77,Okayama,Okayama,Okayama,Okayama,4,admin2,,64,High-income,65,High-income Asia Pacific,JPN_35456,JP-33,Okayama,
+78,1247,1,35470,67,"1,64,65,67,35470",4,1,1,78,Okinawa,Okinawa,Okinawa,Okinawa,4,admin2,,64,High-income,65,High-income Asia Pacific,JPN_35470,JP-47,Okinawa,
+79,1247,1,35450,67,"1,64,65,67,35450",4,1,1,79,Ōsaka,Osaka,Osaka,Ōsaka,4,admin2,,64,High-income,65,High-income Asia Pacific,JPN_35450,JP-27,Ōsaka,
+80,1247,1,35464,67,"1,64,65,67,35464",4,1,1,80,Saga,Saga,Saga,Saga,4,admin2,,64,High-income,65,High-income Asia Pacific,JPN_35464,JP-41,Saga,
+81,1247,1,35434,67,"1,64,65,67,35434",4,1,1,81,Saitama,Saitama,Saitama,Saitama,4,admin2,,64,High-income,65,High-income Asia Pacific,JPN_35434,JP-11,Saitama,
+82,1247,1,35448,67,"1,64,65,67,35448",4,1,1,82,Shiga,Shiga,Shiga,Shiga,4,admin2,,64,High-income,65,High-income Asia Pacific,JPN_35448,JP-25,Shiga,
+83,1247,1,35455,67,"1,64,65,67,35455",4,1,1,83,Shimane,Shimane,Shimane,Shimane,4,admin2,,64,High-income,65,High-income Asia Pacific,JPN_35455,JP-32,Shimane,
+84,1247,1,35445,67,"1,64,65,67,35445",4,1,1,84,Shizuoka,Shizuoka,Shizuoka,Shizuoka,4,admin2,,64,High-income,65,High-income Asia Pacific,JPN_35445,JP-22,Shizuoka,
+85,1247,1,35432,67,"1,64,65,67,35432",4,1,1,85,Tochigi,Tochigi,Tochigi,Tochigi,4,admin2,,64,High-income,65,High-income Asia Pacific,JPN_35432,JP-09,Tochigi,
+86,1247,1,35459,67,"1,64,65,67,35459",4,1,1,86,Tokushima,Tokushima,Tokushima,Tokushima,4,admin2,,64,High-income,65,High-income Asia Pacific,JPN_35459,JP-36,Tokushima,
+87,1247,1,35436,67,"1,64,65,67,35436",4,1,1,87,Tōkyō,Tokyo,Tokyo,Tōkyō,4,admin2,,64,High-income,65,High-income Asia Pacific,JPN_35436,JP-13,Tōkyō,
+88,1247,1,35454,67,"1,64,65,67,35454",4,1,1,88,Tottori,Tottori,Tottori,Tottori,4,admin2,,64,High-income,65,High-income Asia Pacific,JPN_35454,JP-31,Tottori,
+89,1247,1,35439,67,"1,64,65,67,35439",4,1,1,89,Toyama,Toyama,Toyama,Toyama,4,admin2,,64,High-income,65,High-income Asia Pacific,JPN_35439,JP-16,Toyama,
+90,1247,1,35453,67,"1,64,65,67,35453",4,1,1,90,Wakayama,Wakayama,Wakayama,Wakayama,4,admin2,,64,High-income,65,High-income Asia Pacific,JPN_35453,JP-30,Wakayama,
+91,1247,1,35429,67,"1,64,65,67,35429",4,1,1,91,Yamagata,Yamagata,Yamagata,Yamagata,4,admin2,,64,High-income,65,High-income Asia Pacific,JPN_35429,JP-06,Yamagata,
+92,1247,1,35458,67,"1,64,65,67,35458",4,1,1,92,Yamaguchi,Yamaguchi,Yamaguchi,Yamaguchi,4,admin2,,64,High-income,65,High-income Asia Pacific,JPN_35458,JP-35,Yamaguchi,
+93,1247,1,35442,67,"1,64,65,67,35442",4,1,1,93,Yamanashi,Yamanashi,Yamanashi,Yamanashi,4,admin2,,64,High-income,65,High-income Asia Pacific,JPN_35442,JP-19,Yamanashi,
+94,1247,1,68,65,"1,64,65,68",3,1,1,94,Republic of Korea,Republic of Korea,S Korea,Republic of Korea,2,admin0,KOR,64,High-income,65,High-income Asia Pacific,KOR,KOR,South Korea,Republic of Korea
+95,1247,1,69,65,"1,64,65,69",3,1,1,95,Singapore,Singapore,Singapore,Singapore,2,admin0,SGP,64,High-income,65,High-income Asia Pacific,SGP,SGP,Singapore,Republic of Singapore
+96,1247,1,100,64,"1,64,100",2,0,0,96,High-income North America,High-income North America,HI N Am,High-income North America,6,region,,64,High-income,100,High-income North America,R16,R16,High-income North America,High-income North America
+97,1247,1,101,100,"1,64,100,101",3,1,1,97,Canada,Canada,Canada,Canada,2,admin0,CAN,64,High-income,100,High-income North America,CAN,CAN,Canada,Canada
+98,1247,1,349,100,"1,64,100,349",3,1,1,98,Greenland,Greenland,Greenland,Greenland,8,nonsovereign,,64,High-income,100,High-income North America,GRL,GRL,Greenland,Greenland
+99,1247,1,102,100,"1,64,100,102",3,0,0,99,United States of America,United States of America,United States,United States of America,2,admin0,USA,64,High-income,100,High-income North America,USA,USA,USA,United States of America
+100,1247,1,523,102,"1,64,100,102,523",4,1,1,100,Alabama,Alabama,Alabama,Alabama,3,admin1,,64,High-income,100,High-income North America,USA_523,US-AL,Alabama,
+101,1247,1,524,102,"1,64,100,102,524",4,1,1,101,Alaska,Alaska,Alaska,Alaska,3,admin1,,64,High-income,100,High-income North America,USA_524,US-AK,Alaska,
+102,1247,1,525,102,"1,64,100,102,525",4,1,1,102,Arizona,Arizona,Arizona,Arizona,3,admin1,,64,High-income,100,High-income North America,USA_525,US-AZ,Arizona,
+103,1247,1,526,102,"1,64,100,102,526",4,1,1,103,Arkansas,Arkansas,Arkansas,Arkansas,3,admin1,,64,High-income,100,High-income North America,USA_526,US-AR,Arkansas,
+104,1247,1,527,102,"1,64,100,102,527",4,1,1,104,California,California,California,California,3,admin1,,64,High-income,100,High-income North America,USA_527,US-CA,California,
+105,1247,1,528,102,"1,64,100,102,528",4,1,1,105,Colorado,Colorado,Colorado,Colorado,3,admin1,,64,High-income,100,High-income North America,USA_528,US-CO,Colorado,
+106,1247,1,529,102,"1,64,100,102,529",4,1,1,106,Connecticut,Connecticut,Connecticut,Connecticut,3,admin1,,64,High-income,100,High-income North America,USA_529,US-CT,Connecticut,
+107,1247,1,530,102,"1,64,100,102,530",4,1,1,107,Delaware,Delaware,Delaware,Delaware,3,admin1,,64,High-income,100,High-income North America,USA_530,US-DE,Delaware,
+108,1247,1,531,102,"1,64,100,102,531",4,1,1,108,District of Columbia,District of Columbia,DC,District of Columbia,3,admin1,,64,High-income,100,High-income North America,USA_531,US-DC,"Washington, DC",
+109,1247,1,532,102,"1,64,100,102,532",4,1,1,109,Florida,Florida,Florida,Florida,3,admin1,,64,High-income,100,High-income North America,USA_532,US-FL,Florida,
+110,1247,1,533,102,"1,64,100,102,533",4,1,1,110,Georgia,Georgia,Georgia,Georgia,3,admin1,,64,High-income,100,High-income North America,USA_533,US-GA,Georgia,
+111,1247,1,534,102,"1,64,100,102,534",4,1,1,111,Hawaii,Hawaii,Hawaii,Hawaii,3,admin1,,64,High-income,100,High-income North America,USA_534,US-HI,Hawaii,
+112,1247,1,535,102,"1,64,100,102,535",4,1,1,112,Idaho,Idaho,Idaho,Idaho,3,admin1,,64,High-income,100,High-income North America,USA_535,US-ID,Idaho,
+113,1247,1,536,102,"1,64,100,102,536",4,1,1,113,Illinois,Illinois,Illinois,Illinois,3,admin1,,64,High-income,100,High-income North America,USA_536,US-IL,Illinois,
+114,1247,1,537,102,"1,64,100,102,537",4,1,1,114,Indiana,Indiana,Indiana,Indiana,3,admin1,,64,High-income,100,High-income North America,USA_537,US-IN,Indiana,
+115,1247,1,538,102,"1,64,100,102,538",4,1,1,115,Iowa,Iowa,Iowa,Iowa,3,admin1,,64,High-income,100,High-income North America,USA_538,US-IA,Iowa,
+116,1247,1,539,102,"1,64,100,102,539",4,1,1,116,Kansas,Kansas,Kansas,Kansas,3,admin1,,64,High-income,100,High-income North America,USA_539,US-KS,Kansas,
+117,1247,1,540,102,"1,64,100,102,540",4,1,1,117,Kentucky,Kentucky,Kentucky,Kentucky,3,admin1,,64,High-income,100,High-income North America,USA_540,US-KY,Kentucky,
+118,1247,1,541,102,"1,64,100,102,541",4,1,1,118,Louisiana,Louisiana,Louisiana,Louisiana,3,admin1,,64,High-income,100,High-income North America,USA_541,US-LA,Louisiana,
+119,1247,1,542,102,"1,64,100,102,542",4,1,1,119,Maine,Maine,Maine,Maine,3,admin1,,64,High-income,100,High-income North America,USA_542,US-ME,Maine,
+120,1247,1,543,102,"1,64,100,102,543",4,1,1,120,Maryland,Maryland,Maryland,Maryland,3,admin1,,64,High-income,100,High-income North America,USA_543,US-MD,Maryland,
+121,1247,1,544,102,"1,64,100,102,544",4,1,1,121,Massachusetts,Massachusetts,Massachusetts,Massachusetts,3,admin1,,64,High-income,100,High-income North America,USA_544,US-MA,Massachusetts,
+122,1247,1,545,102,"1,64,100,102,545",4,1,1,122,Michigan,Michigan,Michigan,Michigan,3,admin1,,64,High-income,100,High-income North America,USA_545,US-MI,Michigan,
+123,1247,1,546,102,"1,64,100,102,546",4,1,1,123,Minnesota,Minnesota,Minnesota,Minnesota,3,admin1,,64,High-income,100,High-income North America,USA_546,US-MN,Minnesota,
+124,1247,1,547,102,"1,64,100,102,547",4,1,1,124,Mississippi,Mississippi,Mississippi,Mississippi,3,admin1,,64,High-income,100,High-income North America,USA_547,US-MS,Mississippi,
+125,1247,1,548,102,"1,64,100,102,548",4,1,1,125,Missouri,Missouri,Missouri,Missouri,3,admin1,,64,High-income,100,High-income North America,USA_548,US-MO,Missouri,
+126,1247,1,549,102,"1,64,100,102,549",4,1,1,126,Montana,Montana,Montana,Montana,3,admin1,,64,High-income,100,High-income North America,USA_549,US-MT,Montana,
+127,1247,1,550,102,"1,64,100,102,550",4,1,1,127,Nebraska,Nebraska,Nebraska,Nebraska,3,admin1,,64,High-income,100,High-income North America,USA_550,US-NE,Nebraska,
+128,1247,1,551,102,"1,64,100,102,551",4,1,1,128,Nevada,Nevada,Nevada,Nevada,3,admin1,,64,High-income,100,High-income North America,USA_551,US-NV,Nevada,
+129,1247,1,552,102,"1,64,100,102,552",4,1,1,129,New Hampshire,New Hampshire,New Hampshire,New Hampshire,3,admin1,,64,High-income,100,High-income North America,USA_552,US-NH,New Hampshire,
+130,1247,1,553,102,"1,64,100,102,553",4,1,1,130,New Jersey,New Jersey,New Jersey,New Jersey,3,admin1,,64,High-income,100,High-income North America,USA_553,US-NJ,New Jersey,
+131,1247,1,554,102,"1,64,100,102,554",4,1,1,131,New Mexico,New Mexico,New Mexico,New Mexico,3,admin1,,64,High-income,100,High-income North America,USA_554,US-NM,New Mexico,
+132,1247,1,555,102,"1,64,100,102,555",4,1,1,132,New York,New York,New York,New York,3,admin1,,64,High-income,100,High-income North America,USA_555,US-NY,New York,
+133,1247,1,556,102,"1,64,100,102,556",4,1,1,133,North Carolina,North Carolina,N Carolina,North Carolina,3,admin1,,64,High-income,100,High-income North America,USA_556,US-NC,North Carolina,
+134,1247,1,557,102,"1,64,100,102,557",4,1,1,134,North Dakota,North Dakota,N Dakota,North Dakota,3,admin1,,64,High-income,100,High-income North America,USA_557,US-ND,North Dakota,
+135,1247,1,558,102,"1,64,100,102,558",4,1,1,135,Ohio,Ohio,Ohio,Ohio,3,admin1,,64,High-income,100,High-income North America,USA_558,US-OH,Ohio,
+136,1247,1,559,102,"1,64,100,102,559",4,1,1,136,Oklahoma,Oklahoma,Oklahoma,Oklahoma,3,admin1,,64,High-income,100,High-income North America,USA_559,US-OK,Oklahoma,
+137,1247,1,560,102,"1,64,100,102,560",4,1,1,137,Oregon,Oregon,Oregon,Oregon,3,admin1,,64,High-income,100,High-income North America,USA_560,US-OR,Oregon,
+138,1247,1,561,102,"1,64,100,102,561",4,1,1,138,Pennsylvania,Pennsylvania,Pennsylvania,Pennsylvania,3,admin1,,64,High-income,100,High-income North America,USA_561,US-PA,Pennsylvania,
+139,1247,1,562,102,"1,64,100,102,562",4,1,1,139,Rhode Island,Rhode Island,Rhode Island,Rhode Island,3,admin1,,64,High-income,100,High-income North America,USA_562,US-RI,Rhode Island,
+140,1247,1,563,102,"1,64,100,102,563",4,1,1,140,South Carolina,South Carolina,S Carolina,South Carolina,3,admin1,,64,High-income,100,High-income North America,USA_563,US-SC,South Carolina,
+141,1247,1,564,102,"1,64,100,102,564",4,1,1,141,South Dakota,South Dakota,S Dakota,South Dakota,3,admin1,,64,High-income,100,High-income North America,USA_564,US-SD,South Dakota,
+142,1247,1,565,102,"1,64,100,102,565",4,1,1,142,Tennessee,Tennessee,Tennessee,Tennessee,3,admin1,,64,High-income,100,High-income North America,USA_565,US-TN,Tennessee,
+143,1247,1,566,102,"1,64,100,102,566",4,1,1,143,Texas,Texas,Texas,Texas,3,admin1,,64,High-income,100,High-income North America,USA_566,US-TX,Texas,
+144,1247,1,567,102,"1,64,100,102,567",4,1,1,144,Utah,Utah,Utah,Utah,3,admin1,,64,High-income,100,High-income North America,USA_567,US-UT,Utah,
+145,1247,1,568,102,"1,64,100,102,568",4,1,1,145,Vermont,Vermont,Vermont,Vermont,3,admin1,,64,High-income,100,High-income North America,USA_568,US-VT,Vermont,
+146,1247,1,569,102,"1,64,100,102,569",4,1,1,146,Virginia,Virginia,Virginia,Virginia,3,admin1,,64,High-income,100,High-income North America,USA_569,US-VA,Virginia,
+147,1247,1,570,102,"1,64,100,102,570",4,1,1,147,Washington,Washington,Washington,Washington,3,admin1,,64,High-income,100,High-income North America,USA_570,US-WA,Washington,
+148,1247,1,571,102,"1,64,100,102,571",4,1,1,148,West Virginia,West Virginia,W Virginia,West Virginia,3,admin1,,64,High-income,100,High-income North America,USA_571,US-WV,West Virginia,
+149,1247,1,572,102,"1,64,100,102,572",4,1,1,149,Wisconsin,Wisconsin,Wisconsin,Wisconsin,3,admin1,,64,High-income,100,High-income North America,USA_572,US-WI,Wisconsin,
+150,1247,1,573,102,"1,64,100,102,573",4,1,1,150,Wyoming,Wyoming,Wyoming,Wyoming,3,admin1,,64,High-income,100,High-income North America,USA_573,US-WY,Wyoming,
+151,1247,1,96,64,"1,64,96",2,0,0,151,Southern Latin America,Southern Latin America,S Latin Am,Southern Latin America,6,region,,64,High-income,96,Southern Latin America,R13,R13,Southern Latin America,Southern Latin America
+152,1247,1,97,96,"1,64,96,97",3,1,1,152,Argentina,Argentina,Argentina,Argentina,2,admin0,ARG,64,High-income,96,Southern Latin America,ARG,ARG,Argentina,Argentine Republic
+153,1247,1,98,96,"1,64,96,98",3,1,1,153,Chile,Chile,Chile,Chile,2,admin0,CHL,64,High-income,96,Southern Latin America,CHL,CHL,Chile,Republic of Chile
+154,1247,1,99,96,"1,64,96,99",3,1,1,154,Uruguay,Uruguay,Uruguay,Uruguay,2,admin0,URY,64,High-income,96,Southern Latin America,URY,URY,Uruguay,Eastern Republic of Uruguay
+155,1247,1,73,64,"1,64,73",2,0,0,155,Western Europe,Western Europe,W Europe,Western Europe,6,region,,64,High-income,73,Western Europe,R10,R10,Western Europe,Western Europe
+156,1247,1,74,73,"1,64,73,74",3,1,1,156,Andorra,Andorra,Andorra,Andorra,2,admin0,AND,64,High-income,73,Western Europe,AND,AND,Andorra,Principality of Andorra
+157,1247,1,75,73,"1,64,73,75",3,1,1,157,Austria,Austria,Austria,Austria,2,admin0,AUT,64,High-income,73,Western Europe,AUT,AUT,Austria,Republic of Austria
+158,1247,1,76,73,"1,64,73,76",3,1,1,158,Belgium,Belgium,Belgium,Belgium,2,admin0,BEL,64,High-income,73,Western Europe,BEL,BEL,Belgium,Kingdom of Belgium
+159,1247,1,77,73,"1,64,73,77",3,1,1,159,Cyprus,Cyprus,Cyprus,Cyprus,2,admin0,CYP,64,High-income,73,Western Europe,CYP,CYP,Cyprus,Republic of Cyprus
+160,1247,1,78,73,"1,64,73,78",3,1,1,160,Denmark,Denmark,Denmark,Denmark,2,admin0,DNK,64,High-income,73,Western Europe,DNK,DNK,Denmark,Kingdom of Denmark
+161,1247,1,79,73,"1,64,73,79",3,1,1,161,Finland,Finland,Finland,Finland,2,admin0,FIN,64,High-income,73,Western Europe,FIN,FIN,Finland,Republic of Finland
+162,1247,1,80,73,"1,64,73,80",3,1,1,162,France,France,France,France,2,admin0,FRA,64,High-income,73,Western Europe,FRA,FRA,France,French Republic
+163,1247,1,81,73,"1,64,73,81",3,1,1,163,Germany,Germany,Germany,Germany,2,admin0,DEU,64,High-income,73,Western Europe,DEU,DEU,Germany,Federal Republic of Germany
+164,1247,1,82,73,"1,64,73,82",3,1,1,164,Greece,Greece,Greece,Greece,2,admin0,GRC,64,High-income,73,Western Europe,GRC,GRC,Greece,Hellenic Republic
+165,1247,1,83,73,"1,64,73,83",3,1,1,165,Iceland,Iceland,Iceland,Iceland,2,admin0,ISL,64,High-income,73,Western Europe,ISL,ISL,Iceland,Republic of Iceland
+166,1247,1,84,73,"1,64,73,84",3,1,1,166,Ireland,Ireland,Ireland,Ireland,2,admin0,IRL,64,High-income,73,Western Europe,IRL,IRL,Ireland,Ireland
+167,1247,1,85,73,"1,64,73,85",3,1,1,167,Israel,Israel,Israel,Israel,2,admin0,ISR,64,High-income,73,Western Europe,ISR,ISR,Israel,State of Israel
+168,1247,1,86,73,"1,64,73,86",3,0,1,168,Italy,Italy,Italy,Italy,2,admin0,ITA,64,High-income,73,Western Europe,ITA,ITA,Italy,Republic of Italy
+169,1247,1,87,73,"1,64,73,87",3,1,1,169,Luxembourg,Luxembourg,Luxembourg,Luxembourg,2,admin0,LUX,64,High-income,73,Western Europe,LUX,LUX,Luxembourg,Grand Duchy of Luxembourg
+170,1247,1,88,73,"1,64,73,88",3,1,1,170,Malta,Malta,Malta,Malta,2,admin0,MLT,64,High-income,73,Western Europe,MLT,MLT,Malta,Republic of Malta
+171,1247,1,367,73,"1,64,73,367",3,1,1,171,Monaco,Monaco,Monaco,Monaco,2,admin0,,64,High-income,73,Western Europe,MCO,MCO,Monaco,Principality of Monaco
+172,1247,1,89,73,"1,64,73,89",3,1,1,172,Netherlands,Netherlands,Netherlands,Netherlands,2,admin0,NLD,64,High-income,73,Western Europe,NLD,NLD,Netherlands,Kingdom of the Netherlands
+173,1247,1,90,73,"1,64,73,90",3,0,0,173,Norway,Norway,Norway,Norway,2,admin0,NOR,64,High-income,73,Western Europe,NOR,NOR,Norway,Kingdom of Norway
+174,1247,1,60133,90,"1,64,73,90,60133",4,1,1,174,Agder,Agder,Agder,Agder,3,admin1,,64,High-income,73,Western Europe,NOR_60133,,Agder,
+175,1247,1,60135,90,"1,64,73,90,60135",4,1,1,175,Innlandet,Innlandet,Innlandet,Innlandet,3,admin1,,64,High-income,73,Western Europe,NOR_60135,,Innlandet,
+176,1247,1,4923,90,"1,64,73,90,4923",4,1,1,176,Møre og Romsdal,More og Romsdal,More og Romsdal,Møre og Romsdal,3,admin1,NO053,64,High-income,73,Western Europe,NOR_4923,NO-15,Møre og Romsdal,
+177,1247,1,4926,90,"1,64,73,90,4926",4,1,1,177,Nordland,Nordland,Nordland,Nordland,3,admin1,NO071,64,High-income,73,Western Europe,NOR_4926,NO-18,Nordland,
+178,1247,1,4910,90,"1,64,73,90,4910",4,1,1,178,Oslo,Oslo,Oslo,Oslo,3,admin1,NO011,64,High-income,73,Western Europe,NOR_4910,NO-03,Oslo,
+179,1247,1,4920,90,"1,64,73,90,4920",4,1,1,179,Rogaland,Rogaland,Rogaland,Rogaland,3,admin1,NO043,64,High-income,73,Western Europe,NOR_4920,NO-11,Rogaland,
+180,1247,1,60137,90,"1,64,73,90,60137",4,1,1,180,Troms og Finnmark,Troms og Finnmark,Troms/Finnmark,Troms og Finnmark,3,admin1,,64,High-income,73,Western Europe,NOR_60137,,Troms og Finnmark,
+181,1247,1,53432,90,"1,64,73,90,53432",4,1,1,181,Trøndelag,Trondelag,Trondelag,Trøndelag,3,admin1,,64,High-income,73,Western Europe,NOR_53432,NO-50,Trøndelag,
+182,1247,1,60134,90,"1,64,73,90,60134",4,1,1,182,Vestfold og Telemark,Vestfold og Telemark,Vestfold/Telemark,Vestfold og Telemark,3,admin1,,64,High-income,73,Western Europe,NOR_60134,,Vestfold og Telemark,
+183,1247,1,60132,90,"1,64,73,90,60132",4,1,1,183,Vestland,Vestland,Vestland,Vestland,3,admin1,,64,High-income,73,Western Europe,NOR_60132,,Vestland,
+184,1247,1,60136,90,"1,64,73,90,60136",4,1,1,184,Viken,Viken,Viken,Viken,3,admin1,,64,High-income,73,Western Europe,NOR_60136,,Viken,
+185,1247,1,91,73,"1,64,73,91",3,1,1,185,Portugal,Portugal,Portugal,Portugal,2,admin0,PRT,64,High-income,73,Western Europe,PRT,PRT,Portugal,Portuguese Republic
+186,1247,1,396,73,"1,64,73,396",3,1,1,186,San Marino,San Marino,San Marino,San Marino,2,admin0,,64,High-income,73,Western Europe,SMR,SMR,San Marino,Republic of San Marino
+187,1247,1,92,73,"1,64,73,92",3,1,1,187,Spain,Spain,Spain,Spain,2,admin0,ESP,64,High-income,73,Western Europe,ESP,ESP,Spain,Kingdom of Spain
+188,1247,1,93,73,"1,64,73,93",3,0,0,188,Sweden,Sweden,Sweden,Sweden,2,admin0,SWE,64,High-income,73,Western Europe,SWE,SWE,Sweden,Kingdom of Sweden
+189,1247,1,4944,93,"1,64,73,93,4944",4,1,1,189,Stockholm,Stockholm,Stockholm,Stockholm,4,admin2,SE11,64,High-income,73,Western Europe,SWE_4944,SE11,Stockholm,
+190,1247,1,4940,93,"1,64,73,93,4940",4,1,1,190,Sweden except Stockholm,Sweden except Stockholm,Sweden w/o Stockholm,Sweden except Stockholm,3,admin1,,64,High-income,73,Western Europe,SWE_4940,,Sweden except Stockholm,
+191,1247,1,94,73,"1,64,73,94",3,1,1,191,Switzerland,Switzerland,Switzerland,Switzerland,2,admin0,CHE,64,High-income,73,Western Europe,CHE,CHE,Switzerland,Swiss Confederation
+192,1247,1,95,73,"1,64,73,95",3,0,0,192,United Kingdom,United Kingdom,United Kingdom,United Kingdom,2,admin0,GBR,64,High-income,73,Western Europe,GBR,GBR,UK,United Kingdom of Great Britain and Northern Ireland
+193,1247,1,4749,95,"1,64,73,95,4749",4,0,0,193,England,England,England,England,3,admin1,,64,High-income,73,Western Europe,GBR_4749,ENG,England,
+194,1247,1,4621,4749,"1,64,73,95,4749,4621",5,0,0,194,East Midlands,East Midlands,E Midlands,East Midlands,3,admin1,,64,High-income,73,Western Europe,GBR_4621,UKF,East Midlands,
+195,1247,1,44697,4621,"1,64,73,95,4749,4621,44697",6,1,1,195,Derby,Derby,Derby,Derby,16,health_districts,,64,High-income,73,Western Europe,GBR_44697,,Derby,
+196,1247,1,44698,4621,"1,64,73,95,4749,4621,44698",6,1,1,196,Derbyshire,Derbyshire,Derbyshire,Derbyshire,16,health_districts,,64,High-income,73,Western Europe,GBR_44698,,Derbyshire,
+197,1247,1,44701,4621,"1,64,73,95,4749,4621,44701",6,1,1,197,Leicester,Leicester,Leicester,Leicester,16,health_districts,,64,High-income,73,Western Europe,GBR_44701,,Leicester,
+198,1247,1,44694,4621,"1,64,73,95,4749,4621,44694",6,1,1,198,Leicestershire,Leicestershire,Leicestershire,Leicestershire,16,health_districts,,64,High-income,73,Western Europe,GBR_44694,,Leicestershire,
+199,1247,1,44695,4621,"1,64,73,95,4749,4621,44695",6,1,1,199,Lincolnshire,Lincolnshire,Lincolnshire,Lincolnshire,16,health_districts,,64,High-income,73,Western Europe,GBR_44695,,Lincolnshire,
+200,1247,1,44693,4621,"1,64,73,95,4749,4621,44693",6,1,1,200,Northamptonshire,Northamptonshire,Northamptonshire,Northamptonshire,16,health_districts,,64,High-income,73,Western Europe,GBR_44693,,Northamptonshire,
+201,1247,1,44700,4621,"1,64,73,95,4749,4621,44700",6,1,1,201,Nottingham,Nottingham,Nottingham,Nottingham,16,health_districts,,64,High-income,73,Western Europe,GBR_44700,,Nottingham,
+202,1247,1,44699,4621,"1,64,73,95,4749,4621,44699",6,1,1,202,Nottinghamshire,Nottinghamshire,Nottinghamshire,Nottinghamshire,16,health_districts,,64,High-income,73,Western Europe,GBR_44699,,Nottinghamshire,
+203,1247,1,44696,4621,"1,64,73,95,4749,4621,44696",6,1,1,203,Rutland,Rutland,Rutland,Rutland,16,health_districts,,64,High-income,73,Western Europe,GBR_44696,,Rutland,
+204,1247,1,4623,4749,"1,64,73,95,4749,4623",5,0,0,204,East of England,East of England,E England,East of England,3,admin1,,64,High-income,73,Western Europe,GBR_4623,UKH,East of England,
+205,1247,1,44716,4623,"1,64,73,95,4749,4623,44716",6,1,1,205,Bedford,Bedford,Bedford,Bedford,16,health_districts,,64,High-income,73,Western Europe,GBR_44716,,Bedford,
+206,1247,1,44721,4623,"1,64,73,95,4749,4623,44721",6,1,1,206,Cambridgeshire,Cambridgeshire,Cambridgeshire,Cambridgeshire,16,health_districts,,64,High-income,73,Western Europe,GBR_44721,,Cambridgeshire,
+207,1247,1,44717,4623,"1,64,73,95,4749,4623,44717",6,1,1,207,Central Bedfordshire,Central Bedfordshire,Cen Bedfordshire,Central Bedfordshire,16,health_districts,,64,High-income,73,Western Europe,GBR_44717,,Central Bedfordshire,
+208,1247,1,44720,4623,"1,64,73,95,4749,4623,44720",6,1,1,208,Essex,Essex,Essex,Essex,16,health_districts,,64,High-income,73,Western Europe,GBR_44720,,Essex,
+209,1247,1,44719,4623,"1,64,73,95,4749,4623,44719",6,1,1,209,Hertfordshire,Hertfordshire,Hertfordshire,Hertfordshire,16,health_districts,,64,High-income,73,Western Europe,GBR_44719,,Hertfordshire,
+210,1247,1,44726,4623,"1,64,73,95,4749,4623,44726",6,1,1,210,Luton,Luton,Luton,Luton,16,health_districts,,64,High-income,73,Western Europe,GBR_44726,,Luton,
+211,1247,1,44723,4623,"1,64,73,95,4749,4623,44723",6,1,1,211,Norfolk,Norfolk,Norfolk,Norfolk,16,health_districts,,64,High-income,73,Western Europe,GBR_44723,,Norfolk,
+212,1247,1,44725,4623,"1,64,73,95,4749,4623,44725",6,1,1,212,Peterborough,Peterborough,Peterborough,Peterborough,16,health_districts,,64,High-income,73,Western Europe,GBR_44725,,Peterborough,
+213,1247,1,44724,4623,"1,64,73,95,4749,4623,44724",6,1,1,213,Southend-on-Sea,Southend-on-Sea,Southend-on-Sea,Southend-on-Sea,16,health_districts,,64,High-income,73,Western Europe,GBR_44724,,Southend-on-Sea,
+214,1247,1,44718,4623,"1,64,73,95,4749,4623,44718",6,1,1,214,Suffolk,Suffolk,Suffolk,Suffolk,16,health_districts,,64,High-income,73,Western Europe,GBR_44718,,Suffolk,
+215,1247,1,44722,4623,"1,64,73,95,4749,4623,44722",6,1,1,215,Thurrock,Thurrock,Thurrock,Thurrock,16,health_districts,,64,High-income,73,Western Europe,GBR_44722,,Thurrock,
+216,1247,1,4624,4749,"1,64,73,95,4749,4624",5,0,0,216,Greater London,Greater London,Greater London,Greater London,3,admin1,,64,High-income,73,Western Europe,GBR_4624,UKI,Greater London,
+217,1247,1,44754,4624,"1,64,73,95,4749,4624,44754",6,1,1,217,Barking and Dagenham,Barking and Dagenham,Barking & Dagenham,Barking and Dagenham,16,health_districts,,64,High-income,73,Western Europe,GBR_44754,,Barking and Dagenham,
+218,1247,1,44729,4624,"1,64,73,95,4749,4624,44729",6,1,1,218,Barnet,Barnet,Barnet,Barnet,16,health_districts,,64,High-income,73,Western Europe,GBR_44729,,Barnet,
+219,1247,1,44732,4624,"1,64,73,95,4749,4624,44732",6,1,1,219,Bexley,Bexley,Bexley,Bexley,16,health_districts,,64,High-income,73,Western Europe,GBR_44732,,Bexley,
+220,1247,1,44735,4624,"1,64,73,95,4749,4624,44735",6,1,1,220,Brent,Brent,Brent,Brent,16,health_districts,,64,High-income,73,Western Europe,GBR_44735,,Brent,
+221,1247,1,44731,4624,"1,64,73,95,4749,4624,44731",6,1,1,221,Bromley,Bromley,Bromley,Bromley,16,health_districts,,64,High-income,73,Western Europe,GBR_44731,,Bromley,
+222,1247,1,44748,4624,"1,64,73,95,4749,4624,44748",6,1,1,222,Camden,Camden,Camden,Camden,16,health_districts,,64,High-income,73,Western Europe,GBR_44748,,Camden,
+223,1247,1,44742,4624,"1,64,73,95,4749,4624,44742",6,1,1,223,Croydon,Croydon,Croydon,Croydon,16,health_districts,,64,High-income,73,Western Europe,GBR_44742,,Croydon,
+224,1247,1,44744,4624,"1,64,73,95,4749,4624,44744",6,1,1,224,Ealing,Ealing,Ealing,Ealing,16,health_districts,,64,High-income,73,Western Europe,GBR_44744,,Ealing,
+225,1247,1,44741,4624,"1,64,73,95,4749,4624,44741",6,1,1,225,Enfield,Enfield,Enfield,Enfield,16,health_districts,,64,High-income,73,Western Europe,GBR_44741,,Enfield,
+226,1247,1,44745,4624,"1,64,73,95,4749,4624,44745",6,1,1,226,Greenwich,Greenwich,Greenwich,Greenwich,16,health_districts,,64,High-income,73,Western Europe,GBR_44745,,Greenwich,
+227,1247,1,44756,4624,"1,64,73,95,4749,4624,44756",6,1,1,227,Hackney,Hackney,Hackney,Hackney,16,health_districts,,64,High-income,73,Western Europe,GBR_44756,,Hackney,
+228,1247,1,44743,4624,"1,64,73,95,4749,4624,44743",6,1,1,228,Hammersmith and Fulham,Hammersmith and Fulham,Hammersmith & Fulham,Hammersmith and Fulham,16,health_districts,,64,High-income,73,Western Europe,GBR_44743,,Hammersmith and Fulham,
+229,1247,1,44755,4624,"1,64,73,95,4749,4624,44755",6,1,1,229,Haringey,Haringey,Haringey,Haringey,16,health_districts,,64,High-income,73,Western Europe,GBR_44755,,Haringey,
+230,1247,1,44740,4624,"1,64,73,95,4749,4624,44740",6,1,1,230,Harrow,Harrow,Harrow,Harrow,16,health_districts,,64,High-income,73,Western Europe,GBR_44740,,Harrow,
+231,1247,1,44737,4624,"1,64,73,95,4749,4624,44737",6,1,1,231,Havering,Havering,Havering,Havering,16,health_districts,,64,High-income,73,Western Europe,GBR_44737,,Havering,
+232,1247,1,44736,4624,"1,64,73,95,4749,4624,44736",6,1,1,232,Hillingdon,Hillingdon,Hillingdon,Hillingdon,16,health_districts,,64,High-income,73,Western Europe,GBR_44736,,Hillingdon,
+233,1247,1,44751,4624,"1,64,73,95,4749,4624,44751",6,1,1,233,Hounslow,Hounslow,Hounslow,Hounslow,16,health_districts,,64,High-income,73,Western Europe,GBR_44751,,Hounslow,
+234,1247,1,44757,4624,"1,64,73,95,4749,4624,44757",6,1,1,234,Islington,Islington,Islington,Islington,16,health_districts,,64,High-income,73,Western Europe,GBR_44757,,Islington,
+235,1247,1,44728,4624,"1,64,73,95,4749,4624,44728",6,1,1,235,Kensington and Chelsea,Kensington and Chelsea,Kensington & Chelsea,Kensington and Chelsea,16,health_districts,,64,High-income,73,Western Europe,GBR_44728,,Kensington and Chelsea,
+236,1247,1,44738,4624,"1,64,73,95,4749,4624,44738",6,1,1,236,Kingston upon Thames,Kingston upon Thames,Kingston upon Thames,Kingston upon Thames,16,health_districts,,64,High-income,73,Western Europe,GBR_44738,,Kingston upon Thames,
+237,1247,1,44749,4624,"1,64,73,95,4749,4624,44749",6,1,1,237,Lambeth,Lambeth,Lambeth,Lambeth,16,health_districts,,64,High-income,73,Western Europe,GBR_44749,,Lambeth,
+238,1247,1,44750,4624,"1,64,73,95,4749,4624,44750",6,1,1,238,Lewisham,Lewisham,Lewisham,Lewisham,16,health_districts,,64,High-income,73,Western Europe,GBR_44750,,Lewisham,
+239,1247,1,44734,4624,"1,64,73,95,4749,4624,44734",6,1,1,239,Merton,Merton,Merton,Merton,16,health_districts,,64,High-income,73,Western Europe,GBR_44734,,Merton,
+240,1247,1,44753,4624,"1,64,73,95,4749,4624,44753",6,1,1,240,Newham,Newham,Newham,Newham,16,health_districts,,64,High-income,73,Western Europe,GBR_44753,,Newham,
+241,1247,1,44733,4624,"1,64,73,95,4749,4624,44733",6,1,1,241,Redbridge,Redbridge,Redbridge,Redbridge,16,health_districts,,64,High-income,73,Western Europe,GBR_44733,,Redbridge,
+242,1247,1,44727,4624,"1,64,73,95,4749,4624,44727",6,1,1,242,Richmond upon Thames,Richmond upon Thames,Richmond upon Thames,Richmond upon Thames,16,health_districts,,64,High-income,73,Western Europe,GBR_44727,,Richmond upon Thames,
+243,1247,1,44752,4624,"1,64,73,95,4749,4624,44752",6,1,1,243,Southwark,Southwark,Southwark,Southwark,16,health_districts,,64,High-income,73,Western Europe,GBR_44752,,Southwark,
+244,1247,1,44739,4624,"1,64,73,95,4749,4624,44739",6,1,1,244,Sutton,Sutton,Sutton,Sutton,16,health_districts,,64,High-income,73,Western Europe,GBR_44739,,Sutton,
+245,1247,1,44758,4624,"1,64,73,95,4749,4624,44758",6,1,1,245,Tower Hamlets,Tower Hamlets,Tower Hamlets,Tower Hamlets,16,health_districts,,64,High-income,73,Western Europe,GBR_44758,,Tower Hamlets,
+246,1247,1,44747,4624,"1,64,73,95,4749,4624,44747",6,1,1,246,Waltham Forest,Waltham Forest,Waltham Forest,Waltham Forest,16,health_districts,,64,High-income,73,Western Europe,GBR_44747,,Waltham Forest,
+247,1247,1,44746,4624,"1,64,73,95,4749,4624,44746",6,1,1,247,Wandsworth,Wandsworth,Wandsworth,Wandsworth,16,health_districts,,64,High-income,73,Western Europe,GBR_44746,,Wandsworth,
+248,1247,1,44730,4624,"1,64,73,95,4749,4624,44730",6,1,1,248,Westminster,Westminster,Westminster,Westminster,16,health_districts,,64,High-income,73,Western Europe,GBR_44730,,Westminster,
+249,1247,1,4618,4749,"1,64,73,95,4749,4618",5,0,0,249,North East England,North East England,NE England,North East England,3,admin1,,64,High-income,73,Western Europe,GBR_4618,UKC,North East England,
+250,1247,1,44649,4618,"1,64,73,95,4749,4618,44649",6,1,1,250,County Durham,County Durham,County Durham,County Durham,16,health_districts,,64,High-income,73,Western Europe,GBR_44649,,County Durham,
+251,1247,1,44643,4618,"1,64,73,95,4749,4618,44643",6,1,1,251,Darlington,Darlington,Darlington,Darlington,16,health_districts,,64,High-income,73,Western Europe,GBR_44643,,Darlington,
+252,1247,1,44650,4618,"1,64,73,95,4749,4618,44650",6,1,1,252,Gateshead,Gateshead,Gateshead,Gateshead,16,health_districts,,64,High-income,73,Western Europe,GBR_44650,,Gateshead,
+253,1247,1,44654,4618,"1,64,73,95,4749,4618,44654",6,1,1,253,Hartlepool,Hartlepool,Hartlepool,Hartlepool,16,health_districts,,64,High-income,73,Western Europe,GBR_44654,,Hartlepool,
+254,1247,1,44651,4618,"1,64,73,95,4749,4618,44651",6,1,1,254,Middlesbrough,Middlesbrough,Middlesbrough,Middlesbrough,16,health_districts,,64,High-income,73,Western Europe,GBR_44651,,Middlesbrough,
+255,1247,1,44646,4618,"1,64,73,95,4749,4618,44646",6,1,1,255,Newcastle upon Tyne,Newcastle upon Tyne,Newcastle upon Tyne,Newcastle upon Tyne,16,health_districts,,64,High-income,73,Western Europe,GBR_44646,,Newcastle upon Tyne,
+256,1247,1,44647,4618,"1,64,73,95,4749,4618,44647",6,1,1,256,North Tyneside,North Tyneside,N Tyneside,North Tyneside,16,health_districts,,64,High-income,73,Western Europe,GBR_44647,,North Tyneside,
+257,1247,1,44644,4618,"1,64,73,95,4749,4618,44644",6,1,1,257,Northumberland,Northumberland,Northumberland,Northumberland,16,health_districts,,64,High-income,73,Western Europe,GBR_44644,,Northumberland,
+258,1247,1,44648,4618,"1,64,73,95,4749,4618,44648",6,1,1,258,Redcar and Cleveland,Redcar and Cleveland,Redcar & Cleveland,Redcar and Cleveland,16,health_districts,,64,High-income,73,Western Europe,GBR_44648,,Redcar and Cleveland,
+259,1247,1,44652,4618,"1,64,73,95,4749,4618,44652",6,1,1,259,South Tyneside,South Tyneside,S Tyneside,South Tyneside,16,health_districts,,64,High-income,73,Western Europe,GBR_44652,,South Tyneside,
+260,1247,1,44645,4618,"1,64,73,95,4749,4618,44645",6,1,1,260,Stockton-on-Tees,Stockton-on-Tees,Stockton-on-Tees,Stockton-on-Tees,16,health_districts,,64,High-income,73,Western Europe,GBR_44645,,Stockton-on-Tees,
+261,1247,1,44653,4618,"1,64,73,95,4749,4618,44653",6,1,1,261,Sunderland,Sunderland,Sunderland,Sunderland,16,health_districts,,64,High-income,73,Western Europe,GBR_44653,,Sunderland,
+262,1247,1,4619,4749,"1,64,73,95,4749,4619",5,0,0,262,North West England,North West England,NW England,North West England,3,admin1,,64,High-income,73,Western Europe,GBR_4619,UKD,North West England,
+263,1247,1,44674,4619,"1,64,73,95,4749,4619,44674",6,1,1,263,Blackburn with Darwen,Blackburn with Darwen,Blackburn with Darwen,Blackburn with Darwen,16,health_districts,,64,High-income,73,Western Europe,GBR_44674,,Blackburn with Darwen,
+264,1247,1,44676,4619,"1,64,73,95,4749,4619,44676",6,1,1,264,Blackpool,Blackpool,Blackpool,Blackpool,16,health_districts,,64,High-income,73,Western Europe,GBR_44676,,Blackpool,
+265,1247,1,44662,4619,"1,64,73,95,4749,4619,44662",6,1,1,265,Bolton,Bolton,Bolton,Bolton,16,health_districts,,64,High-income,73,Western Europe,GBR_44662,,Bolton,
+266,1247,1,44664,4619,"1,64,73,95,4749,4619,44664",6,1,1,266,Bury,Bury,Bury,Bury,16,health_districts,,64,High-income,73,Western Europe,GBR_44664,,Bury,
+267,1247,1,44655,4619,"1,64,73,95,4749,4619,44655",6,1,1,267,Cheshire East,Cheshire East,Cheshire E,Cheshire East,16,health_districts,,64,High-income,73,Western Europe,GBR_44655,,Cheshire East,
+268,1247,1,44658,4619,"1,64,73,95,4749,4619,44658",6,1,1,268,Cheshire West and Chester,Cheshire West and Chester,Cheshire W & Chester,Cheshire West and Chester,16,health_districts,,64,High-income,73,Western Europe,GBR_44658,,Cheshire West and Chester,
+269,1247,1,44661,4619,"1,64,73,95,4749,4619,44661",6,1,1,269,Cumbria,Cumbria,Cumbria,Cumbria,16,health_districts,,64,High-income,73,Western Europe,GBR_44661,,Cumbria,
+270,1247,1,44670,4619,"1,64,73,95,4749,4619,44670",6,1,1,270,Halton,Halton,Halton,Halton,16,health_districts,,64,High-income,73,Western Europe,GBR_44670,,Halton,
+271,1247,1,44675,4619,"1,64,73,95,4749,4619,44675",6,1,1,271,Knowsley,Knowsley,Knowsley,Knowsley,16,health_districts,,64,High-income,73,Western Europe,GBR_44675,,Knowsley,
+272,1247,1,44660,4619,"1,64,73,95,4749,4619,44660",6,1,1,272,Lancashire,Lancashire,Lancashire,Lancashire,16,health_districts,,64,High-income,73,Western Europe,GBR_44660,,Lancashire,
+273,1247,1,44671,4619,"1,64,73,95,4749,4619,44671",6,1,1,273,Liverpool,Liverpool,Liverpool,Liverpool,16,health_districts,,64,High-income,73,Western Europe,GBR_44671,,Liverpool,
+274,1247,1,44677,4619,"1,64,73,95,4749,4619,44677",6,1,1,274,Manchester,Manchester,Manchester,Manchester,16,health_districts,,64,High-income,73,Western Europe,GBR_44677,,Manchester,
+275,1247,1,44667,4619,"1,64,73,95,4749,4619,44667",6,1,1,275,Oldham,Oldham,Oldham,Oldham,16,health_districts,,64,High-income,73,Western Europe,GBR_44667,,Oldham,
+276,1247,1,44668,4619,"1,64,73,95,4749,4619,44668",6,1,1,276,Rochdale,Rochdale,Rochdale,Rochdale,16,health_districts,,64,High-income,73,Western Europe,GBR_44668,,Rochdale,
+277,1247,1,44673,4619,"1,64,73,95,4749,4619,44673",6,1,1,277,Salford,Salford,Salford,Salford,16,health_districts,,64,High-income,73,Western Europe,GBR_44673,,Salford,
+278,1247,1,44659,4619,"1,64,73,95,4749,4619,44659",6,1,1,278,Sefton,Sefton,Sefton,Sefton,16,health_districts,,64,High-income,73,Western Europe,GBR_44659,,Sefton,
+279,1247,1,44665,4619,"1,64,73,95,4749,4619,44665",6,1,1,279,St Helens,St Helens,St Helens,St Helens,16,health_districts,,64,High-income,73,Western Europe,GBR_44665,,St Helens,
+280,1247,1,44656,4619,"1,64,73,95,4749,4619,44656",6,1,1,280,Stockport,Stockport,Stockport,Stockport,16,health_districts,,64,High-income,73,Western Europe,GBR_44656,,Stockport,
+281,1247,1,44672,4619,"1,64,73,95,4749,4619,44672",6,1,1,281,Tameside,Tameside,Tameside,Tameside,16,health_districts,,64,High-income,73,Western Europe,GBR_44672,,Tameside,
+282,1247,1,44657,4619,"1,64,73,95,4749,4619,44657",6,1,1,282,Trafford,Trafford,Trafford,Trafford,16,health_districts,,64,High-income,73,Western Europe,GBR_44657,,Trafford,
+283,1247,1,44666,4619,"1,64,73,95,4749,4619,44666",6,1,1,283,Warrington,Warrington,Warrington,Warrington,16,health_districts,,64,High-income,73,Western Europe,GBR_44666,,Warrington,
+284,1247,1,44669,4619,"1,64,73,95,4749,4619,44669",6,1,1,284,Wigan,Wigan,Wigan,Wigan,16,health_districts,,64,High-income,73,Western Europe,GBR_44669,,Wigan,
+285,1247,1,44663,4619,"1,64,73,95,4749,4619,44663",6,1,1,285,Wirral,Wirral,Wirral,Wirral,16,health_districts,,64,High-income,73,Western Europe,GBR_44663,,Wirral,
+286,1247,1,4625,4749,"1,64,73,95,4749,4625",5,0,0,286,South East England,South East England,SE England,South East England,3,admin1,,64,High-income,73,Western Europe,GBR_4625,UKJ,South East England,
+287,1247,1,44765,4625,"1,64,73,95,4749,4625,44765",6,1,1,287,Bracknell Forest,Bracknell Forest,Bracknell Forest,Bracknell Forest,16,health_districts,,64,High-income,73,Western Europe,GBR_44765,,Bracknell Forest,
+288,1247,1,44770,4625,"1,64,73,95,4749,4625,44770",6,1,1,288,Brighton and Hove,Brighton and Hove,Brighton & Hove,Brighton and Hove,16,health_districts,,64,High-income,73,Western Europe,GBR_44770,,Brighton and Hove,
+289,1247,1,44760,4625,"1,64,73,95,4749,4625,44760",6,1,1,289,Buckinghamshire,Buckinghamshire,Buckinghamshire,Buckinghamshire,16,health_districts,,64,High-income,73,Western Europe,GBR_44760,,Buckinghamshire,
+290,1247,1,44772,4625,"1,64,73,95,4749,4625,44772",6,1,1,290,East Sussex,East Sussex,E Sussex,East Sussex,16,health_districts,,64,High-income,73,Western Europe,GBR_44772,,East Sussex,
+291,1247,1,44764,4625,"1,64,73,95,4749,4625,44764",6,1,1,291,Hampshire,Hampshire,Hampshire,Hampshire,16,health_districts,,64,High-income,73,Western Europe,GBR_44764,,Hampshire,
+292,1247,1,44774,4625,"1,64,73,95,4749,4625,44774",6,1,1,292,Isle of Wight,Isle of Wight,Isle of Wight,Isle of Wight,16,health_districts,,64,High-income,73,Western Europe,GBR_44774,,Isle of Wight,
+293,1247,1,44769,4625,"1,64,73,95,4749,4625,44769",6,1,1,293,Kent,Kent,Kent,Kent,16,health_districts,,64,High-income,73,Western Europe,GBR_44769,,Kent,
+294,1247,1,44771,4625,"1,64,73,95,4749,4625,44771",6,1,1,294,Medway,Medway,Medway,Medway,16,health_districts,,64,High-income,73,Western Europe,GBR_44771,,Medway,
+295,1247,1,44775,4625,"1,64,73,95,4749,4625,44775",6,1,1,295,Milton Keynes,Milton Keynes,Milton Keynes,Milton Keynes,16,health_districts,,64,High-income,73,Western Europe,GBR_44775,,Milton Keynes,
+296,1247,1,44767,4625,"1,64,73,95,4749,4625,44767",6,1,1,296,Oxfordshire,Oxfordshire,Oxfordshire,Oxfordshire,16,health_districts,,64,High-income,73,Western Europe,GBR_44767,,Oxfordshire,
+297,1247,1,44773,4625,"1,64,73,95,4749,4625,44773",6,1,1,297,Portsmouth,Portsmouth,Portsmouth,Portsmouth,16,health_districts,,64,High-income,73,Western Europe,GBR_44773,,Portsmouth,
+298,1247,1,44768,4625,"1,64,73,95,4749,4625,44768",6,1,1,298,Reading,Reading,Reading,Reading,16,health_districts,,64,High-income,73,Western Europe,GBR_44768,,Reading,
+299,1247,1,44777,4625,"1,64,73,95,4749,4625,44777",6,1,1,299,Slough,Slough,Slough,Slough,16,health_districts,,64,High-income,73,Western Europe,GBR_44777,,Slough,
+300,1247,1,44776,4625,"1,64,73,95,4749,4625,44776",6,1,1,300,Southampton,Southampton,Southampton,Southampton,16,health_districts,,64,High-income,73,Western Europe,GBR_44776,,Southampton,
+301,1247,1,44761,4625,"1,64,73,95,4749,4625,44761",6,1,1,301,Surrey,Surrey,Surrey,Surrey,16,health_districts,,64,High-income,73,Western Europe,GBR_44761,,Surrey,
+302,1247,1,44763,4625,"1,64,73,95,4749,4625,44763",6,1,1,302,West Berkshire,West Berkshire,West Berkshire,West Berkshire,16,health_districts,,64,High-income,73,Western Europe,GBR_44763,,West Berkshire,
+303,1247,1,44766,4625,"1,64,73,95,4749,4625,44766",6,1,1,303,West Sussex,West Sussex,W Sussex,West Sussex,16,health_districts,,64,High-income,73,Western Europe,GBR_44766,,West Sussex,
+304,1247,1,44762,4625,"1,64,73,95,4749,4625,44762",6,1,1,304,Windsor and Maidenhead,Windsor and Maidenhead,Windsor & Maidenhead,Windsor and Maidenhead,16,health_districts,,64,High-income,73,Western Europe,GBR_44762,,Windsor and Maidenhead,
+305,1247,1,44759,4625,"1,64,73,95,4749,4625,44759",6,1,1,305,Wokingham,Wokingham,Wokingham,Wokingham,16,health_districts,,64,High-income,73,Western Europe,GBR_44759,,Wokingham,
+306,1247,1,4626,4749,"1,64,73,95,4749,4626",5,0,0,306,South West England,South West England,SW England,South West England,3,admin1,,64,High-income,73,Western Europe,GBR_4626,UKK,South West England,
+307,1247,1,44784,4626,"1,64,73,95,4749,4626,44784",6,1,1,307,Bath and North East Somerset,Bath and North East Somerset,Bath & NE Somerset,Bath and North East Somerset,16,health_districts,,64,High-income,73,Western Europe,GBR_44784,,Bath and North East Somerset,
+308,1247,1,44790,4626,"1,64,73,95,4749,4626,44790",6,1,1,308,Bournemouth,Bournemouth,Bournemouth,Bournemouth,16,health_districts,,64,High-income,73,Western Europe,GBR_44790,,Bournemouth,
+309,1247,1,44789,4626,"1,64,73,95,4749,4626,44789",6,1,1,309,"Bristol, City of","Bristol, City of",Bristol,"Bristol, City of",16,health_districts,,64,High-income,73,Western Europe,GBR_44789,,"Bristol, City of",
+310,1247,1,44791,4626,"1,64,73,95,4749,4626,44791",6,1,1,310,Cornwall,Cornwall,Cornwall,Cornwall,16,health_districts,,64,High-income,73,Western Europe,GBR_44791,,Cornwall,
+311,1247,1,44782,4626,"1,64,73,95,4749,4626,44782",6,1,1,311,Devon,Devon,Devon,Devon,16,health_districts,,64,High-income,73,Western Europe,GBR_44782,,Devon,
+312,1247,1,44779,4626,"1,64,73,95,4749,4626,44779",6,1,1,312,Dorset,Dorset,Dorset,Dorset,16,health_districts,,64,High-income,73,Western Europe,GBR_44779,,Dorset,
+313,1247,1,44785,4626,"1,64,73,95,4749,4626,44785",6,1,1,313,Gloucestershire,Gloucestershire,Gloucestershire,Gloucestershire,16,health_districts,,64,High-income,73,Western Europe,GBR_44785,,Gloucestershire,
+314,1247,1,44781,4626,"1,64,73,95,4749,4626,44781",6,1,1,314,North Somerset,North Somerset,N Somerset,North Somerset,16,health_districts,,64,High-income,73,Western Europe,GBR_44781,,North Somerset,
+315,1247,1,44792,4626,"1,64,73,95,4749,4626,44792",6,1,1,315,Plymouth,Plymouth,Plymouth,Plymouth,16,health_districts,,64,High-income,73,Western Europe,GBR_44792,,Plymouth,
+316,1247,1,44783,4626,"1,64,73,95,4749,4626,44783",6,1,1,316,Poole,Poole,Poole,Poole,16,health_districts,,64,High-income,73,Western Europe,GBR_44783,,Poole,
+317,1247,1,44786,4626,"1,64,73,95,4749,4626,44786",6,1,1,317,Somerset,Somerset,Somerset,Somerset,16,health_districts,,64,High-income,73,Western Europe,GBR_44786,,Somerset,
+318,1247,1,44778,4626,"1,64,73,95,4749,4626,44778",6,1,1,318,South Gloucestershire,South Gloucestershire,S Gloucestershire,South Gloucestershire,16,health_districts,,64,High-income,73,Western Europe,GBR_44778,,South Gloucestershire,
+319,1247,1,44787,4626,"1,64,73,95,4749,4626,44787",6,1,1,319,Swindon,Swindon,Swindon,Swindon,16,health_districts,,64,High-income,73,Western Europe,GBR_44787,,Swindon,
+320,1247,1,44788,4626,"1,64,73,95,4749,4626,44788",6,1,1,320,Torbay,Torbay,Torbay,Torbay,16,health_districts,,64,High-income,73,Western Europe,GBR_44788,,Torbay,
+321,1247,1,44780,4626,"1,64,73,95,4749,4626,44780",6,1,1,321,Wiltshire,Wiltshire,Wiltshire,Wiltshire,16,health_districts,,64,High-income,73,Western Europe,GBR_44780,,Wiltshire,
+322,1247,1,4622,4749,"1,64,73,95,4749,4622",5,0,0,322,West Midlands,West Midlands,W Midlands,West Midlands,3,admin1,,64,High-income,73,Western Europe,GBR_4622,UKG,West Midlands,
+323,1247,1,44714,4622,"1,64,73,95,4749,4622,44714",6,1,1,323,Birmingham,Birmingham,Birmingham,Birmingham,16,health_districts,,64,High-income,73,Western Europe,GBR_44714,,Birmingham,
+324,1247,1,44709,4622,"1,64,73,95,4749,4622,44709",6,1,1,324,Coventry,Coventry,Coventry,Coventry,16,health_districts,,64,High-income,73,Western Europe,GBR_44709,,Coventry,
+325,1247,1,44708,4622,"1,64,73,95,4749,4622,44708",6,1,1,325,Dudley,Dudley,Dudley,Dudley,16,health_districts,,64,High-income,73,Western Europe,GBR_44708,,Dudley,
+326,1247,1,44703,4622,"1,64,73,95,4749,4622,44703",6,1,1,326,"Herefordshire, County of","Herefordshire, County of",Herefordshire,"Herefordshire, County of",16,health_districts,,64,High-income,73,Western Europe,GBR_44703,,"Herefordshire, County of",
+327,1247,1,44715,4622,"1,64,73,95,4749,4622,44715",6,1,1,327,Sandwell,Sandwell,Sandwell,Sandwell,16,health_districts,,64,High-income,73,Western Europe,GBR_44715,,Sandwell,
+328,1247,1,44705,4622,"1,64,73,95,4749,4622,44705",6,1,1,328,Shropshire,Shropshire,Shropshire,Shropshire,16,health_districts,,64,High-income,73,Western Europe,GBR_44705,,Shropshire,
+329,1247,1,44704,4622,"1,64,73,95,4749,4622,44704",6,1,1,329,Solihull,Solihull,Solihull,Solihull,16,health_districts,,64,High-income,73,Western Europe,GBR_44704,,Solihull,
+330,1247,1,44707,4622,"1,64,73,95,4749,4622,44707",6,1,1,330,Staffordshire,Staffordshire,Staffordshire,Staffordshire,16,health_districts,,64,High-income,73,Western Europe,GBR_44707,,Staffordshire,
+331,1247,1,44711,4622,"1,64,73,95,4749,4622,44711",6,1,1,331,Stoke-on-Trent,Stoke-on-Trent,Stoke-on-Trent,Stoke-on-Trent,16,health_districts,,64,High-income,73,Western Europe,GBR_44711,,Stoke-on-Trent,
+332,1247,1,44710,4622,"1,64,73,95,4749,4622,44710",6,1,1,332,Telford and Wrekin,Telford and Wrekin,Telford & Wrekin,Telford and Wrekin,16,health_districts,,64,High-income,73,Western Europe,GBR_44710,,Telford and Wrekin,
+333,1247,1,44712,4622,"1,64,73,95,4749,4622,44712",6,1,1,333,Walsall,Walsall,Walsall,Walsall,16,health_districts,,64,High-income,73,Western Europe,GBR_44712,,Walsall,
+334,1247,1,44702,4622,"1,64,73,95,4749,4622,44702",6,1,1,334,Warwickshire,Warwickshire,Warwickshire,Warwickshire,16,health_districts,,64,High-income,73,Western Europe,GBR_44702,,Warwickshire,
+335,1247,1,44713,4622,"1,64,73,95,4749,4622,44713",6,1,1,335,Wolverhampton,Wolverhampton,Wolverhampton,Wolverhampton,16,health_districts,,64,High-income,73,Western Europe,GBR_44713,,Wolverhampton,
+336,1247,1,44706,4622,"1,64,73,95,4749,4622,44706",6,1,1,336,Worcestershire,Worcestershire,Worcestershire,Worcestershire,16,health_districts,,64,High-income,73,Western Europe,GBR_44706,,Worcestershire,
+337,1247,1,4620,4749,"1,64,73,95,4749,4620",5,0,0,337,Yorkshire and the Humber,Yorkshire and the Humber,Yorkshire & Humber,Yorkshire and the Humber,3,admin1,,64,High-income,73,Western Europe,GBR_4620,UKE,Yorkshire and the Humber,
+338,1247,1,44692,4620,"1,64,73,95,4749,4620,44692",6,1,1,338,Barnsley,Barnsley,Barnsley,Barnsley,16,health_districts,,64,High-income,73,Western Europe,GBR_44692,,Barnsley,
+339,1247,1,44684,4620,"1,64,73,95,4749,4620,44684",6,1,1,339,Bradford,Bradford,Bradford,Bradford,16,health_districts,,64,High-income,73,Western Europe,GBR_44684,,Bradford,
+340,1247,1,44682,4620,"1,64,73,95,4749,4620,44682",6,1,1,340,Calderdale,Calderdale,Calderdale,Calderdale,16,health_districts,,64,High-income,73,Western Europe,GBR_44682,,Calderdale,
+341,1247,1,44690,4620,"1,64,73,95,4749,4620,44690",6,1,1,341,Doncaster,Doncaster,Doncaster,Doncaster,16,health_districts,,64,High-income,73,Western Europe,GBR_44690,,Doncaster,
+342,1247,1,44679,4620,"1,64,73,95,4749,4620,44679",6,1,1,342,East Riding of Yorkshire,East Riding of Yorkshire,E Riding of Yorkshire,East Riding of Yorkshire,16,health_districts,,64,High-income,73,Western Europe,GBR_44679,,East Riding of Yorkshire,
+343,1247,1,44691,4620,"1,64,73,95,4749,4620,44691",6,1,1,343,"Kingston upon Hull, City of","Kingston upon Hull, City of",Kingston upon Hull,"Kingston upon Hull, City of",16,health_districts,,64,High-income,73,Western Europe,GBR_44691,,"Kingston upon Hull, City of",
+344,1247,1,44685,4620,"1,64,73,95,4749,4620,44685",6,1,1,344,Kirklees,Kirklees,Kirklees,Kirklees,16,health_districts,,64,High-income,73,Western Europe,GBR_44685,,Kirklees,
+345,1247,1,44686,4620,"1,64,73,95,4749,4620,44686",6,1,1,345,Leeds,Leeds,Leeds,Leeds,16,health_districts,,64,High-income,73,Western Europe,GBR_44686,,Leeds,
+346,1247,1,44681,4620,"1,64,73,95,4749,4620,44681",6,1,1,346,North East Lincolnshire,North East Lincolnshire,NE Lincolnshire,North East Lincolnshire,16,health_districts,,64,High-income,73,Western Europe,GBR_44681,,North East Lincolnshire,
+347,1247,1,44683,4620,"1,64,73,95,4749,4620,44683",6,1,1,347,North Lincolnshire,North Lincolnshire,N Lincolnshire,North Lincolnshire,16,health_districts,,64,High-income,73,Western Europe,GBR_44683,,North Lincolnshire,
+348,1247,1,44678,4620,"1,64,73,95,4749,4620,44678",6,1,1,348,North Yorkshire,North Yorkshire,N Yorkshire,North Yorkshire,16,health_districts,,64,High-income,73,Western Europe,GBR_44678,,North Yorkshire,
+349,1247,1,44689,4620,"1,64,73,95,4749,4620,44689",6,1,1,349,Rotherham,Rotherham,Rotherham,Rotherham,16,health_districts,,64,High-income,73,Western Europe,GBR_44689,,Rotherham,
+350,1247,1,44687,4620,"1,64,73,95,4749,4620,44687",6,1,1,350,Sheffield,Sheffield,Sheffield,Sheffield,16,health_districts,,64,High-income,73,Western Europe,GBR_44687,,Sheffield,
+351,1247,1,44688,4620,"1,64,73,95,4749,4620,44688",6,1,1,351,Wakefield,Wakefield,Wakefield,Wakefield,16,health_districts,,64,High-income,73,Western Europe,GBR_44688,,Wakefield,
+352,1247,1,44680,4620,"1,64,73,95,4749,4620,44680",6,1,1,352,York,York,York,York,16,health_districts,,64,High-income,73,Western Europe,GBR_44680,,York,
+353,1247,1,433,95,"1,64,73,95,433",4,1,1,353,Northern Ireland,Northern Ireland,N Ireland,Northern Ireland,3,admin1,,64,High-income,73,Western Europe,GBR_433,NIR,Northern Ireland,
+354,1247,1,434,95,"1,64,73,95,434",4,1,1,354,Scotland,Scotland,Scotland,Scotland,3,admin1,,64,High-income,73,Western Europe,GBR_434,SCT,Scotland,
+355,1247,1,4636,95,"1,64,73,95,4636",4,1,1,355,Wales,Wales,Wales,Wales,3,admin1,,64,High-income,73,Western Europe,GBR_4636,WLS,Wales,
+356,1247,1,103,1,"1,103",1,0,0,356,Latin America and Caribbean,Latin America and Caribbean,Latin Am & Caribbean,Latin America and Caribbean,7,superregion,,103,Latin America and Caribbean,NA,,S7,S7,Latin America and Caribbean,Latin America and Caribbean
+357,1247,1,120,103,"1,103,120",2,0,0,357,Andean Latin America,Andean Latin America,Andean Latin Am,Andean Latin America,6,region,,103,Latin America and Caribbean,120,Andean Latin America,R11,R11,Andean Latin America,Andean Latin America
+358,1247,1,121,120,"1,103,120,121",3,1,1,358,Bolivia (Plurinational State of),Bolivia (Plurinational State of),Bolivia,Bolivia (Plurinational State of),2,admin0,BOL,103,Latin America and Caribbean,120,Andean Latin America,BOL,BOL,Bolivia,Plurinational State of Bolivia
+359,1247,1,122,120,"1,103,120,122",3,1,1,359,Ecuador,Ecuador,Ecuador,Ecuador,2,admin0,ECU,103,Latin America and Caribbean,120,Andean Latin America,ECU,ECU,Ecuador,Republic of Ecuador
+360,1247,1,123,120,"1,103,120,123",3,1,1,360,Peru,Peru,Peru,Peru,2,admin0,PER,103,Latin America and Caribbean,120,Andean Latin America,PER,PER,Peru,Republic of Peru
+361,1247,1,104,103,"1,103,104",2,0,0,361,Caribbean,Caribbean,Caribbean,Caribbean,6,region,,103,Latin America and Caribbean,104,Caribbean,R7,R7,Caribbean,Caribbean
+362,1247,1,105,104,"1,103,104,105",3,1,1,362,Antigua and Barbuda,Antigua and Barbuda,Antigua and Barbuda,Antigua and Barbuda,2,admin0,ATG,103,Latin America and Caribbean,104,Caribbean,ATG,ATG,Antigua and Barbuda,Antigua and Barbuda
+363,1247,1,106,104,"1,103,104,106",3,1,1,363,Bahamas,Bahamas,Bahamas,Bahamas,2,admin0,BHS,103,Latin America and Caribbean,104,Caribbean,BHS,BHS,The Bahamas,Commonwealth of the Bahamas
+364,1247,1,107,104,"1,103,104,107",3,1,1,364,Barbados,Barbados,Barbados,Barbados,2,admin0,BRB,103,Latin America and Caribbean,104,Caribbean,BRB,BRB,Barbados,Barbados
+365,1247,1,108,104,"1,103,104,108",3,1,1,365,Belize,Belize,Belize,Belize,2,admin0,BLZ,103,Latin America and Caribbean,104,Caribbean,BLZ,BLZ,Belize,Belize
+366,1247,1,305,104,"1,103,104,305",3,1,1,366,Bermuda,Bermuda,Bermuda,Bermuda,8,nonsovereign,,103,Latin America and Caribbean,104,Caribbean,BMU,BMU,Bermuda,Bermuda
+367,1247,1,109,104,"1,103,104,109",3,1,1,367,Cuba,Cuba,Cuba,Cuba,2,admin0,CUB,103,Latin America and Caribbean,104,Caribbean,CUB,CUB,Cuba,Republic of Cuba
+368,1247,1,110,104,"1,103,104,110",3,1,1,368,Dominica,Dominica,Dominica,Dominica,2,admin0,DMA,103,Latin America and Caribbean,104,Caribbean,DMA,DMA,Dominica,Commonwealth of Dominica
+369,1247,1,111,104,"1,103,104,111",3,1,1,369,Dominican Republic,Dominican Republic,Dominican Rep.,Dominican Republic,2,admin0,DOM,103,Latin America and Caribbean,104,Caribbean,DOM,DOM,Dominican Republic,Dominican Republic
+370,1247,1,112,104,"1,103,104,112",3,1,1,370,Grenada,Grenada,Grenada,Grenada,2,admin0,GRD,103,Latin America and Caribbean,104,Caribbean,GRD,GRD,Grenada,Grenada
+371,1247,1,113,104,"1,103,104,113",3,1,1,371,Guyana,Guyana,Guyana,Guyana,2,admin0,GUY,103,Latin America and Caribbean,104,Caribbean,GUY,GUY,Guyana,Republic of Guyana
+372,1247,1,114,104,"1,103,104,114",3,1,1,372,Haiti,Haiti,Haiti,Haiti,2,admin0,HTI,103,Latin America and Caribbean,104,Caribbean,HTI,HTI,Haiti,Republic of Haiti
+373,1247,1,115,104,"1,103,104,115",3,1,1,373,Jamaica,Jamaica,Jamaica,Jamaica,2,admin0,JAM,103,Latin America and Caribbean,104,Caribbean,JAM,JAM,Jamaica,Jamaica
+374,1247,1,385,104,"1,103,104,385",3,1,1,374,Puerto Rico,Puerto Rico,Puerto Rico,Puerto Rico,8,nonsovereign,,103,Latin America and Caribbean,104,Caribbean,PRI,PRI,Puerto Rico,Puerto Rico
+375,1247,1,393,104,"1,103,104,393",3,1,1,375,Saint Kitts and Nevis,Saint Kitts and Nevis,St. Kitts and Nevis,Saint Kitts and Nevis,2,admin0,,103,Latin America and Caribbean,104,Caribbean,KNA,KNA,Saint Kitts and Nevis,Saint Kitts and Nevis
+376,1247,1,116,104,"1,103,104,116",3,1,1,376,Saint Lucia,Saint Lucia,St. Lucia,Saint Lucia,2,admin0,LCA,103,Latin America and Caribbean,104,Caribbean,LCA,LCA,Saint Lucia,Saint Lucia
+377,1247,1,117,104,"1,103,104,117",3,1,1,377,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,St. Vincent and the Grenadines,Saint Vincent and the Grenadines,2,admin0,VCT,103,Latin America and Caribbean,104,Caribbean,VCT,VCT,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines
+378,1247,1,118,104,"1,103,104,118",3,1,1,378,Suriname,Suriname,Suriname,Suriname,2,admin0,SUR,103,Latin America and Caribbean,104,Caribbean,SUR,SUR,Suriname,Republic of Suriname
+379,1247,1,119,104,"1,103,104,119",3,1,1,379,Trinidad and Tobago,Trinidad and Tobago,Trinidad and Tobago,Trinidad and Tobago,2,admin0,TTO,103,Latin America and Caribbean,104,Caribbean,TTO,TTO,Trinidad and Tobago,Republic of Trinidad and Tobago
+380,1247,1,422,104,"1,103,104,422",3,1,1,380,United States Virgin Islands,United States Virgin Islands,Virgin Isl US,United States Virgin Islands,8,nonsovereign,,103,Latin America and Caribbean,104,Caribbean,VIR,VIR,Virgin Islands,United States Virgin Islands
+381,1247,1,124,103,"1,103,124",2,0,0,381,Central Latin America,Central Latin America,Central Latin Am,Central Latin America,6,region,,103,Latin America and Caribbean,124,Central Latin America,R12,R12,Central Latin America,Central Latin America
+382,1247,1,125,124,"1,103,124,125",3,1,1,382,Colombia,Colombia,Colombia,Colombia,2,admin0,COL,103,Latin America and Caribbean,124,Central Latin America,COL,COL,Colombia,Republic of Colombia
+383,1247,1,126,124,"1,103,124,126",3,1,1,383,Costa Rica,Costa Rica,Costa Rica,Costa Rica,2,admin0,CRI,103,Latin America and Caribbean,124,Central Latin America,CRI,CRI,Costa Rica,Republic of Costa Rica
+384,1247,1,127,124,"1,103,124,127",3,1,1,384,El Salvador,El Salvador,El Salvador,El Salvador,2,admin0,SLV,103,Latin America and Caribbean,124,Central Latin America,SLV,SLV,El Salvador,Republic of El Salvador
+385,1247,1,128,124,"1,103,124,128",3,1,1,385,Guatemala,Guatemala,Guatemala,Guatemala,2,admin0,GTM,103,Latin America and Caribbean,124,Central Latin America,GTM,GTM,Guatemala,Republic of Guatemala
+386,1247,1,129,124,"1,103,124,129",3,1,1,386,Honduras,Honduras,Honduras,Honduras,2,admin0,HND,103,Latin America and Caribbean,124,Central Latin America,HND,HND,Honduras,Republic of Honduras
+387,1247,1,130,124,"1,103,124,130",3,0,0,387,Mexico,Mexico,Mexico,Mexico,2,admin0,MEX,103,Latin America and Caribbean,124,Central Latin America,MEX,MEX,Mexico,United Mexican States
+388,1247,1,4643,130,"11,031,241,304,643",4,1,1,388,Aguascalientes,Aguascalientes,Aguascalientes,Aguascalientes,3,admin1,,103,Latin America and Caribbean,124,Central Latin America,MEX_4643,MX-AGU,Aguascalientes,
+389,1247,1,4644,130,"11,031,241,304,644",4,1,1,389,Baja California,Baja California,Baja CA,Baja California,3,admin1,,103,Latin America and Caribbean,124,Central Latin America,MEX_4644,MX-BCN,Baja California,
+390,1247,1,4645,130,"11,031,241,304,645",4,1,1,390,Baja California Sur,Baja California Sur,Baja CA Sur,Baja California Sur,3,admin1,,103,Latin America and Caribbean,124,Central Latin America,MEX_4645,MX-BCS,Baja California Sur,
+391,1247,1,4646,130,"11,031,241,304,646",4,1,1,391,Campeche,Campeche,Campeche,Campeche,3,admin1,,103,Latin America and Caribbean,124,Central Latin America,MEX_4646,MX-CAM,Campeche,
+392,1247,1,4649,130,"11,031,241,304,649",4,1,1,392,Chiapas,Chiapas,Chiapas,Chiapas,3,admin1,,103,Latin America and Caribbean,124,Central Latin America,MEX_4649,MX-CHP,Chiapas,
+393,1247,1,4650,130,"11,031,241,304,650",4,1,1,393,Chihuahua,Chihuahua,Chihuahua,Chihuahua,3,admin1,,103,Latin America and Caribbean,124,Central Latin America,MEX_4650,MX-CHH,Chihuahua,
+394,1247,1,4647,130,"11,031,241,304,647",4,1,1,394,Coahuila,Coahuila,Coahuila,Coahuila,3,admin1,,103,Latin America and Caribbean,124,Central Latin America,MEX_4647,MX-COA,Coahuila,
+395,1247,1,4648,130,"11,031,241,304,648",4,1,1,395,Colima,Colima,Colima,Colima,3,admin1,,103,Latin America and Caribbean,124,Central Latin America,MEX_4648,MX-COL,Colima,
+396,1247,1,4652,130,"11,031,241,304,652",4,1,1,396,Durango,Durango,Durango,Durango,3,admin1,,103,Latin America and Caribbean,124,Central Latin America,MEX_4652,MX-DUR,Durango,
+397,1247,1,4653,130,"11,031,241,304,653",4,1,1,397,Guanajuato,Guanajuato,Guanajuato,Guanajuato,3,admin1,,103,Latin America and Caribbean,124,Central Latin America,MEX_4653,MX-GUA,Guanajuato,
+398,1247,1,4654,130,"11,031,241,304,654",4,1,1,398,Guerrero,Guerrero,Guerrero,Guerrero,3,admin1,,103,Latin America and Caribbean,124,Central Latin America,MEX_4654,MX-GRO,Guerrero,
+399,1247,1,4655,130,"11,031,241,304,655",4,1,1,399,Hidalgo,Hidalgo,Hidalgo,Hidalgo,3,admin1,,103,Latin America and Caribbean,124,Central Latin America,MEX_4655,MX-HID,Hidalgo,
+400,1247,1,4656,130,"11,031,241,304,656",4,1,1,400,Jalisco,Jalisco,Jalisco,Jalisco,3,admin1,,103,Latin America and Caribbean,124,Central Latin America,MEX_4656,MX-JAL,Jalisco,
+401,1247,1,4657,130,"11,031,241,304,657",4,1,1,401,México,Mexico,Mexico,México,3,admin1,,103,Latin America and Caribbean,124,Central Latin America,MEX_4657,MX-MEX,México,
+402,1247,1,4651,130,"11,031,241,304,651",4,1,1,402,Mexico City,Mexico City,Mexico City,Mexico City,3,admin1,,103,Latin America and Caribbean,124,Central Latin America,MEX_4651,MX-DIF,Mexico City,
+403,1247,1,4658,130,"11,031,241,304,658",4,1,1,403,Michoacán de Ocampo,Michoacan de Ocampo,Michoacan,Michoacán de Ocampo,3,admin1,,103,Latin America and Caribbean,124,Central Latin America,MEX_4658,MX-MIC,Michoacán de Ocampo,
+404,1247,1,4659,130,"11,031,241,304,659",4,1,1,404,Morelos,Morelos,Morelos,Morelos,3,admin1,,103,Latin America and Caribbean,124,Central Latin America,MEX_4659,MX-MOR,Morelos,
+405,1247,1,4660,130,"11,031,241,304,660",4,1,1,405,Nayarit,Nayarit,Nayarit,Nayarit,3,admin1,,103,Latin America and Caribbean,124,Central Latin America,MEX_4660,MX-NAY,Nayarit,
+406,1247,1,4661,130,"11,031,241,304,661",4,1,1,406,Nuevo León,Nuevo Leon,Nuevo Leon,Nuevo León,3,admin1,,103,Latin America and Caribbean,124,Central Latin America,MEX_4661,MX-NLE,Nuevo León,
+407,1247,1,4662,130,"11,031,241,304,662",4,1,1,407,Oaxaca,Oaxaca,Oaxaca,Oaxaca,3,admin1,,103,Latin America and Caribbean,124,Central Latin America,MEX_4662,MX-OAX,Oaxaca,
+408,1247,1,4663,130,"11,031,241,304,663",4,1,1,408,Puebla,Puebla,Puebla,Puebla,3,admin1,,103,Latin America and Caribbean,124,Central Latin America,MEX_4663,MX-PUE,Puebla,
+409,1247,1,4664,130,"11,031,241,304,664",4,1,1,409,Querétaro,Queretaro,Queretaro,Querétaro,3,admin1,,103,Latin America and Caribbean,124,Central Latin America,MEX_4664,MX-QUE,Querétaro,
+410,1247,1,4665,130,"11,031,241,304,665",4,1,1,410,Quintana Roo,Quintana Roo,Quintana Roo,Quintana Roo,3,admin1,,103,Latin America and Caribbean,124,Central Latin America,MEX_4665,MX-ROO,Quintana Roo,
+411,1247,1,4666,130,"11,031,241,304,666",4,1,1,411,San Luis Potosí,San Luis Potosi,San Luis Potosi,San Luis Potosí,3,admin1,,103,Latin America and Caribbean,124,Central Latin America,MEX_4666,MX-SLP,San Luis Potosí,
+412,1247,1,4667,130,"11,031,241,304,667",4,1,1,412,Sinaloa,Sinaloa,Sinaloa,Sinaloa,3,admin1,,103,Latin America and Caribbean,124,Central Latin America,MEX_4667,MX-SIN,Sinaloa,
+413,1247,1,4668,130,"11,031,241,304,668",4,1,1,413,Sonora,Sonora,Sonora,Sonora,3,admin1,,103,Latin America and Caribbean,124,Central Latin America,MEX_4668,MX-SON,Sonora,
+414,1247,1,4669,130,"11,031,241,304,669",4,1,1,414,Tabasco,Tabasco,Tabasco,Tabasco,3,admin1,,103,Latin America and Caribbean,124,Central Latin America,MEX_4669,MX-TAB,Tabasco,
+415,1247,1,4670,130,"11,031,241,304,670",4,1,1,415,Tamaulipas,Tamaulipas,Tamaulipas,Tamaulipas,3,admin1,,103,Latin America and Caribbean,124,Central Latin America,MEX_4670,MX-TAM,Tamaulipas,
+416,1247,1,4671,130,"11,031,241,304,671",4,1,1,416,Tlaxcala,Tlaxcala,Tlaxcala,Tlaxcala,3,admin1,,103,Latin America and Caribbean,124,Central Latin America,MEX_4671,MX-TLA,Tlaxcala,
+417,1247,1,4672,130,"11,031,241,304,672",4,1,1,417,Veracruz de Ignacio de la Llave,Veracruz de Ignacio de la Llave,Veracruz,Veracruz de Ignacio de la Llave,3,admin1,,103,Latin America and Caribbean,124,Central Latin America,MEX_4672,MX-VER,Veracruz de Ignacio de la Llave,
+418,1247,1,4673,130,"11,031,241,304,673",4,1,1,418,Yucatán,Yucatan,Yucatan,Yucatán,3,admin1,,103,Latin America and Caribbean,124,Central Latin America,MEX_4673,MX-YUC,Yucatán,
+419,1247,1,4674,130,"11,031,241,304,674",4,1,1,419,Zacatecas,Zacatecas,Zacatecas,Zacatecas,3,admin1,,103,Latin America and Caribbean,124,Central Latin America,MEX_4674,MX-ZAC,Zacatecas,
+420,1247,1,131,124,"1,103,124,131",3,1,1,420,Nicaragua,Nicaragua,Nicaragua,Nicaragua,2,admin0,NIC,103,Latin America and Caribbean,124,Central Latin America,NIC,NIC,Nicaragua,Republic of Nicaragua
+421,1247,1,132,124,"1,103,124,132",3,1,1,421,Panama,Panama,Panama,Panama,2,admin0,PAN,103,Latin America and Caribbean,124,Central Latin America,PAN,PAN,Panama,Republic of Panama
+422,1247,1,133,124,"1,103,124,133",3,1,1,422,Venezuela (Bolivarian Republic of),Venezuela (Bolivarian Republic of),Venezuela,Venezuela (Bolivarian Republic of),2,admin0,VEN,103,Latin America and Caribbean,124,Central Latin America,VEN,VEN,Venezuela,Bolivarian Republic of Venezuela
+423,1247,1,134,103,"1,103,134",2,0,0,423,Tropical Latin America,Tropical Latin America,Trop Latin Am,Tropical Latin America,6,region,,103,Latin America and Caribbean,134,Tropical Latin America,R14,R14,Tropical Latin America,Tropical Latin America
+424,1247,1,135,134,"1,103,134,135",3,0,0,424,Brazil,Brazil,Brazil,Brazil,2,admin0,BRA,103,Latin America and Caribbean,134,Tropical Latin America,BRA,BRA,Brazil,Federative Republic of Brazil
+425,1247,1,95078,135,"110,313,413,595,078",4,0,0,425,Brazil North,Brazil North,Brazil North,Brazil North,19,macro_regions,,103,Latin America and Caribbean,134,Tropical Latin America,BRA_95078,,,
+426,1247,1,4750,95078,"1,103,134,135,950,780,000",5,1,1,426,Acre,Acre,Acre,Acre,3,admin1,BR-AC,103,Latin America and Caribbean,134,Tropical Latin America,BRA_4750,BR-AC,Acre,
+427,1247,1,4753,95078,"1,103,134,135,950,780,000",5,1,1,427,Amapá,Amapa,Amapa,Amapá,3,admin1,BR-AP,103,Latin America and Caribbean,134,Tropical Latin America,BRA_4753,BR-AP,Amapá,
+428,1247,1,4752,95078,"1,103,134,135,950,780,000",5,1,1,428,Amazonas,Amazonas,Amazonas,Amazonas,3,admin1,BR-AM,103,Latin America and Caribbean,134,Tropical Latin America,BRA_4752,BR-AM,Amazonas,
+429,1247,1,4763,95078,"1,103,134,135,950,780,000",5,1,1,429,Pará,Para,Para,Pará,3,admin1,BR-PA,103,Latin America and Caribbean,134,Tropical Latin America,BRA_4763,BR-PA,Pará,
+430,1247,1,4770,95078,"1,103,134,135,950,780,000",5,1,1,430,Rondônia,Rondonia,Rondonia,Rondônia,3,admin1,BR-RO,103,Latin America and Caribbean,134,Tropical Latin America,BRA_4770,BR-RO,Rondônia,
+431,1247,1,4771,95078,"1,103,134,135,950,780,000",5,1,1,431,Roraima,Roraima,Roraima,Roraima,3,admin1,BR-RR,103,Latin America and Caribbean,134,Tropical Latin America,BRA_4771,BR-RR,Roraima,
+432,1247,1,4776,95078,"1,103,134,135,950,780,000",5,1,1,432,Tocantins,Tocantins,Tocantins,Tocantins,3,admin1,BR-TO,103,Latin America and Caribbean,134,Tropical Latin America,BRA_4776,BR-TO,Tocantins,
+433,1247,1,95079,135,"110,313,413,595,079",4,0,0,433,Brazil Northeast,Brazil Northeast,Brazil Northeast,Brazil Northeast,19,macro_regions,,103,Latin America and Caribbean,134,Tropical Latin America,BRA_95079,,,
+434,1247,1,4751,95079,"1,103,134,135,950,790,000",5,1,1,434,Alagoas,Alagoas,Alagoas,Alagoas,3,admin1,BR-AL,103,Latin America and Caribbean,134,Tropical Latin America,BRA_4751,BR-AL,Alagoas,
+435,1247,1,4754,95079,"1,103,134,135,950,790,000",5,1,1,435,Bahia,Bahia,Bahia,Bahia,3,admin1,BR-BA,103,Latin America and Caribbean,134,Tropical Latin America,BRA_4754,BR-BA,Bahia,
+436,1247,1,4755,95079,"1,103,134,135,950,790,000",5,1,1,436,Ceará,Ceara,Ceara,Ceará,3,admin1,BR-CE,103,Latin America and Caribbean,134,Tropical Latin America,BRA_4755,BR-CE,Ceará,
+437,1247,1,4759,95079,"1,103,134,135,950,790,000",5,1,1,437,Maranhão,Maranhao,Maranhao,Maranhão,3,admin1,BR-MA,103,Latin America and Caribbean,134,Tropical Latin America,BRA_4759,BR-MA,Maranhão,
+438,1247,1,4764,95079,"1,103,134,135,950,790,000",5,1,1,438,Paraíba,Paraiba,Paraiba,Paraíba,3,admin1,BR-PB,103,Latin America and Caribbean,134,Tropical Latin America,BRA_4764,BR-PB,Paraíba,
+439,1247,1,4766,95079,"1,103,134,135,950,790,000",5,1,1,439,Pernambuco,Pernambuco,Pernambuco,Pernambuco,3,admin1,BR-PE,103,Latin America and Caribbean,134,Tropical Latin America,BRA_4766,BR-PE,Pernambuco,
+440,1247,1,4767,95079,"1,103,134,135,950,790,000",5,1,1,440,Piaui,Piaui,Piaui,Piaui,3,admin1,BR-PI,103,Latin America and Caribbean,134,Tropical Latin America,BRA_4767,BR-PI,Piauí,
+441,1247,1,4769,95079,"1,103,134,135,950,790,000",5,1,1,441,Rio Grande do Norte,Rio Grande do Norte,Rio Grande do Norte,Rio Grande do Norte,3,admin1,BR-RN,103,Latin America and Caribbean,134,Tropical Latin America,BRA_4769,BR-RN,Rio Grande do Norte,
+442,1247,1,4774,95079,"1,103,134,135,950,790,000",5,1,1,442,Sergipe,Sergipe,Sergipe,Sergipe,3,admin1,BR-SE,103,Latin America and Caribbean,134,Tropical Latin America,BRA_4774,BR-SE,Sergipe,
+443,1247,1,95080,135,"110,313,413,595,080",4,0,0,443,Brazil Central-West,Brazil Central-West,Brazil Central-West,Brazil Central-West,19,macro_regions,,103,Latin America and Caribbean,134,Tropical Latin America,BRA_95080,,,
+444,1247,1,4756,95080,"1,103,134,135,950,800,000",5,1,1,444,Distrito Federal,Distrito Federal,Distrito Federal,Distrito Federal,3,admin1,BR-DF,103,Latin America and Caribbean,134,Tropical Latin America,BRA_4756,BR-DF,Distrito Federal,
+445,1247,1,4758,95080,"1,103,134,135,950,800,000",5,1,1,445,Goiás,Goias,Goias,Goiás,3,admin1,BR-GO,103,Latin America and Caribbean,134,Tropical Latin America,BRA_4758,BR-GO,Goiás,
+446,1247,1,4762,95080,"1,103,134,135,950,800,000",5,1,1,446,Mato Grosso,Mato Grosso,Mato Grosso,Mato Grosso,3,admin1,BR-MT,103,Latin America and Caribbean,134,Tropical Latin America,BRA_4762,BR-MT,Mato Grosso,
+447,1247,1,4761,95080,"1,103,134,135,950,800,000",5,1,1,447,Mato Grosso do Sul,Mato Grosso do Sul,Mato Grosso do Sul,Mato Grosso do Sul,3,admin1,BR-MS,103,Latin America and Caribbean,134,Tropical Latin America,BRA_4761,BR-MS,Mato Grosso do Sul,
+448,1247,1,95081,135,"110,313,413,595,081",4,0,0,448,Brazil South,Brazil South,Brazil South,Brazil South,19,macro_regions,,103,Latin America and Caribbean,134,Tropical Latin America,BRA_95081,,,
+449,1247,1,4765,95081,"1,103,134,135,950,810,000",5,1,1,449,Paraná,Parana,Parana,Paraná,3,admin1,BR-PR,103,Latin America and Caribbean,134,Tropical Latin America,BRA_4765,BR-PR,Paraná,
+450,1247,1,4772,95081,"1,103,134,135,950,810,000",5,1,1,450,Rio Grande do Sul,Rio Grande do Sul,Rio Grande do Sul,Rio Grande do Sul,3,admin1,BR-RS,103,Latin America and Caribbean,134,Tropical Latin America,BRA_4772,BR-RS,Rio Grande do Sul,
+451,1247,1,4773,95081,"1,103,134,135,950,810,000",5,1,1,451,Santa Catarina,Santa Catarina,Santa Catarina,Santa Catarina,3,admin1,BR-SC,103,Latin America and Caribbean,134,Tropical Latin America,BRA_4773,BR-SC,Santa Catarina,
+452,1247,1,95082,135,"110,313,413,595,082",4,0,0,452,Brazil Southeast,Brazil Southeast,Brazil Southeast,Brazil Southeast,19,macro_regions,,103,Latin America and Caribbean,134,Tropical Latin America,BRA_95082,,,
+453,1247,1,4757,95082,"1,103,134,135,950,820,000",5,1,1,453,Espírito Santo,Espirito Santo,Espirito Santo,Espírito Santo,3,admin1,BR-ES,103,Latin America and Caribbean,134,Tropical Latin America,BRA_4757,BR-ES,Espírito Santo,
+454,1247,1,4760,95082,"1,103,134,135,950,820,000",5,1,1,454,Minas Gerais,Minas Gerais,Minas Gerais,Minas Gerais,3,admin1,BR-MG,103,Latin America and Caribbean,134,Tropical Latin America,BRA_4760,BR-MG,Minas Gerais,
+455,1247,1,4768,95082,"1,103,134,135,950,820,000",5,1,1,455,Rio de Janeiro,Rio de Janeiro,Rio de Janeiro,Rio de Janeiro,3,admin1,BR-RJ,103,Latin America and Caribbean,134,Tropical Latin America,BRA_4768,BR-RJ,Rio de Janeiro,
+456,1247,1,4775,95082,"1,103,134,135,950,820,000",5,1,1,456,São Paulo,Sao Paulo,Sao Paulo,São Paulo,3,admin1,BR-SP,103,Latin America and Caribbean,134,Tropical Latin America,BRA_4775,BR-SP,São Paulo,
+457,1247,1,136,134,"1,103,134,136",3,1,1,457,Paraguay,Paraguay,Paraguay,Paraguay,2,admin0,PRY,103,Latin America and Caribbean,134,Tropical Latin America,PRY,PRY,Paraguay,Republic of Paraguay
+458,1247,1,137,1,"1,137",1,0,0,458,North Africa and Middle East,North Africa and Middle East,MENA,North Africa and Middle East,7,superregion,,137,North Africa and Middle East,NA,,S4,S4,North Africa and Middle East,North Africa and Middle East
+459,1247,1,138,137,"1,137,138",2,0,0,459,North Africa and Middle East,North Africa and Middle East,MENA,North Africa and Middle East,6,region,,137,North Africa and Middle East,138,North Africa and Middle East,R15,R15,North Africa and Middle East,North Africa and Middle East
+460,1247,1,160,138,"1,137,138,160",3,1,1,460,Afghanistan,Afghanistan,Afghanistan,Afghanistan,2,admin0,AFG,137,North Africa and Middle East,138,North Africa and Middle East,AFG,AFG,Afghanistan,Islamic Republic of Afghanistan
+461,1247,1,139,138,"1,137,138,139",3,1,1,461,Algeria,Algeria,Algeria,Algeria,2,admin0,DZA,137,North Africa and Middle East,138,North Africa and Middle East,DZA,DZA,Algeria,People’s Democratic Republic of Algeria
+462,1247,1,140,138,"1,137,138,140",3,1,1,462,Bahrain,Bahrain,Bahrain,Bahrain,2,admin0,BHR,137,North Africa and Middle East,138,North Africa and Middle East,BHR,BHR,Bahrain,Kingdom of Bahrain
+463,1247,1,141,138,"1,137,138,141",3,1,1,463,Egypt,Egypt,Egypt,Egypt,2,admin0,EGY,137,North Africa and Middle East,138,North Africa and Middle East,EGY,EGY,Egypt,Arab Republic of Egypt
+464,1247,1,142,138,"1,137,138,142",3,0,0,464,Iran (Islamic Republic of),Iran (Islamic Republic of),Iran,Iran (Islamic Republic of),2,admin0,IRN,137,North Africa and Middle East,138,North Africa and Middle East,IRN,IRN,Iran,Islamic Republic of Iran
+465,1247,1,44864,142,"113,713,814,244,864",4,1,1,465,Alborz,Alborz,Alborz,Alborz,3,admin1,,137,North Africa and Middle East,138,North Africa and Middle East,IRN_44864,,Alborz,
+466,1247,1,44865,142,"113,713,814,244,865",4,1,1,466,Ardebil,Ardebil,Ardebil,Ardebil,3,admin1,,137,North Africa and Middle East,138,North Africa and Middle East,IRN_44865,,Ardebil,
+467,1247,1,44868,142,"113,713,814,244,868",4,1,1,467,Bushehr,Bushehr,Bushehr,Bushehr,3,admin1,,137,North Africa and Middle East,138,North Africa and Middle East,IRN_44868,,Bushehr,
+468,1247,1,44869,142,"113,713,814,244,869",4,1,1,468,Chahar Mahaal and Bakhtiari,Chahar Mahaal and Bakhtiari,Chahar,Chahar Mahaal and Bakhtiari,3,admin1,,137,North Africa and Middle East,138,North Africa and Middle East,IRN_44869,,Chahar Mahaal and Bakhtiari,
+469,1247,1,44866,142,"113,713,814,244,866",4,1,1,469,East Azarbayejan,East Azarbayejan,E Azarbayejan,East Azarbayejan,3,admin1,,137,North Africa and Middle East,138,North Africa and Middle East,IRN_44866,,East Azarbayejan,
+470,1247,1,44870,142,"113,713,814,244,870",4,1,1,470,Fars,Fars,Fars,Fars,3,admin1,,137,North Africa and Middle East,138,North Africa and Middle East,IRN_44870,,Fars,
+471,1247,1,44871,142,"113,713,814,244,871",4,1,1,471,Gilan,Gilan,Gilan,Gilan,3,admin1,,137,North Africa and Middle East,138,North Africa and Middle East,IRN_44871,,Gilan,
+472,1247,1,44872,142,"113,713,814,244,872",4,1,1,472,Golestan,Golestan,Golestan,Golestan,3,admin1,,137,North Africa and Middle East,138,North Africa and Middle East,IRN_44872,,Golestan,
+473,1247,1,44873,142,"113,713,814,244,873",4,1,1,473,Hamadan,Hamadan,Hamadan,Hamadan,3,admin1,,137,North Africa and Middle East,138,North Africa and Middle East,IRN_44873,,Hamadan,
+474,1247,1,44874,142,"113,713,814,244,874",4,1,1,474,Hormozgan,Hormozgan,Hormozgan,Hormozgan,3,admin1,,137,North Africa and Middle East,138,North Africa and Middle East,IRN_44874,,Hormozgan,
+475,1247,1,44875,142,"113,713,814,244,875",4,1,1,475,Ilam,Ilam,Ilam,Ilam,3,admin1,,137,North Africa and Middle East,138,North Africa and Middle East,IRN_44875,,Ilam,
+476,1247,1,44876,142,"113,713,814,244,876",4,1,1,476,Isfahan,Isfahan,Isfahan,Isfahan,3,admin1,,137,North Africa and Middle East,138,North Africa and Middle East,IRN_44876,,Isfahan,
+477,1247,1,44877,142,"113,713,814,244,877",4,1,1,477,Kerman,Kerman,Kerman,Kerman,3,admin1,,137,North Africa and Middle East,138,North Africa and Middle East,IRN_44877,,Kerman,
+478,1247,1,44878,142,"113,713,814,244,878",4,1,1,478,Kermanshah,Kermanshah,Kermanshah,Kermanshah,3,admin1,,137,North Africa and Middle East,138,North Africa and Middle East,IRN_44878,,Kermanshah,
+479,1247,1,44880,142,"113,713,814,244,880",4,1,1,479,Khorasan-e-Razavi,Khorasan-e-Razavi,Khorasan,Khorasan-e-Razavi,3,admin1,,137,North Africa and Middle East,138,North Africa and Middle East,IRN_44880,,Khorasan-e-Razavi,
+480,1247,1,44882,142,"113,713,814,244,882",4,1,1,480,Khuzestan,Khuzestan,Khuzestan,Khuzestan,3,admin1,,137,North Africa and Middle East,138,North Africa and Middle East,IRN_44882,,Khuzestan,
+481,1247,1,44883,142,"113,713,814,244,883",4,1,1,481,Kohgiluyeh and Boyer-Ahmad,Kohgiluyeh and Boyer-Ahmad,Kohgiluyeh,Kohgiluyeh and Boyer-Ahmad,3,admin1,,137,North Africa and Middle East,138,North Africa and Middle East,IRN_44883,,Kohgiluyeh and Boyer-Ahmad,
+482,1247,1,44884,142,"113,713,814,244,884",4,1,1,482,Kurdistan,Kurdistan,Kurdistan,Kurdistan,3,admin1,,137,North Africa and Middle East,138,North Africa and Middle East,IRN_44884,,Kurdistan,
+483,1247,1,44885,142,"113,713,814,244,885",4,1,1,483,Lorestan,Lorestan,Lorestan,Lorestan,3,admin1,,137,North Africa and Middle East,138,North Africa and Middle East,IRN_44885,,Lorestan,
+484,1247,1,44886,142,"113,713,814,244,886",4,1,1,484,Markazi,Markazi,Markazi,Markazi,3,admin1,,137,North Africa and Middle East,138,North Africa and Middle East,IRN_44886,,Markazi,
+485,1247,1,44887,142,"113,713,814,244,887",4,1,1,485,Mazandaran,Mazandaran,Mazandaran,Mazandaran,3,admin1,,137,North Africa and Middle East,138,North Africa and Middle East,IRN_44887,,Mazandaran,
+486,1247,1,44879,142,"113,713,814,244,879",4,1,1,486,North Khorasan,North Khorasan,N Khorasan,North Khorasan,3,admin1,,137,North Africa and Middle East,138,North Africa and Middle East,IRN_44879,,North Khorasan,
+487,1247,1,44888,142,"113,713,814,244,888",4,1,1,487,Qazvin,Qazvin,Qazvin,Qazvin,3,admin1,,137,North Africa and Middle East,138,North Africa and Middle East,IRN_44888,,Qazvin,
+488,1247,1,44889,142,"113,713,814,244,889",4,1,1,488,Qom,Qom,Qom,Qom,3,admin1,,137,North Africa and Middle East,138,North Africa and Middle East,IRN_44889,,Qom,
+489,1247,1,44890,142,"113,713,814,244,890",4,1,1,489,Semnan,Semnan,Semnan,Semnan,3,admin1,,137,North Africa and Middle East,138,North Africa and Middle East,IRN_44890,,Semnan,
+490,1247,1,44891,142,"113,713,814,244,891",4,1,1,490,Sistan and Baluchistan,Sistan and Baluchistan,Sistan Balu,Sistan and Baluchistan,3,admin1,,137,North Africa and Middle East,138,North Africa and Middle East,IRN_44891,,Sistan and Baluchistan,
+491,1247,1,44881,142,"113,713,814,244,881",4,1,1,491,South Khorasan,South Khorasan,S Khorasan,South Khorasan,3,admin1,,137,North Africa and Middle East,138,North Africa and Middle East,IRN_44881,,South Khorasan,
+492,1247,1,44892,142,"113,713,814,244,892",4,1,1,492,Tehran,Tehran,Tehran,Tehran,3,admin1,,137,North Africa and Middle East,138,North Africa and Middle East,IRN_44892,,Tehran,
+493,1247,1,44867,142,"113,713,814,244,867",4,1,1,493,West Azarbayejan,West Azarbayejan,W Azarbayejan,West Azarbayejan,3,admin1,,137,North Africa and Middle East,138,North Africa and Middle East,IRN_44867,,West Azarbayejan,
+494,1247,1,44893,142,"113,713,814,244,893",4,1,1,494,Yazd,Yazd,Yazd,Yazd,3,admin1,,137,North Africa and Middle East,138,North Africa and Middle East,IRN_44893,,Yazd,
+495,1247,1,44894,142,"113,713,814,244,894",4,1,1,495,Zanjan,Zanjan,Zanjan,Zanjan,3,admin1,,137,North Africa and Middle East,138,North Africa and Middle East,IRN_44894,,Zanjan,
+496,1247,1,143,138,"1,137,138,143",3,1,1,496,Iraq,Iraq,Iraq,Iraq,2,admin0,IRQ,137,North Africa and Middle East,138,North Africa and Middle East,IRQ,IRQ,Iraq,Republic of Iraq
+497,1247,1,144,138,"1,137,138,144",3,1,1,497,Jordan,Jordan,Jordan,Jordan,2,admin0,JOR,137,North Africa and Middle East,138,North Africa and Middle East,JOR,JOR,Jordan,Hashemite Kingdom of Jordan
+498,1247,1,145,138,"1,137,138,145",3,1,1,498,Kuwait,Kuwait,Kuwait,Kuwait,2,admin0,KWT,137,North Africa and Middle East,138,North Africa and Middle East,KWT,KWT,Kuwait,State of Kuwait
+499,1247,1,146,138,"1,137,138,146",3,1,1,499,Lebanon,Lebanon,Lebanon,Lebanon,2,admin0,LBN,137,North Africa and Middle East,138,North Africa and Middle East,LBN,LBN,Lebanon,Lebanese Republic
+500,1247,1,147,138,"1,137,138,147",3,1,1,500,Libya,Libya,Libya,Libya,2,admin0,LBY,137,North Africa and Middle East,138,North Africa and Middle East,LBY,LBY,Libya,State of Libya
+501,1247,1,148,138,"1,137,138,148",3,1,1,501,Morocco,Morocco,Morocco,Morocco,2,admin0,MAR,137,North Africa and Middle East,138,North Africa and Middle East,MAR,MAR,Morocco,Kingdom of Morocco
+502,1247,1,150,138,"1,137,138,150",3,1,1,502,Oman,Oman,Oman,Oman,2,admin0,OMN,137,North Africa and Middle East,138,North Africa and Middle East,OMN,OMN,Oman,Sultanate of Oman
+503,1247,1,149,138,"1,137,138,149",3,1,1,503,Palestine,Palestine,Palestine,Palestine,2,admin0,PSE,137,North Africa and Middle East,138,North Africa and Middle East,PSE,PSE,Palestine,Palestine
+504,1247,1,151,138,"1,137,138,151",3,1,1,504,Qatar,Qatar,Qatar,Qatar,2,admin0,QAT,137,North Africa and Middle East,138,North Africa and Middle East,QAT,QAT,Qatar,State of Qatar
+505,1247,1,152,138,"1,137,138,152",3,1,1,505,Saudi Arabia,Saudi Arabia,Saudi Arabia,Saudi Arabia,2,admin0,SAU,137,North Africa and Middle East,138,North Africa and Middle East,SAU,SAU,Saudi Arabia,Kingdom of Saudi Arabia
+506,1247,1,522,138,"1,137,138,522",3,1,1,506,Sudan,Sudan,Sudan,Sudan,2,admin0,SDN,137,North Africa and Middle East,138,North Africa and Middle East,SDN,SDN,Sudan,Republic of Sudan
+507,1247,1,153,138,"1,137,138,153",3,1,1,507,Syrian Arab Republic,Syrian Arab Republic,Syria,Syrian Arab Republic,2,admin0,SYR,137,North Africa and Middle East,138,North Africa and Middle East,SYR,SYR,Syria,Syrian Arab Republic
+508,1247,1,154,138,"1,137,138,154",3,1,1,508,Tunisia,Tunisia,Tunisia,Tunisia,2,admin0,TUN,137,North Africa and Middle East,138,North Africa and Middle East,TUN,TUN,Tunisia,Republic of Tunisia
+509,1247,1,155,138,"1,137,138,155",3,1,1,509,Türkiye,Turkiye,Turkiye,Türkiye,2,admin0,TUR,137,North Africa and Middle East,138,North Africa and Middle East,TUR,TUR,Türkiye,Republic of Turkey
+510,1247,1,156,138,"1,137,138,156",3,1,1,510,United Arab Emirates,United Arab Emirates,UAE,United Arab Emirates,2,admin0,ARE,137,North Africa and Middle East,138,North Africa and Middle East,ARE,ARE,United Arab Emirates,United Arab Emirates
+511,1247,1,157,138,"1,137,138,157",3,1,1,511,Yemen,Yemen,Yemen,Yemen,2,admin0,YEM,137,North Africa and Middle East,138,North Africa and Middle East,YEM,YEM,Yemen,Republic of Yemen
+512,1247,1,158,1,"1,158",1,0,0,512,South Asia,South Asia,S Asia,South Asia,7,superregion,,158,South Asia,NA,,S5,S5,South Asia,South Asia
+513,1247,1,159,158,"1,158,159",2,0,0,513,South Asia,South Asia,S Asia,South Asia,6,region,,158,South Asia,159,South Asia,R4,R4,South Asia,South Asia
+514,1247,1,161,159,"1,158,159,161",3,1,1,514,Bangladesh,Bangladesh,Bangladesh,Bangladesh,2,admin0,BGD,158,South Asia,159,South Asia,BGD,BGD,Bangladesh,People’s Republic of Bangladesh
+515,1247,1,162,159,"1,158,159,162",3,1,1,515,Bhutan,Bhutan,Bhutan,Bhutan,2,admin0,BTN,158,South Asia,159,South Asia,BTN,BTN,Bhutan,Kingdom of Bhutan
+516,1247,1,163,159,"1,158,159,163",3,0,0,516,India,India,India,India,2,admin0,IND,158,South Asia,159,South Asia,IND,IND,India,Republic of India
+517,1247,1,4841,163,"11,581,591,634,841",4,1,1,517,Andhra Pradesh,Andhra Pradesh,Andhra Pradesh,Andhra Pradesh,3,admin1,AP,158,South Asia,159,South Asia,IND_4841,IN-AP,Andhra Pradesh,
+518,1247,1,4842,163,"11,581,591,634,842",4,1,1,518,Arunachal Pradesh,Arunachal Pradesh,Arunachal Pradesh,Arunachal Pradesh,3,admin1,AR,158,South Asia,159,South Asia,IND_4842,IN-AR,Arunachal Pradesh,
+519,1247,1,4843,163,"11,581,591,634,843",4,1,1,519,Assam,Assam,Assam,Assam,3,admin1,AS,158,South Asia,159,South Asia,IND_4843,IN-AS,Assam,
+520,1247,1,4844,163,"11,581,591,634,844",4,1,1,520,Bihar,Bihar,Bihar,Bihar,3,admin1,BR,158,South Asia,159,South Asia,IND_4844,IN-BR,Bihar,
+521,1247,1,4846,163,"11,581,591,634,846",4,1,1,521,Chhattisgarh,Chhattisgarh,Chhattisgarh,Chhattisgarh,3,admin1,CT,158,South Asia,159,South Asia,IND_4846,IN-CT,Chhattisgarh,
+522,1247,1,4849,163,"11,581,591,634,849",4,1,1,522,Delhi,Delhi,Delhi,Delhi,3,admin1,DL,158,South Asia,159,South Asia,IND_4849,IN-DL,Delhi,
+523,1247,1,4850,163,"11,581,591,634,850",4,1,1,523,Goa,Goa,Goa,Goa,3,admin1,GA,158,South Asia,159,South Asia,IND_4850,IN-GA,Goa,
+524,1247,1,4851,163,"11,581,591,634,851",4,1,1,524,Gujarat,Gujarat,Gujarat,Gujarat,3,admin1,GJ,158,South Asia,159,South Asia,IND_4851,IN-GJ,Gujarat,
+525,1247,1,4852,163,"11,581,591,634,852",4,1,1,525,Haryana,Haryana,Haryana,Haryana,3,admin1,HR,158,South Asia,159,South Asia,IND_4852,IN-HR,Haryana,
+526,1247,1,4853,163,"11,581,591,634,853",4,1,1,526,Himachal Pradesh,Himachal Pradesh,Himachal Pradesh,Himachal Pradesh,3,admin1,HP,158,South Asia,159,South Asia,IND_4853,IN-HP,Himachal Pradesh,
+527,1247,1,4854,163,"11,581,591,634,854",4,1,1,527,Jammu & Kashmir and Ladakh,Jammu & Kashmir and Ladakh,Jammu & Kashmir & Ladakh,Jammu & Kashmir and Ladakh,3,admin1,JK,158,South Asia,159,South Asia,IND_4854,IN-JK,Jammu & Kashmir and Ladakh,
+528,1247,1,4855,163,"11,581,591,634,855",4,1,1,528,Jharkhand,Jharkhand,Jharkhand,Jharkhand,3,admin1,JH,158,South Asia,159,South Asia,IND_4855,IN-JH,Jharkhand,
+529,1247,1,4856,163,"11,581,591,634,856",4,1,1,529,Karnataka,Karnataka,Karnataka,Karnataka,3,admin1,KA,158,South Asia,159,South Asia,IND_4856,IN-KA,Karnataka,
+530,1247,1,4857,163,"11,581,591,634,857",4,1,1,530,Kerala,Kerala,Kerala,Kerala,3,admin1,KL,158,South Asia,159,South Asia,IND_4857,IN-KL,Kerala,
+531,1247,1,4859,163,"11,581,591,634,859",4,1,1,531,Madhya Pradesh,Madhya Pradesh,Madhya Pradesh,Madhya Pradesh,3,admin1,MP,158,South Asia,159,South Asia,IND_4859,IN-MP,Madhya Pradesh,
+532,1247,1,4860,163,"11,581,591,634,860",4,1,1,532,Maharashtra,Maharashtra,Maharashtra,Maharashtra,3,admin1,MH,158,South Asia,159,South Asia,IND_4860,IN-MH,Maharashtra,
+533,1247,1,4861,163,"11,581,591,634,861",4,1,1,533,Manipur,Manipur,Manipur,Manipur,3,admin1,MN,158,South Asia,159,South Asia,IND_4861,IN-MN,Manipur,
+534,1247,1,4862,163,"11,581,591,634,862",4,1,1,534,Meghalaya,Meghalaya,Meghalaya,Meghalaya,3,admin1,ML,158,South Asia,159,South Asia,IND_4862,IN-ML,Meghalaya,
+535,1247,1,4863,163,"11,581,591,634,863",4,1,1,535,Mizoram,Mizoram,Mizoram,Mizoram,3,admin1,MZ,158,South Asia,159,South Asia,IND_4863,IN-MZ,Mizoram,
+536,1247,1,4864,163,"11,581,591,634,864",4,1,1,536,Nagaland,Nagaland,Nagaland,Nagaland,3,admin1,NL,158,South Asia,159,South Asia,IND_4864,IN-NL,Nagaland,
+537,1247,1,4865,163,"11,581,591,634,865",4,1,1,537,Odisha,Odisha,Odisha,Odisha,3,admin1,OR,158,South Asia,159,South Asia,IND_4865,IN-OR,Odisha,
+538,1247,1,44538,163,"115,815,916,344,538",4,1,1,538,Other Union Territories,Other Union Territories,Oth UTs,Other Union Territories,13,subnational,,158,South Asia,159,South Asia,IND_44538,,Other Union Territories,
+539,1247,1,4867,163,"11,581,591,634,867",4,1,1,539,Punjab,Punjab,Punjab,Punjab,3,admin1,PB,158,South Asia,159,South Asia,IND_4867,IN-PB,Punjab,
+540,1247,1,4868,163,"11,581,591,634,868",4,1,1,540,Rajasthan,Rajasthan,Rajasthan,Rajasthan,3,admin1,RJ,158,South Asia,159,South Asia,IND_4868,IN-RJ,Rajasthan,
+541,1247,1,4869,163,"11,581,591,634,869",4,1,1,541,Sikkim,Sikkim,Sikkim,Sikkim,3,admin1,SK,158,South Asia,159,South Asia,IND_4869,IN-SK,Sikkim,
+542,1247,1,4870,163,"11,581,591,634,870",4,1,1,542,Tamil Nadu,Tamil Nadu,Tamil Nadu,Tamil Nadu,3,admin1,TN,158,South Asia,159,South Asia,IND_4870,IN-TN,Tamil Nadu,
+543,1247,1,4871,163,"11,581,591,634,871",4,1,1,543,Telangana,Telangana,Telangana,Telangana,3,admin1,,158,South Asia,159,South Asia,IND_4871,IN-TG,Telangana,
+544,1247,1,4872,163,"11,581,591,634,872",4,1,1,544,Tripura,Tripura,Tripura,Tripura,3,admin1,TR,158,South Asia,159,South Asia,IND_4872,IN-TR,Tripura,
+545,1247,1,4873,163,"11,581,591,634,873",4,1,1,545,Uttar Pradesh,Uttar Pradesh,Uttar Pradesh,Uttar Pradesh,3,admin1,UP,158,South Asia,159,South Asia,IND_4873,IN-UP,Uttar Pradesh,
+546,1247,1,4874,163,"11,581,591,634,874",4,1,1,546,Uttarakhand,Uttarakhand,Uttarakhand,Uttarakhand,3,admin1,UL,158,South Asia,159,South Asia,IND_4874,IN-UT,Uttarakhand,
+547,1247,1,4875,163,"11,581,591,634,875",4,1,1,547,West Bengal,West Bengal,W Bengal,West Bengal,3,admin1,WB,158,South Asia,159,South Asia,IND_4875,IN-WB,West Bengal,
+548,1247,1,164,159,"1,158,159,164",3,1,1,548,Nepal,Nepal,Nepal,Nepal,2,admin0,NPL,158,South Asia,159,South Asia,NPL,NPL,Nepal,Federal Democratic Republic of Nepal
+549,1247,1,165,159,"1,158,159,165",3,0,0,549,Pakistan,Pakistan,Pakistan,Pakistan,2,admin0,PAK,158,South Asia,159,South Asia,PAK,PAK,Pakistan,Islamic Republic of Pakistan
+550,1247,1,53615,165,"115,815,916,553,615",4,1,1,550,Azad Jammu & Kashmir,Azad Jammu & Kashmir,Azad Jammu & Kashmir,Azad Jammu & Kashmir,3,admin1,,158,South Asia,159,South Asia,PAK_53615,,Azad Jammu & Kashmir,
+551,1247,1,53616,165,"115,815,916,553,616",4,1,1,551,Balochistan,Balochistan,Balochistan,Balochistan,3,admin1,,158,South Asia,159,South Asia,PAK_53616,,Balochistan,
+552,1247,1,53617,165,"115,815,916,553,617",4,1,1,552,Gilgit-Baltistan,Gilgit-Baltistan,Gilgit-Baltistan,Gilgit-Baltistan,3,admin1,,158,South Asia,159,South Asia,PAK_53617,,Gilgit-Baltistan,
+553,1247,1,53618,165,"115,815,916,553,618",4,1,1,553,Islamabad Capital Territory,Islamabad Capital Territory,Islamabad,Islamabad Capital Territory,3,admin1,,158,South Asia,159,South Asia,PAK_53618,,Islamabad Capital Territory,
+554,1247,1,53619,165,"115,815,916,553,619",4,1,1,554,Khyber Pakhtunkhwa,Khyber Pakhtunkhwa,KPK,KPK,3,admin1,,158,South Asia,159,South Asia,PAK_53619,,Khyber Pakhtunkhwa,
+555,1247,1,53620,165,"115,815,916,553,620",4,1,1,555,Punjab,Punjab,Punjab,Punjab,3,admin1,,158,South Asia,159,South Asia,PAK_53620,,Punjab,
+556,1247,1,53621,165,"115,815,916,553,621",4,1,1,556,Sindh,Sindh,Sindh,Sindh,3,admin1,,158,South Asia,159,South Asia,PAK_53621,,Sindh,
+557,1247,1,4,1,"1,4",1,0,0,557,"Southeast Asia, East Asia, and Oceania","Southeast Asia, East Asia, and Oceania",SE & E Asia & Oceania,"Southeast Asia, East Asia, and Oceania",7,superregion,,4,"Southeast Asia, East Asia, and Oceania",NA,,S6,S6,"Southeast Asia, east Asia, and Oceania","Southeast Asia, East Asia, and Oceania"
+558,1247,1,5,4,"1,4,5",2,0,0,558,East Asia,East Asia,E Asia,East Asia,6,region,,4,"Southeast Asia, East Asia, and Oceania",5,East Asia,R3,R3,East Asia,East Asia
+559,1247,1,6,5,"1,4,5,6",3,0,1,559,China,China,China,China,2,admin0,CHN,4,"Southeast Asia, East Asia, and Oceania",5,East Asia,CHN,CHN,China,People’s Republic of China
+560,1247,1,7,5,"1,4,5,7",3,1,1,560,Democratic People's Republic of Korea,Democratic People's Republic of Korea,N Korea,Democratic People's Republic of Korea,2,admin0,PRK,4,"Southeast Asia, East Asia, and Oceania",5,East Asia,PRK,PRK,North Korea,Democratic People's Republic of Korea
+561,1247,1,8,5,"1,4,5,8",3,1,1,561,Taiwan (Province of China),Taiwan (Province of China),Taiwan (Province of China),Taiwan (Province of China),2,admin0,71000000,4,"Southeast Asia, East Asia, and Oceania",5,East Asia,TWN,TWN,Taiwan (province of China),Taiwan (Province of China)
+562,1247,1,21,4,"1,4,21",2,0,0,562,Oceania,Oceania,Oceania,Oceania,6,region,,4,"Southeast Asia, East Asia, and Oceania",21,Oceania,R17,R17,Oceania,Oceania
+563,1247,1,298,21,"1,4,21,298",3,1,1,563,American Samoa,American Samoa,Am Samoa,American Samoa,8,nonsovereign,,4,"Southeast Asia, East Asia, and Oceania",21,Oceania,ASM,ASM,American Samoa,American Samoa
+564,1247,1,320,21,"1,4,21,320",3,1,1,564,Cook Islands,Cook Islands,Cook Islands,Cook Islands,8,nonsovereign,,4,"Southeast Asia, East Asia, and Oceania",21,Oceania,COK,COK,Cook Islands,Cook Islands
+565,1247,1,22,21,"1,4,21,22",3,1,1,565,Fiji,Fiji,Fiji,Fiji,2,admin0,FJI,4,"Southeast Asia, East Asia, and Oceania",21,Oceania,FJI,FJI,Fiji,Republic of Fiji
+566,1247,1,351,21,"1,4,21,351",3,1,1,566,Guam,Guam,Guam,Guam,8,nonsovereign,,4,"Southeast Asia, East Asia, and Oceania",21,Oceania,GUM,GUM,Guam,Guam
+567,1247,1,23,21,"1,4,21,23",3,1,1,567,Kiribati,Kiribati,Kiribati,Kiribati,2,admin0,KIR,4,"Southeast Asia, East Asia, and Oceania",21,Oceania,KIR,KIR,Kiribati,Republic of Kiribati
+568,1247,1,24,21,"1,4,21,24",3,1,1,568,Marshall Islands,Marshall Islands,Marshall Islands,Marshall Islands,2,admin0,MHL,4,"Southeast Asia, East Asia, and Oceania",21,Oceania,MHL,MHL,Marshall Islands,Republic of the Marshall Islands
+569,1247,1,25,21,"1,4,21,25",3,1,1,569,Micronesia (Federated States of),Micronesia (Federated States of),Micronesia,Micronesia (Federated States of),2,admin0,FSM,4,"Southeast Asia, East Asia, and Oceania",21,Oceania,FSM,FSM,Federated States of Micronesia,Federated States of Micronesia
+570,1247,1,369,21,"1,4,21,369",3,1,1,570,Nauru,Nauru,Nauru,Nauru,2,admin0,,4,"Southeast Asia, East Asia, and Oceania",21,Oceania,NRU,NRU,Nauru,Republic of Nauru
+571,1247,1,374,21,"1,4,21,374",3,1,1,571,Niue,Niue,Niue,Niue,8,nonsovereign,,4,"Southeast Asia, East Asia, and Oceania",21,Oceania,NIU,NIU,Niue,Republic of Niue
+572,1247,1,376,21,"1,4,21,376",3,1,1,572,Northern Mariana Islands,Northern Mariana Islands,N Mariana,Northern Mariana Islands,8,nonsovereign,,4,"Southeast Asia, East Asia, and Oceania",21,Oceania,MNP,MNP,Northern Mariana Islands,Northern Mariana Islands
+573,1247,1,380,21,"1,4,21,380",3,1,1,573,Palau,Palau,Palau,Palau,2,admin0,,4,"Southeast Asia, East Asia, and Oceania",21,Oceania,PLW,PLW,Palau,Republic of Palau
+574,1247,1,26,21,"1,4,21,26",3,1,1,574,Papua New Guinea,Papua New Guinea,Papua New Guinea,Papua New Guinea,2,admin0,PNG,4,"Southeast Asia, East Asia, and Oceania",21,Oceania,PNG,PNG,Papua New Guinea,Independent State of Papua New Guinea
+575,1247,1,27,21,"1,4,21,27",3,1,1,575,Samoa,Samoa,Samoa,Samoa,2,admin0,WSM,4,"Southeast Asia, East Asia, and Oceania",21,Oceania,WSM,WSM,Samoa,Independent State of Samoa
+576,1247,1,28,21,"1,4,21,28",3,1,1,576,Solomon Islands,Solomon Islands,Solomon Is.,Solomon Islands,2,admin0,SLB,4,"Southeast Asia, East Asia, and Oceania",21,Oceania,SLB,SLB,Solomon Islands,Solomon Islands
+577,1247,1,413,21,"1,4,21,413",3,1,1,577,Tokelau,Tokelau,Tokelau,Tokelau,8,nonsovereign,,4,"Southeast Asia, East Asia, and Oceania",21,Oceania,TKL,TKL,Tokelau,Tokelau
+578,1247,1,29,21,"1,4,21,29",3,1,1,578,Tonga,Tonga,Tonga,Tonga,2,admin0,TON,4,"Southeast Asia, East Asia, and Oceania",21,Oceania,TON,TON,Tonga,Kingdom of Tonga
+579,1247,1,416,21,"1,4,21,416",3,1,1,579,Tuvalu,Tuvalu,Tuvalu,Tuvalu,2,admin0,,4,"Southeast Asia, East Asia, and Oceania",21,Oceania,TUV,TUV,Tuvalu,Tuvalu
+580,1247,1,30,21,"1,4,21,30",3,1,1,580,Vanuatu,Vanuatu,Vanuatu,Vanuatu,2,admin0,VUT,4,"Southeast Asia, East Asia, and Oceania",21,Oceania,VUT,VUT,Vanuatu,Republic of Vanuatu
+581,1247,1,9,4,"1,4,9",2,0,0,581,Southeast Asia,Southeast Asia,SE Asia,Southeast Asia,6,region,,4,"Southeast Asia, East Asia, and Oceania",9,Southeast Asia,R5,R5,Southeast Asia,Southeast Asia
+582,1247,1,10,9,"1,4,9,10",3,1,1,582,Cambodia,Cambodia,Cambodia,Cambodia,2,admin0,KHM,4,"Southeast Asia, East Asia, and Oceania",9,Southeast Asia,KHM,KHM,Cambodia,Kingdom of Cambodia
+583,1247,1,11,9,"1,4,9,11",3,0,0,583,Indonesia,Indonesia,Indonesia,Indonesia,2,admin0,IDN,4,"Southeast Asia, East Asia, and Oceania",9,Southeast Asia,IDN,IDN,Indonesia,Republic of Indonesia
+584,1247,1,4709,11,"1,4,9,11,4709",4,1,1,584,Aceh,Aceh,Aceh,Aceh,3,admin1,,4,"Southeast Asia, East Asia, and Oceania",9,Southeast Asia,IDN_4709,ID-AC,Aceh,
+585,1247,1,4726,11,"1,4,9,11,4726",4,1,1,585,Bali,Bali,Bali,Bali,3,admin1,,4,"Southeast Asia, East Asia, and Oceania",9,Southeast Asia,IDN_4726,ID-BA,Bali,
+586,1247,1,4717,11,"1,4,9,11,4717",4,1,1,586,Bangka-Belitung Islands,Bangka-Belitung Islands,Bangka-Belitung,Bangka-Belitung Islands,3,admin1,,4,"Southeast Asia, East Asia, and Oceania",9,Southeast Asia,IDN_4717,ID-BB,Bangka-Belitung Islands,
+587,1247,1,4725,11,"1,4,9,11,4725",4,1,1,587,Banten,Banten,Banten,Banten,3,admin1,,4,"Southeast Asia, East Asia, and Oceania",9,Southeast Asia,IDN_4725,ID-BT,Banten,
+588,1247,1,4715,11,"1,4,9,11,4715",4,1,1,588,Bengkulu,Bengkulu,Bengkulu,Bengkulu,3,admin1,,4,"Southeast Asia, East Asia, and Oceania",9,Southeast Asia,IDN_4715,ID-BE,Bengkulu,
+589,1247,1,4737,11,"1,4,9,11,4737",4,1,1,589,Gorontalo,Gorontalo,Gorontalo,Gorontalo,3,admin1,,4,"Southeast Asia, East Asia, and Oceania",9,Southeast Asia,IDN_4737,ID-GO,Gorontalo,
+590,1247,1,4720,11,"1,4,9,11,4720",4,1,1,590,Jakarta,Jakarta,Jakarta,Jakarta,3,admin1,,4,"Southeast Asia, East Asia, and Oceania",9,Southeast Asia,IDN_4720,ID-JK,Jakarta,
+591,1247,1,4713,11,"1,4,9,11,4713",4,1,1,591,Jambi,Jambi,Jambi,Jambi,3,admin1,,4,"Southeast Asia, East Asia, and Oceania",9,Southeast Asia,IDN_4713,ID-JA,Jambi,
+592,1247,1,4721,11,"1,4,9,11,4721",4,1,1,592,West Java,West Java,W Java,West Java,3,admin1,,4,"Southeast Asia, East Asia, and Oceania",9,Southeast Asia,IDN_4721,ID-JB,West Java,
+593,1247,1,4722,11,"1,4,9,11,4722",4,1,1,593,Central Java,Central Java,C Java,Central Java,3,admin1,,4,"Southeast Asia, East Asia, and Oceania",9,Southeast Asia,IDN_4722,ID-JT,Central Java,
+594,1247,1,4724,11,"1,4,9,11,4724",4,1,1,594,East Java,East Java,E Java,East Java,3,admin1,,4,"Southeast Asia, East Asia, and Oceania",9,Southeast Asia,IDN_4724,ID-JI,East Java,
+595,1247,1,4729,11,"1,4,9,11,4729",4,1,1,595,West Kalimantan,West Kalimantan,W Kalimantan,West Kalimantan,3,admin1,,4,"Southeast Asia, East Asia, and Oceania",9,Southeast Asia,IDN_4729,ID-KB,West Kalimantan,
+596,1247,1,4731,11,"1,4,9,11,4731",4,1,1,596,South Kalimantan,South Kalimantan,S Kalimantan,South Kalimantan,3,admin1,,4,"Southeast Asia, East Asia, and Oceania",9,Southeast Asia,IDN_4731,ID-KS,South Kalimantan,
+597,1247,1,4730,11,"1,4,9,11,4730",4,1,1,597,Central Kalimantan,Central Kalimantan,C Kalimantan,Central Kalimantan,3,admin1,,4,"Southeast Asia, East Asia, and Oceania",9,Southeast Asia,IDN_4730,ID-KT,Central Kalimantan,
+598,1247,1,4732,11,"1,4,9,11,4732",4,1,1,598,East Kalimantan,East Kalimantan,E Kalimantan,East Kalimantan,3,admin1,,4,"Southeast Asia, East Asia, and Oceania",9,Southeast Asia,IDN_4732,ID-KI,East Kalimantan,
+599,1247,1,4719,11,"1,4,9,11,4719",4,1,1,599,North Kalimantan,North Kalimantan,N Kalimantan,North Kalimantan,3,admin1,,4,"Southeast Asia, East Asia, and Oceania",9,Southeast Asia,IDN_4719,ID-KI,North Kalimantan,
+600,1247,1,4718,11,"1,4,9,11,4718",4,1,1,600,Riau Islands,Riau Islands,Riau,Riau Islands,3,admin1,,4,"Southeast Asia, East Asia, and Oceania",9,Southeast Asia,IDN_4718,ID-KR,Riau Islands,
+601,1247,1,4716,11,"1,4,9,11,4716",4,1,1,601,Lampung,Lampung,Lampung,Lampung,3,admin1,,4,"Southeast Asia, East Asia, and Oceania",9,Southeast Asia,IDN_4716,ID-LA,Lampung,
+602,1247,1,4739,11,"1,4,9,11,4739",4,1,1,602,Maluku,Maluku,Maluku,Maluku,3,admin1,,4,"Southeast Asia, East Asia, and Oceania",9,Southeast Asia,IDN_4739,ID-MA,Maluku,
+603,1247,1,4740,11,"1,4,9,11,4740",4,1,1,603,North Maluku,North Maluku,N Maluku,North Maluku,3,admin1,,4,"Southeast Asia, East Asia, and Oceania",9,Southeast Asia,IDN_4740,ID-MU,North Maluku,
+604,1247,1,4727,11,"1,4,9,11,4727",4,1,1,604,West Nusa Tenggara,West Nusa Tenggara,W Nusa Tenggara,West Nusa Tenggara,3,admin1,,4,"Southeast Asia, East Asia, and Oceania",9,Southeast Asia,IDN_4727,ID-NB,West Nusa Tenggara,
+605,1247,1,4728,11,"1,4,9,11,4728",4,1,1,605,East Nusa Tenggara,East Nusa Tenggara,E Nusa Tenggara,East Nusa Tenggara,3,admin1,,4,"Southeast Asia, East Asia, and Oceania",9,Southeast Asia,IDN_4728,ID-NT,East Nusa Tenggara,
+606,1247,1,4742,11,"1,4,9,11,4742",4,1,1,606,Papua,Papua,Papua,Papua,3,admin1,,4,"Southeast Asia, East Asia, and Oceania",9,Southeast Asia,IDN_4742,ID-PA,Papua,
+607,1247,1,4741,11,"1,4,9,11,4741",4,1,1,607,West Papua,West Papua,W Papua,West Papua,3,admin1,,4,"Southeast Asia, East Asia, and Oceania",9,Southeast Asia,IDN_4741,ID-PB,West Papua,
+608,1247,1,4712,11,"1,4,9,11,4712",4,1,1,608,Riau,Riau,Riau,Riau,3,admin1,,4,"Southeast Asia, East Asia, and Oceania",9,Southeast Asia,IDN_4712,ID-RI,Riau,
+609,1247,1,4738,11,"1,4,9,11,4738",4,1,1,609,West Sulawesi,West Sulawesi,W Sulawesi,West Sulawesi,3,admin1,,4,"Southeast Asia, East Asia, and Oceania",9,Southeast Asia,IDN_4738,ID-SR,West Sulawesi,
+610,1247,1,4735,11,"1,4,9,11,4735",4,1,1,610,South Sulawesi,South Sulawesi,S Sulawesi,South Sulawesi,3,admin1,,4,"Southeast Asia, East Asia, and Oceania",9,Southeast Asia,IDN_4735,ID-SN,South Sulawesi,
+611,1247,1,4734,11,"1,4,9,11,4734",4,1,1,611,Central Sulawesi,Central Sulawesi,C Sulawesi,Central Sulawesi,3,admin1,,4,"Southeast Asia, East Asia, and Oceania",9,Southeast Asia,IDN_4734,ID-ST,Central Sulawesi,
+612,1247,1,4736,11,"1,4,9,11,4736",4,1,1,612,Southeast Sulawesi,Southeast Sulawesi,SE Sulawesi,Southeast Sulawesi,3,admin1,,4,"Southeast Asia, East Asia, and Oceania",9,Southeast Asia,IDN_4736,ID-SG,Southeast Sulawesi,
+613,1247,1,4733,11,"1,4,9,11,4733",4,1,1,613,North Sulawesi,North Sulawesi,N Sulawesi,North Sulawesi,3,admin1,,4,"Southeast Asia, East Asia, and Oceania",9,Southeast Asia,IDN_4733,ID-SA,North Sulawesi,
+614,1247,1,4711,11,"1,4,9,11,4711",4,1,1,614,West Sumatra,West Sumatra,W Sumatra,West Sumatra,3,admin1,,4,"Southeast Asia, East Asia, and Oceania",9,Southeast Asia,IDN_4711,ID-SR,West Sumatra,
+615,1247,1,4714,11,"1,4,9,11,4714",4,1,1,615,South Sumatra,South Sumatra,S Sumatra,South Sumatra,3,admin1,,4,"Southeast Asia, East Asia, and Oceania",9,Southeast Asia,IDN_4714,ID-SS,South Sumatra,
+616,1247,1,4710,11,"1,4,9,11,4710",4,1,1,616,North Sumatra,North Sumatra,N Sumatra,North Sumatra,3,admin1,,4,"Southeast Asia, East Asia, and Oceania",9,Southeast Asia,IDN_4710,ID-SA,North Sumatra,
+617,1247,1,4723,11,"1,4,9,11,4723",4,1,1,617,Yogyakarta,Yogyakarta,Yogyakarta,Yogyakarta,3,admin1,,4,"Southeast Asia, East Asia, and Oceania",9,Southeast Asia,IDN_4723,ID-YO,Yogyakarta,
+618,1247,1,12,9,"1,4,9,12",3,1,1,618,Lao People's Democratic Republic,Lao People's Democratic Republic,Laos,Lao People's Democratic Republic,2,admin0,LAO,4,"Southeast Asia, East Asia, and Oceania",9,Southeast Asia,LAO,LAO,Laos,Lao People's Democratic Republic
+619,1247,1,13,9,"1,4,9,13",3,1,1,619,Malaysia,Malaysia,Malaysia,Malaysia,2,admin0,MYS,4,"Southeast Asia, East Asia, and Oceania",9,Southeast Asia,MYS,MYS,Malaysia,Malaysia
+620,1247,1,14,9,"1,4,9,14",3,1,1,620,Maldives,Maldives,Maldives,Maldives,2,admin0,MDV,4,"Southeast Asia, East Asia, and Oceania",9,Southeast Asia,MDV,MDV,Maldives,Republic of Maldives
+621,1247,1,183,9,"1,4,9,183",3,1,1,621,Mauritius,Mauritius,Mauritius,Mauritius,2,admin0,MUS,4,"Southeast Asia, East Asia, and Oceania",9,Southeast Asia,MUS,MUS,Mauritius,Republic of Mauritius
+622,1247,1,15,9,"1,4,9,15",3,1,1,622,Myanmar,Myanmar,Myanmar,Myanmar,2,admin0,MMR,4,"Southeast Asia, East Asia, and Oceania",9,Southeast Asia,MMR,MMR,Myanmar,Republic of the Union of Myanmar
+623,1247,1,16,9,"1,4,9,16",3,0,1,623,Philippines,Philippines,Philippines,Philippines,2,admin0,PHL,4,"Southeast Asia, East Asia, and Oceania",9,Southeast Asia,PHL,PHL,Philippines,Republic of the Philippines
+624,1247,1,186,9,"1,4,9,186",3,1,1,624,Seychelles,Seychelles,Seychelles,Seychelles,2,admin0,SYC,4,"Southeast Asia, East Asia, and Oceania",9,Southeast Asia,SYC,SYC,Seychelles,Republic of Seychelles
+625,1247,1,17,9,"1,4,9,17",3,1,1,625,Sri Lanka,Sri Lanka,Sri Lanka,Sri Lanka,2,admin0,LKA,4,"Southeast Asia, East Asia, and Oceania",9,Southeast Asia,LKA,LKA,Sri Lanka,Democratic Socialist Republic of Sri Lanka
+626,1247,1,18,9,"1,4,9,18",3,1,1,626,Thailand,Thailand,Thailand,Thailand,2,admin0,THA,4,"Southeast Asia, East Asia, and Oceania",9,Southeast Asia,THA,THA,Thailand,Kingdom of Thailand
+627,1247,1,19,9,"1,4,9,19",3,1,1,627,Timor-Leste,Timor-Leste,Timor-Leste,Timor-Leste,2,admin0,TLS,4,"Southeast Asia, East Asia, and Oceania",9,Southeast Asia,TLS,TLS,Timor-Leste,Democratic Republic of Timor-Leste
+628,1247,1,20,9,"1,4,9,20",3,1,1,628,Viet Nam,Viet Nam,Viet Nam,Viet Nam,2,admin0,VNM,4,"Southeast Asia, East Asia, and Oceania",9,Southeast Asia,VNM,VNM,Viet Nam,Socialist Republic of Viet Nam
+629,1247,1,166,1,"1,166",1,0,0,629,Sub-Saharan Africa,Sub-Saharan Africa,Sub-Sah Africa,Sub-Saharan Africa,7,superregion,,166,Sub-Saharan Africa,NA,,S3,S3,Sub-Saharan Africa,Sub-Saharan Africa
+630,1247,1,167,166,"1,166,167",2,0,0,630,Central Sub-Saharan Africa,Central Sub-Saharan Africa,C Sub-Sah Africa,Central Sub-Saharan Africa,6,region,,166,Sub-Saharan Africa,167,Central Sub-Saharan Africa,R18,R18,Central sub-Saharan Africa,Central Sub-Saharan Africa
+631,1247,1,168,167,"1,166,167,168",3,1,1,631,Angola,Angola,Angola,Angola,2,admin0,AGO,166,Sub-Saharan Africa,167,Central Sub-Saharan Africa,AGO,AGO,Angola,Republic of Angola
+632,1247,1,169,167,"1,166,167,169",3,1,1,632,Central African Republic,Central African Republic,CAR,Central African Republic,2,admin0,CAF,166,Sub-Saharan Africa,167,Central Sub-Saharan Africa,CAF,CAF,Central African Republic,Central African Republic
+633,1247,1,170,167,"1,166,167,170",3,1,1,633,Congo,Congo,Congo,Congo,2,admin0,COG,166,Sub-Saharan Africa,167,Central Sub-Saharan Africa,COG,COG,Congo (Brazzaville),Republic of the Congo
+634,1247,1,171,167,"1,166,167,171",3,1,1,634,Democratic Republic of the Congo,Democratic Republic of the Congo,DRC,Democratic Republic of the Congo,2,admin0,COD,166,Sub-Saharan Africa,167,Central Sub-Saharan Africa,COD,COD,DR Congo,Democratic Republic of the Congo
+635,1247,1,172,167,"1,166,167,172",3,1,1,635,Equatorial Guinea,Equatorial Guinea,Eq. Guinea,Equatorial Guinea,2,admin0,GNQ,166,Sub-Saharan Africa,167,Central Sub-Saharan Africa,GNQ,GNQ,Equatorial Guinea,Republic of Equatorial Guinea
+636,1247,1,173,167,"1,166,167,173",3,1,1,636,Gabon,Gabon,Gabon,Gabon,2,admin0,GAB,166,Sub-Saharan Africa,167,Central Sub-Saharan Africa,GAB,GAB,Gabon,Gabonese Republic
+637,1247,1,174,166,"1,166,174",2,0,0,637,Eastern Sub-Saharan Africa,Eastern Sub-Saharan Africa,E Sub-Sah Africa,Eastern Sub-Saharan Africa,6,region,,166,Sub-Saharan Africa,174,Eastern Sub-Saharan Africa,R19,R19,Eastern sub-Saharan Africa,Eastern Sub-Saharan Africa
+638,1247,1,175,174,"1,166,174,175",3,1,1,638,Burundi,Burundi,Burundi,Burundi,2,admin0,BDI,166,Sub-Saharan Africa,174,Eastern Sub-Saharan Africa,BDI,BDI,Burundi,Republic of Burundi
+639,1247,1,176,174,"1,166,174,176",3,1,1,639,Comoros,Comoros,Comoros,Comoros,2,admin0,COM,166,Sub-Saharan Africa,174,Eastern Sub-Saharan Africa,COM,COM,Comoros,Union of the Comoros
+640,1247,1,177,174,"1,166,174,177",3,1,1,640,Djibouti,Djibouti,Djibouti,Djibouti,2,admin0,DJI,166,Sub-Saharan Africa,174,Eastern Sub-Saharan Africa,DJI,DJI,Djibouti,Republic of Djibouti
+641,1247,1,178,174,"1,166,174,178",3,1,1,641,Eritrea,Eritrea,Eritrea,Eritrea,2,admin0,ERI,166,Sub-Saharan Africa,174,Eastern Sub-Saharan Africa,ERI,ERI,Eritrea,State of Eritrea
+642,1247,1,179,174,"1,166,174,179",3,0,0,642,Ethiopia,Ethiopia,Ethiopia,Ethiopia,2,admin0,ETH,166,Sub-Saharan Africa,174,Eastern Sub-Saharan Africa,ETH,ETH,Ethiopia,Federal Democratic Republic of Ethiopia
+643,1247,1,44861,179,"116,617,417,944,861",4,1,1,643,Addis Ababa,Addis Ababa,Addis Ababa,Addis Ababa,3,admin1,,166,Sub-Saharan Africa,174,Eastern Sub-Saharan Africa,ETH_44861,,Addis Ababa,
+644,1247,1,44853,179,"116,617,417,944,853",4,1,1,644,Afar,Afar,Afar,Afar,3,admin1,,166,Sub-Saharan Africa,174,Eastern Sub-Saharan Africa,ETH_44853,,Afar,
+645,1247,1,44854,179,"116,617,417,944,854",4,1,1,645,Amhara,Amhara,Amhara,Amhara,3,admin1,,166,Sub-Saharan Africa,174,Eastern Sub-Saharan Africa,ETH_44854,,Amhara,
+646,1247,1,44857,179,"116,617,417,944,857",4,1,1,646,Benishangul-Gumuz,Benishangul-Gumuz,Benishangul-Gumuz,Benishangul-Gumuz,3,admin1,,166,Sub-Saharan Africa,174,Eastern Sub-Saharan Africa,ETH_44857,,Benishangul-Gumuz,
+647,1247,1,44862,179,"116,617,417,944,862",4,1,1,647,Dire Dawa,Dire Dawa,Dire Dawa,Dire Dawa,3,admin1,,166,Sub-Saharan Africa,174,Eastern Sub-Saharan Africa,ETH_44862,,Dire Dawa,
+648,1247,1,44860,179,"116,617,417,944,860",4,1,1,648,Gambella,Gambella,Gambella,Gambella,3,admin1,,166,Sub-Saharan Africa,174,Eastern Sub-Saharan Africa,ETH_44860,,Gambella,
+649,1247,1,44859,179,"116,617,417,944,859",4,1,1,649,Harari,Harari,Harari,Harari,3,admin1,,166,Sub-Saharan Africa,174,Eastern Sub-Saharan Africa,ETH_44859,,Harari,
+650,1247,1,44855,179,"116,617,417,944,855",4,1,1,650,Oromia,Oromia,Oromia,Oromia,3,admin1,,166,Sub-Saharan Africa,174,Eastern Sub-Saharan Africa,ETH_44855,,Oromia,
+651,1247,1,44856,179,"116,617,417,944,856",4,1,1,651,Somali,Somali,Somali,Somali,3,admin1,,166,Sub-Saharan Africa,174,Eastern Sub-Saharan Africa,ETH_44856,,Somali,
+652,1247,1,44858,179,"116,617,417,944,858",4,1,1,652,"Southern Nations, Nationalities, and Peoples","Southern Nations, Nationalities, and Peoples",SNNP,SNNP,3,admin1,,166,Sub-Saharan Africa,174,Eastern Sub-Saharan Africa,ETH_44858,,"Southern Nations, Nationalities, and Peoples",
+653,1247,1,44852,179,"116,617,417,944,852",4,1,1,653,Tigray,Tigray,Tigray,Tigray,3,admin1,,166,Sub-Saharan Africa,174,Eastern Sub-Saharan Africa,ETH_44852,,Tigray,
+654,1247,1,180,174,"1,166,174,180",3,0,0,654,Kenya,Kenya,Kenya,Kenya,2,admin0,KEN,166,Sub-Saharan Africa,174,Eastern Sub-Saharan Africa,KEN,KEN,Kenya,Republic of Kenya
+655,1247,1,35617,180,"116,617,418,035,617",4,1,1,655,Baringo,Baringo,Baringo,Baringo,3,admin1,,166,Sub-Saharan Africa,174,Eastern Sub-Saharan Africa,KEN_35617,KE-01,Baringo,
+656,1247,1,35618,180,"116,617,418,035,618",4,1,1,656,Bomet,Bomet,Bomet,Bomet,3,admin1,,166,Sub-Saharan Africa,174,Eastern Sub-Saharan Africa,KEN_35618,KE-02,Bomet,
+657,1247,1,35619,180,"116,617,418,035,619",4,1,1,657,Bungoma,Bungoma,Bungoma,Bungoma,3,admin1,,166,Sub-Saharan Africa,174,Eastern Sub-Saharan Africa,KEN_35619,KE-03,Bungoma,
+658,1247,1,35620,180,"116,617,418,035,620",4,1,1,658,Busia,Busia,Busia,Busia,3,admin1,,166,Sub-Saharan Africa,174,Eastern Sub-Saharan Africa,KEN_35620,KE-04,Busia,
+659,1247,1,35621,180,"116,617,418,035,621",4,1,1,659,Elgeyo-Marakwet,Elgeyo-Marakwet,Elgeyo-Marakwet,Elgeyo-Marakwet,3,admin1,,166,Sub-Saharan Africa,174,Eastern Sub-Saharan Africa,KEN_35621,KE-05,Elgeyo Marakwet,
+660,1247,1,35622,180,"116,617,418,035,622",4,1,1,660,Embu,Embu,Embu,Embu,3,admin1,,166,Sub-Saharan Africa,174,Eastern Sub-Saharan Africa,KEN_35622,KE-06,Embu,
+661,1247,1,35623,180,"116,617,418,035,623",4,1,1,661,Garissa,Garissa,Garissa,Garissa,3,admin1,,166,Sub-Saharan Africa,174,Eastern Sub-Saharan Africa,KEN_35623,KE-07,Garissa,
+662,1247,1,35624,180,"116,617,418,035,624",4,1,1,662,Homa Bay,Homa Bay,Homa Bay,Homa Bay,3,admin1,,166,Sub-Saharan Africa,174,Eastern Sub-Saharan Africa,KEN_35624,KE-08,Homa Bay,
+663,1247,1,35625,180,"116,617,418,035,625",4,1,1,663,Isiolo,Isiolo,Isiolo,Isiolo,3,admin1,,166,Sub-Saharan Africa,174,Eastern Sub-Saharan Africa,KEN_35625,KE-09,Isiolo,
+664,1247,1,35626,180,"116,617,418,035,626",4,1,1,664,Kajiado,Kajiado,Kajiado,Kajiado,3,admin1,,166,Sub-Saharan Africa,174,Eastern Sub-Saharan Africa,KEN_35626,KE-10,Kajiado,
+665,1247,1,35627,180,"116,617,418,035,627",4,1,1,665,Kakamega,Kakamega,Kakamega,Kakamega,3,admin1,,166,Sub-Saharan Africa,174,Eastern Sub-Saharan Africa,KEN_35627,KE-11,Kakamega,
+666,1247,1,35628,180,"116,617,418,035,628",4,1,1,666,Kericho,Kericho,Kericho,Kericho,3,admin1,,166,Sub-Saharan Africa,174,Eastern Sub-Saharan Africa,KEN_35628,KE-12,Kericho,
+667,1247,1,35629,180,"116,617,418,035,629",4,1,1,667,Kiambu,Kiambu,Kiambu,Kiambu,3,admin1,,166,Sub-Saharan Africa,174,Eastern Sub-Saharan Africa,KEN_35629,KE-13,Kiambu,
+668,1247,1,35630,180,"116,617,418,035,630",4,1,1,668,Kilifi,Kilifi,Kilifi,Kilifi,3,admin1,,166,Sub-Saharan Africa,174,Eastern Sub-Saharan Africa,KEN_35630,KE-14,Kilifi,
+669,1247,1,35631,180,"116,617,418,035,631",4,1,1,669,Kirinyaga,Kirinyaga,Kirinyaga,Kirinyaga,3,admin1,,166,Sub-Saharan Africa,174,Eastern Sub-Saharan Africa,KEN_35631,KE-15,Kirinyaga,
+670,1247,1,35632,180,"116,617,418,035,632",4,1,1,670,Kisii,Kisii,Kisii,Kisii,3,admin1,,166,Sub-Saharan Africa,174,Eastern Sub-Saharan Africa,KEN_35632,KE-16,Kisii,
+671,1247,1,35633,180,"116,617,418,035,633",4,1,1,671,Kisumu,Kisumu,Kisumu,Kisumu,3,admin1,,166,Sub-Saharan Africa,174,Eastern Sub-Saharan Africa,KEN_35633,KE-17,Kisumu,
+672,1247,1,35634,180,"116,617,418,035,634",4,1,1,672,Kitui,Kitui,Kitui,Kitui,3,admin1,,166,Sub-Saharan Africa,174,Eastern Sub-Saharan Africa,KEN_35634,KE-18,Kitui,
+673,1247,1,35635,180,"116,617,418,035,635",4,1,1,673,Kwale,Kwale,Kwale,Kwale,3,admin1,,166,Sub-Saharan Africa,174,Eastern Sub-Saharan Africa,KEN_35635,KE-19,Kwale,
+674,1247,1,35636,180,"116,617,418,035,636",4,1,1,674,Laikipia,Laikipia,Laikipia,Laikipia,3,admin1,,166,Sub-Saharan Africa,174,Eastern Sub-Saharan Africa,KEN_35636,KE-20,Laikipia,
+675,1247,1,35637,180,"116,617,418,035,637",4,1,1,675,Lamu,Lamu,Lamu,Lamu,3,admin1,,166,Sub-Saharan Africa,174,Eastern Sub-Saharan Africa,KEN_35637,KE-21,Lamu,
+676,1247,1,35638,180,"116,617,418,035,638",4,1,1,676,Machakos,Machakos,Machakos,Machakos,3,admin1,,166,Sub-Saharan Africa,174,Eastern Sub-Saharan Africa,KEN_35638,KE-22,Machakos,
+677,1247,1,35639,180,"116,617,418,035,639",4,1,1,677,Makueni,Makueni,Makueni,Makueni,3,admin1,,166,Sub-Saharan Africa,174,Eastern Sub-Saharan Africa,KEN_35639,KE-23,Makueni,
+678,1247,1,35640,180,"116,617,418,035,640",4,1,1,678,Mandera,Mandera,Mandera,Mandera,3,admin1,,166,Sub-Saharan Africa,174,Eastern Sub-Saharan Africa,KEN_35640,KE-24,Mandera,
+679,1247,1,35641,180,"116,617,418,035,641",4,1,1,679,Marsabit,Marsabit,Marsabit,Marsabit,3,admin1,,166,Sub-Saharan Africa,174,Eastern Sub-Saharan Africa,KEN_35641,KE-25,Marsabit,
+680,1247,1,35642,180,"116,617,418,035,642",4,1,1,680,Meru,Meru,Meru,Meru,3,admin1,,166,Sub-Saharan Africa,174,Eastern Sub-Saharan Africa,KEN_35642,KE-26,Meru,
+681,1247,1,35643,180,"116,617,418,035,643",4,1,1,681,Migori,Migori,Migori,Migori,3,admin1,,166,Sub-Saharan Africa,174,Eastern Sub-Saharan Africa,KEN_35643,KE-27,Migori,
+682,1247,1,35644,180,"116,617,418,035,644",4,1,1,682,Mombasa,Mombasa,Mombasa,Mombasa,3,admin1,,166,Sub-Saharan Africa,174,Eastern Sub-Saharan Africa,KEN_35644,KE-28,Mombasa,
+683,1247,1,35645,180,"116,617,418,035,645",4,1,1,683,Murang'a,Murang'a,Murang'a,Murang'a,3,admin1,,166,Sub-Saharan Africa,174,Eastern Sub-Saharan Africa,KEN_35645,KE-29,Murang'a,
+684,1247,1,35646,180,"116,617,418,035,646",4,1,1,684,Nairobi,Nairobi,Nairobi,Nairobi,3,admin1,,166,Sub-Saharan Africa,174,Eastern Sub-Saharan Africa,KEN_35646,KE-30,Nairobi,
+685,1247,1,35647,180,"116,617,418,035,647",4,1,1,685,Nakuru,Nakuru,Nakuru,Nakuru,3,admin1,,166,Sub-Saharan Africa,174,Eastern Sub-Saharan Africa,KEN_35647,KE-31,Nakuru,
+686,1247,1,35648,180,"116,617,418,035,648",4,1,1,686,Nandi,Nandi,Nandi,Nandi,3,admin1,,166,Sub-Saharan Africa,174,Eastern Sub-Saharan Africa,KEN_35648,KE-32,Nandi,
+687,1247,1,35649,180,"116,617,418,035,649",4,1,1,687,Narok,Narok,Narok,Narok,3,admin1,,166,Sub-Saharan Africa,174,Eastern Sub-Saharan Africa,KEN_35649,KE-33,Narok,
+688,1247,1,35650,180,"116,617,418,035,650",4,1,1,688,Nyamira,Nyamira,Nyamira,Nyamira,3,admin1,,166,Sub-Saharan Africa,174,Eastern Sub-Saharan Africa,KEN_35650,KE-34,Nyamira,
+689,1247,1,35651,180,"116,617,418,035,651",4,1,1,689,Nyandarua,Nyandarua,Nyandarua,Nyandarua,3,admin1,,166,Sub-Saharan Africa,174,Eastern Sub-Saharan Africa,KEN_35651,KE-35,Nyandarua,
+690,1247,1,35652,180,"116,617,418,035,652",4,1,1,690,Nyeri,Nyeri,Nyeri,Nyeri,3,admin1,,166,Sub-Saharan Africa,174,Eastern Sub-Saharan Africa,KEN_35652,KE-36,Nyeri,
+691,1247,1,35653,180,"116,617,418,035,653",4,1,1,691,Samburu,Samburu,Samburu,Samburu,3,admin1,,166,Sub-Saharan Africa,174,Eastern Sub-Saharan Africa,KEN_35653,KE-37,Samburu,
+692,1247,1,35654,180,"116,617,418,035,654",4,1,1,692,Siaya,Siaya,Siaya,Siaya,3,admin1,,166,Sub-Saharan Africa,174,Eastern Sub-Saharan Africa,KEN_35654,KE-38,Siaya,
+693,1247,1,35655,180,"116,617,418,035,655",4,1,1,693,Taita Taveta,Taita Taveta,Taita Taveta,Taita Taveta,3,admin1,,166,Sub-Saharan Africa,174,Eastern Sub-Saharan Africa,KEN_35655,KE-39,Taita Taveta,
+694,1247,1,35656,180,"116,617,418,035,656",4,1,1,694,Tana River,Tana River,Tana River,Tana River,3,admin1,,166,Sub-Saharan Africa,174,Eastern Sub-Saharan Africa,KEN_35656,KE-40,Tana River,
+695,1247,1,35657,180,"116,617,418,035,657",4,1,1,695,Tharaka Nithi,Tharaka Nithi,Tharaka Nithi,Tharaka Nithi,3,admin1,,166,Sub-Saharan Africa,174,Eastern Sub-Saharan Africa,KEN_35657,KE-41,Tharaka Nithi,
+696,1247,1,35658,180,"116,617,418,035,658",4,1,1,696,Trans Nzoia,Trans Nzoia,Trans Nzoia,Trans Nzoia,3,admin1,,166,Sub-Saharan Africa,174,Eastern Sub-Saharan Africa,KEN_35658,KE-42,Trans Nzoia,
+697,1247,1,35659,180,"116,617,418,035,659",4,1,1,697,Turkana,Turkana,Turkana,Turkana,3,admin1,,166,Sub-Saharan Africa,174,Eastern Sub-Saharan Africa,KEN_35659,KE-43,Turkana,
+698,1247,1,35660,180,"116,617,418,035,660",4,1,1,698,Uasin Gishu,Uasin Gishu,Uasin Gishu,Uasin Gishu,3,admin1,,166,Sub-Saharan Africa,174,Eastern Sub-Saharan Africa,KEN_35660,KE-44,Uasin Gishu,
+699,1247,1,35661,180,"116,617,418,035,661",4,1,1,699,Vihiga,Vihiga,Vihiga,Vihiga,3,admin1,,166,Sub-Saharan Africa,174,Eastern Sub-Saharan Africa,KEN_35661,KE-45,Vihiga,
+700,1247,1,35662,180,"116,617,418,035,662",4,1,1,700,Wajir,Wajir,Wajir,Wajir,3,admin1,,166,Sub-Saharan Africa,174,Eastern Sub-Saharan Africa,KEN_35662,KE-46,Wajir,
+701,1247,1,35663,180,"116,617,418,035,663",4,1,1,701,West Pokot,West Pokot,West Pokot,West Pokot,3,admin1,,166,Sub-Saharan Africa,174,Eastern Sub-Saharan Africa,KEN_35663,KE-47,West Pokot,
+702,1247,1,181,174,"1,166,174,181",3,1,1,702,Madagascar,Madagascar,Madagascar,Madagascar,2,admin0,MDG,166,Sub-Saharan Africa,174,Eastern Sub-Saharan Africa,MDG,MDG,Madagascar,Republic of Madagascar
+703,1247,1,182,174,"1,166,174,182",3,1,1,703,Malawi,Malawi,Malawi,Malawi,2,admin0,MWI,166,Sub-Saharan Africa,174,Eastern Sub-Saharan Africa,MWI,MWI,Malawi,Republic of Malawi
+704,1247,1,184,174,"1,166,174,184",3,1,1,704,Mozambique,Mozambique,Mozambique,Mozambique,2,admin0,MOZ,166,Sub-Saharan Africa,174,Eastern Sub-Saharan Africa,MOZ,MOZ,Mozambique,Republic of Mozambique
+705,1247,1,185,174,"1,166,174,185",3,1,1,705,Rwanda,Rwanda,Rwanda,Rwanda,2,admin0,RWA,166,Sub-Saharan Africa,174,Eastern Sub-Saharan Africa,RWA,RWA,Rwanda,Republic of Rwanda
+706,1247,1,187,174,"1,166,174,187",3,1,1,706,Somalia,Somalia,Somalia,Somalia,2,admin0,SOM,166,Sub-Saharan Africa,174,Eastern Sub-Saharan Africa,SOM,SOM,Somalia,Federal Republic of Somalia
+707,1247,1,435,174,"1,166,174,435",3,1,1,707,South Sudan,South Sudan,South Sudan,South Sudan,2,admin0,,166,Sub-Saharan Africa,174,Eastern Sub-Saharan Africa,SSD,SSD,South Sudan,Republic of South Sudan
+708,1247,1,190,174,"1,166,174,190",3,1,1,708,Uganda,Uganda,Uganda,Uganda,2,admin0,UGA,166,Sub-Saharan Africa,174,Eastern Sub-Saharan Africa,UGA,UGA,Uganda,Republic of Uganda
+709,1247,1,189,174,"1,166,174,189",3,1,1,709,United Republic of Tanzania,United Republic of Tanzania,Tanzania,United Republic of Tanzania,2,admin0,TZA,166,Sub-Saharan Africa,174,Eastern Sub-Saharan Africa,TZA,TZA,Tanzania,United Republic of Tanzania
+710,1247,1,191,174,"1,166,174,191",3,1,1,710,Zambia,Zambia,Zambia,Zambia,2,admin0,ZMB,166,Sub-Saharan Africa,174,Eastern Sub-Saharan Africa,ZMB,ZMB,Zambia,Republic of Zambia
+711,1247,1,192,166,"1,166,192",2,0,0,711,Southern Sub-Saharan Africa,Southern Sub-Saharan Africa,S Sub-Sah Africa,Southern Sub-Saharan Africa,6,region,,166,Sub-Saharan Africa,192,Southern Sub-Saharan Africa,R20,R20,Southern sub-Saharan Africa,Southern Sub-Saharan Africa
+712,1247,1,193,192,"1,166,192,193",3,1,1,712,Botswana,Botswana,Botswana,Botswana,2,admin0,BWA,166,Sub-Saharan Africa,192,Southern Sub-Saharan Africa,BWA,BWA,Botswana,Republic of Botswana
+713,1247,1,197,192,"1,166,192,197",3,1,1,713,Eswatini,Eswatini,Eswatini,Eswatini,2,admin0,SWZ,166,Sub-Saharan Africa,192,Southern Sub-Saharan Africa,SWZ,SWZ,Eswatini,Kingdom of Eswatini
+714,1247,1,194,192,"1,166,192,194",3,1,1,714,Lesotho,Lesotho,Lesotho,Lesotho,2,admin0,LSO,166,Sub-Saharan Africa,192,Southern Sub-Saharan Africa,LSO,LSO,Lesotho,Kingdom of Lesotho
+715,1247,1,195,192,"1,166,192,195",3,1,1,715,Namibia,Namibia,Namibia,Namibia,2,admin0,NAM,166,Sub-Saharan Africa,192,Southern Sub-Saharan Africa,NAM,NAM,Namibia,Republic of Namibia
+716,1247,1,196,192,"1,166,192,196",3,0,0,716,South Africa,South Africa,S. Africa,South Africa,2,admin0,ZAF,166,Sub-Saharan Africa,192,Southern Sub-Saharan Africa,ZAF,ZAF,South Africa,Republic of South Africa
+717,1247,1,482,196,"1,166,192,196,482",4,1,1,717,Eastern Cape,Eastern Cape,E Cape,Eastern Cape,3,admin1,,166,Sub-Saharan Africa,192,Southern Sub-Saharan Africa,ZAF_482,ZA-EC,Eastern Cape,
+718,1247,1,483,196,"1,166,192,196,483",4,1,1,718,Free State,Free State,Free State,Free State,3,admin1,,166,Sub-Saharan Africa,192,Southern Sub-Saharan Africa,ZAF_483,ZA-FS,Free State,
+719,1247,1,484,196,"1,166,192,196,484",4,1,1,719,Gauteng,Gauteng,Gauteng,Gauteng,3,admin1,,166,Sub-Saharan Africa,192,Southern Sub-Saharan Africa,ZAF_484,ZA-GP,Gauteng,
+720,1247,1,485,196,"1,166,192,196,485",4,1,1,720,KwaZulu-Natal,KwaZulu-Natal,Kwazulu-Natal,KwaZulu-Natal,3,admin1,,166,Sub-Saharan Africa,192,Southern Sub-Saharan Africa,ZAF_485,ZA-KZN,KwaZulu-Natal,
+721,1247,1,486,196,"1,166,192,196,486",4,1,1,721,Limpopo,Limpopo,Limpopo,Limpopo,3,admin1,,166,Sub-Saharan Africa,192,Southern Sub-Saharan Africa,ZAF_486,ZA-LP,Limpopo,
+722,1247,1,487,196,"1,166,192,196,487",4,1,1,722,Mpumalanga,Mpumalanga,Mpumalanga,Mpumalanga,3,admin1,,166,Sub-Saharan Africa,192,Southern Sub-Saharan Africa,ZAF_487,ZA-MP,Mpumalanga,
+723,1247,1,488,196,"1,166,192,196,488",4,1,1,723,North-West,North-West,NW,North-West,3,admin1,,166,Sub-Saharan Africa,192,Southern Sub-Saharan Africa,ZAF_488,ZA-NW,North West,
+724,1247,1,489,196,"1,166,192,196,489",4,1,1,724,Northern Cape,Northern Cape,N Cape,Northern Cape,3,admin1,,166,Sub-Saharan Africa,192,Southern Sub-Saharan Africa,ZAF_489,ZA-NC,Northern Cape,
+725,1247,1,490,196,"1,166,192,196,490",4,1,1,725,Western Cape,Western Cape,W Cape,Western Cape,3,admin1,,166,Sub-Saharan Africa,192,Southern Sub-Saharan Africa,ZAF_490,ZA-WC,Western Cape,
+726,1247,1,198,192,"1,166,192,198",3,1,1,726,Zimbabwe,Zimbabwe,Zimbabwe,Zimbabwe,2,admin0,ZWE,166,Sub-Saharan Africa,192,Southern Sub-Saharan Africa,ZWE,ZWE,Zimbabwe,Republic of Zimbabwe
+727,1247,1,199,166,"1,166,199",2,0,0,727,Western Sub-Saharan Africa,Western Sub-Saharan Africa,W Sub-Sah Africa,Western Sub-Saharan Africa,6,region,,166,Sub-Saharan Africa,199,Western Sub-Saharan Africa,R21,R21,Western sub-Saharan Africa,Western Sub-Saharan Africa
+728,1247,1,200,199,"1,166,199,200",3,1,1,728,Benin,Benin,Benin,Benin,2,admin0,BEN,166,Sub-Saharan Africa,199,Western Sub-Saharan Africa,BEN,BEN,Benin,Republic of Benin
+729,1247,1,201,199,"1,166,199,201",3,1,1,729,Burkina Faso,Burkina Faso,Burkina Faso,Burkina Faso,2,admin0,BFA,166,Sub-Saharan Africa,199,Western Sub-Saharan Africa,BFA,BFA,Burkina Faso,Burkina Faso
+730,1247,1,203,199,"1,166,199,203",3,1,1,730,Cabo Verde,Cabo Verde,Cabo Verde,Cabo Verde,2,admin0,CPV,166,Sub-Saharan Africa,199,Western Sub-Saharan Africa,CPV,CPV,Cabo Verde,Republic of Cabo Verde
+731,1247,1,202,199,"1,166,199,202",3,1,1,731,Cameroon,Cameroon,Cameroon,Cameroon,2,admin0,CMR,166,Sub-Saharan Africa,199,Western Sub-Saharan Africa,CMR,CMR,Cameroon,Republic of Cameroon
+732,1247,1,204,199,"1,166,199,204",3,1,1,732,Chad,Chad,Chad,Chad,2,admin0,TCD,166,Sub-Saharan Africa,199,Western Sub-Saharan Africa,TCD,TCD,Chad,Republic of Chad
+733,1247,1,205,199,"1,166,199,205",3,1,1,733,Côte d'Ivoire,Cote d'Ivoire,Cote d'Ivoire,Côte d'Ivoire,2,admin0,CIV,166,Sub-Saharan Africa,199,Western Sub-Saharan Africa,CIV,CIV,Côte d'Ivoire,Republic of Côte d'Ivoire
+734,1247,1,206,199,"1,166,199,206",3,1,1,734,Gambia,Gambia,Gambia,Gambia,2,admin0,GMB,166,Sub-Saharan Africa,199,Western Sub-Saharan Africa,GMB,GMB,The Gambia,Republic of the Gambia
+735,1247,1,207,199,"1,166,199,207",3,1,1,735,Ghana,Ghana,Ghana,Ghana,2,admin0,GHA,166,Sub-Saharan Africa,199,Western Sub-Saharan Africa,GHA,GHA,Ghana,Republic of Ghana
+736,1247,1,208,199,"1,166,199,208",3,1,1,736,Guinea,Guinea,Guinea,Guinea,2,admin0,GIN,166,Sub-Saharan Africa,199,Western Sub-Saharan Africa,GIN,GIN,Guinea,Republic of Guinea
+737,1247,1,209,199,"1,166,199,209",3,1,1,737,Guinea-Bissau,Guinea-Bissau,Guinea-Bissau,Guinea-Bissau,2,admin0,GNB,166,Sub-Saharan Africa,199,Western Sub-Saharan Africa,GNB,GNB,Guinea-Bissau,Republic of Guinea-Bissau
+738,1247,1,210,199,"1,166,199,210",3,1,1,738,Liberia,Liberia,Liberia,Liberia,2,admin0,LBR,166,Sub-Saharan Africa,199,Western Sub-Saharan Africa,LBR,LBR,Liberia,Republic of Liberia
+739,1247,1,211,199,"1,166,199,211",3,1,1,739,Mali,Mali,Mali,Mali,2,admin0,MLI,166,Sub-Saharan Africa,199,Western Sub-Saharan Africa,MLI,MLI,Mali,Republic of Mali
+740,1247,1,212,199,"1,166,199,212",3,1,1,740,Mauritania,Mauritania,Mauritania,Mauritania,2,admin0,MRT,166,Sub-Saharan Africa,199,Western Sub-Saharan Africa,MRT,MRT,Mauritania,Islamic Republic of Mauritania
+741,1247,1,213,199,"1,166,199,213",3,1,1,741,Niger,Niger,Niger,Niger,2,admin0,NER,166,Sub-Saharan Africa,199,Western Sub-Saharan Africa,NER,NER,Niger,Republic of the Niger
+742,1247,1,214,199,"1,166,199,214",3,0,1,742,Nigeria,Nigeria,Nigeria,Nigeria,2,admin0,NGA,166,Sub-Saharan Africa,199,Western Sub-Saharan Africa,NGA,NGA,Nigeria,Federal Republic of Nigeria
+743,1247,1,215,199,"1,166,199,215",3,1,1,743,Sao Tome and Principe,Sao Tome and Principe,Sao Tome and Principe,Sao Tome and Principe,2,admin0,STP,166,Sub-Saharan Africa,199,Western Sub-Saharan Africa,STP,STP,São Tomé and Príncipe,Democratic Republic of Sao Tome and Principe
+744,1247,1,216,199,"1,166,199,216",3,1,1,744,Senegal,Senegal,Senegal,Senegal,2,admin0,SEN,166,Sub-Saharan Africa,199,Western Sub-Saharan Africa,SEN,SEN,Senegal,Republic of Senegal
+745,1247,1,217,199,"1,166,199,217",3,1,1,745,Sierra Leone,Sierra Leone,Sierra Leone,Sierra Leone,2,admin0,SLE,166,Sub-Saharan Africa,199,Western Sub-Saharan Africa,SLE,SLE,Sierra Leone,Republic of Sierra Leone
+746,1247,1,218,199,"1,166,199,218",3,1,1,746,Togo,Togo,Togo,Togo,2,admin0,TGO,166,Sub-Saharan Africa,199,Western Sub-Saharan Africa,TGO,TGO,Togo,Togolese Republic
