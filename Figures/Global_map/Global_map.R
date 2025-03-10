@@ -25,11 +25,11 @@ user_dir <- "path/to/code/directory/"
 input_data <- fread(paste0(user_dir, "external_publications/Figures/Global_map/Inputs/sample_data.csv"))
 ##OR
 ## Update with path to your input data
-input_data <- fread("path/to/input/data.csv")
+#input_data <- fread("path/to/input/data.csv")
 
 ## OUTPUT DIRECTORY
 ## Update with path to output directory for final figure
-out_dir <- 'path/to/output/directory/'
+out_dir <- "path/to/output/directory/"
 output_filepath <- paste0(out_dir, "Global_map.pdf")
 
 ## ---------------------------------------------------------------------------------------------------------
@@ -57,7 +57,7 @@ plot <- ggplot(map) +
     geom_sf(data = disputed, linetype = 2, fill = NA, show.legend = F) +
     theme_void() +
       scale_fill_distiller('', palette = "RdYlBu") +
-    ggtitle('All-cause DALYs per 100,000, Both sexes, All ages, 2021') +
+    ggtitle('All-cause DALYs per 100,000, Both sexes, All ages, 2021') + # Update figure name as needed
     theme(  legend.position = 'bottom',
             legend.text = element_text(size = 12),
             legend.key.width = unit(3, 'cm'))

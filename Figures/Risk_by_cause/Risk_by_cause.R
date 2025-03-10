@@ -31,7 +31,7 @@ user_repo <- "path/to/code/directory/"
 input_data <- fread(paste0(user_repo, "external_publications/Figures/Risk_by_cause/input/sample_data.csv"))
 ## OR 
 ## Update with path to your input data
-input_data <- fread("path/to/input/data.csv")
+#input_data <- fread("path/to/input/data.csv")
 
 ## OUTPUT DIRECTORY
 ## Update with path to output directory for final figure
@@ -41,6 +41,7 @@ output_filepath <- paste0(out_dir, "Level_2_risks_by_cause.pdf")
 ## -----------------------------------------------------------------------------
 
 ## Hierarchies
+## Update with appropriate hierarchies for the GBD round
 risks <- fread(paste0(user_repo, "/external_publications/hierarchies/risk_GBD2021.csv"))
 causes <- fread(paste0(user_repo, "/external_publications/hierarchies/cause_GBD2021.csv"))
 hist_colors <- fread(paste0(user_repo, "/external_publications/Figures/Risk_by_cause/input/hist_colors.csv"))
@@ -85,7 +86,7 @@ lvl2_plot <- ggplot(df_lvl2,
   scale_fill_manual(values = colors) + # build colors according to causes
   xlab(NULL) + # remove labels for risks
   ylab("DALY Numbers") + # label for your measure and metric
-  ggtitle(paste0("Global Risk Attibutable Deaths, Both sexes, All ages, 2021")) +
+  ggtitle(paste0("Global Risk Attibutable Deaths, Both sexes, All ages, 2021")) + #Update figure name as needed
   
   theme_bw()+
   

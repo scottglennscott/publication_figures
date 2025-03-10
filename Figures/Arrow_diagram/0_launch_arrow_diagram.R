@@ -1,11 +1,18 @@
 rm(list = ls())
 
+if (!("data.table" %in% installed.packages())) {
+  install.packages("data.table")
+}
+
 library(data.table)
 ## Directories and file paths
 
 ## CODE DIRECTORY
 ## Update with location of directory where code folder "external publications" if saved.
 user_repo <-  "/path/to/code/directory/"
+
+## Change working directory to arrow diagram folder
+setwd(paste0(user_repo, 'external_publications/Figures/Arrow_diagram/'))
 
 
 ## INPUT DATA
